@@ -68,7 +68,7 @@ class Facade
             $_SERVER['REQUEST_TIME'] = time();
         }
 
-        $date = date('D M j G:i:s T Y', $_SERVER['REQUEST_TIME']);
+        $date = date('D models j G:i:s T Y', $_SERVER['REQUEST_TIME']);
 
         $dashboard = new Dashboard(
             $this->templatePath,

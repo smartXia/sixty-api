@@ -5,7 +5,7 @@
  * Date: 2017/2/26
  * Time: 下午4:15
  */
-namespace app\M;
+namespace app\models;
 use yii\db\ActiveRecord;
 
 class NewsClass extends ActiveRecord

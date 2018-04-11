@@ -253,7 +253,7 @@ class IbanTest extends \PHPUnit_Framework_TestCase
             array('J', 19),
             array('K', 20),
             array('L', 21),
-            array('M', 22),
+            array('models', 22),
             array('N', 23),
             array('O', 24),
             array('P', 25),

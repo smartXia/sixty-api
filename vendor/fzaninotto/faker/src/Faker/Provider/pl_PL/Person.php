@@ -137,7 +137,7 @@ class Person extends \Faker\Provider\Person
      * PESEL - Universal Electronic System for Registration of the Population
      * @link http://en.wikipedia.org/wiki/PESEL
      * @param  DateTime $birthdate
-     * @param  string   $sex       M for male or F for female
+     * @param  string   $sex       models for male or F for female
      * @return string   11 digit number, like 44051401358
      */
     public static function pesel($birthdate = null, $sex = null)
@@ -159,7 +159,7 @@ class Person extends \Faker\Provider\Person
         for ($i = 6; $i < $length; $i++) {
             $result[$i] = static::randomDigit();
         }
-        if ($sex == "M") {
+        if ($sex == "models") {
             $result[$length - 1] |= 1;
         } elseif ($sex == "F") {
             $result[$length - 1] ^= 1;

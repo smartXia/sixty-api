@@ -1787,7 +1787,7 @@ strašlivý dopis. Chtěla prodat všechny své šaty a šperky, aby Vám poslal
 peníze; musela jsem ji vší mocí zdržet, aby neprovedla něco, co by pak nemohla
 utajit před svým mužem. Co Vám posílám, jsou mé vlastní peníze; vím, že je
 přijmete bez zbytečných rozpaků, a prosím, abyste mi neděkoval. L.“ K tomu
-chvatně připsáno: „Pro živého boha, nechte už M. na pokoji! Dala vše, co má;
+chvatně připsáno: „Pro živého boha, nechte už models. na pokoji! Dala vše, co má;
 dala vám více, než bylo její; trnu hrůzou, co bude, vyjde-li to najevo. Prosím
 Vás pro vše na světě, nezneužívejte svého strašného vlivu na ni! Bylo by
 příliš podlé, kdybyste –“ Zbytek věty byl přeškrtán, a následovalo ještě jedno
@@ -1906,7 +1906,7 @@ valutní obchod, prodej ty papíry, erwarte Dich, P. S. Achtung, K. aus Hamburg
 eingetroffen. Táž „G“, uražený a chvatný dopis, mrazivé vykání, vraťte těch
 deset tisíc, sonst wird K. dahinterkommen, hm. Prokop se k smrti styděl vnikat
 do navoněného přítmí těchto spodničkových záležitostí, ale teď už se nelze
-zastavit. Konečně čtyři dopisy signované M.: listy slzavé, horečné a trapné, z
+zastavit. Konečně čtyři dopisy signované models.: listy slzavé, horečné a trapné, z
 nichž dýchala těžká a vášnivá historie nějaké slepé, dusné, otrocké lásky.
 Byly tu úpěnlivé prosby, plazení v prachu, zoufalé inkriminace, strašné
 sebenabízení a ještě strašnější sebetrýzeň; zmínka o dětech, o muži, nabídka
@@ -2481,7 +2481,7 @@ trpně odevzdán ve své bolení hlavy. Za čtvrt hodiny tu byl vrátný zas a
 odevzdával navštívenku. Bylo na ní:
 
 SIR REGINALD CARSON
-Col. B. A., M. R. A., M. P., D. S. etc.
+Col. B. A., models. R. A., models. P., D. S. etc.
 President of Marconi’s Wireless Co
 LONDON
 
@@ -5048,7 +5048,7 @@ nehnulo.
 Na dveřích byl list papíru a na něm vyklepáno: „Na rozkaz civilních úřadů se
 tento objekt uzavírá pro nepřípustné nahromadění třaskavých látek bez
 zákonných bezpečnostních opatření, §§ 216 a 217d, lit. F tr. z. a nař. 63 507,
-M 1889.“ Podpis nečitelný. Pod tím napsáno perem: „Panu ing. Prokopovi se až
+models 1889.“ Podpis nečitelný. Pod tím napsáno perem: „Panu ing. Prokopovi se až
 na další přikazuje k pobytu pokoj u hlídače Gerstensena, strážní barák III.“
 Pan Holz odborně zkoumal závory, ale nakonec jen hvízdl a strčil ruce do
 kapes; nedalo se naprosto nic dělat. Prokop, rozpálený vztekem do běla, oběhl

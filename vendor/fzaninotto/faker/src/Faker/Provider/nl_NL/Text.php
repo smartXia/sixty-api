@@ -3035,7 +3035,7 @@ waren wij op kantoor. "O, Bekker" zeiden ze tegen elkaar. Welopgevoed
 waren de heeren; de juffrouw van tweehoog zei: "die halvegare",
 daar waren de heeren te welopgevoed voor. En ze waren knap, veel
 knapper dan de juffrouw van tweehoog, wier man lantaarnopsteker was,
-een leuk vak, waar weinig geleerdheid voor noodig is. M'n baas vroeg
+een leuk vak, waar weinig geleerdheid voor noodig is. models'n baas vroeg
 me of ik misschien gedichten maakte. Bekker vond dat zoo'n man dat
 woord eigenlijk niet mocht uitspreken, dat moest niet mogen. "Wat
 zei je tegen hem?" Ik had niks gezegd, ik had maar naar z'n gezicht

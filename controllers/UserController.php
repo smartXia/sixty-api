@@ -6,7 +6,7 @@
  * Time: 下午5:44
  */
 namespace app\controllers;
-use app\M\News;
+use app\models\News;
 use yii\rest\ActiveController;
 use yii\web\Controller;
 use yii\web\Response;

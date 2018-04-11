@@ -308,7 +308,7 @@ GHERKIN;
 
     {$keyword}:
       | agent1 | agent2 |
-      | D      | M      |
+      | D      | models      |
 
 GHERKIN;
 

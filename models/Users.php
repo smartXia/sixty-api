@@ -5,7 +5,7 @@
  * Date: 2017/2/26
  * Time: 下午5:22
  */
-namespace app\M;
+namespace app\models;
 use yii\db\ActiveRecord;
 
 class Users extends ActiveRecord

@@ -617,7 +617,7 @@ abstract class BaseMigrateController extends Controller
         if ($namespace === null) {
             $class = 'm' . gmdate('ymd_His') . '_' . $name;
         } else {
-            $class = 'M' . gmdate('ymdHis') . ucfirst($name);
+            $class = 'models' . gmdate('ymdHis') . ucfirst($name);
         }
 
         return [$namespace, $class];

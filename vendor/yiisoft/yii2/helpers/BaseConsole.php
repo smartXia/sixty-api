@@ -478,7 +478,7 @@ class BaseConsole
      *      %g %G %2    green     bold green      green
      *      %y %Y %3    yellow    bold yellow     yellow
      *      %b %B %4    blue      bold blue       blue
-     *      %m %M %5    magenta   bold magenta    magenta
+     *      %m %models %5    magenta   bold magenta    magenta
      *      %p %P       magenta (think: purple)
      *      %c %C %6    cyan      bold cyan       cyan
      *      %w %W %7    white     bold white      white
@@ -518,7 +518,7 @@ class BaseConsole
             '%B' => [self::FG_BLUE, self::BOLD],
             '%R' => [self::FG_RED, self::BOLD],
             '%P' => [self::FG_PURPLE, self::BOLD],
-            '%M' => [self::FG_PURPLE, self::BOLD],
+            '%models' => [self::FG_PURPLE, self::BOLD],
             '%C' => [self::FG_CYAN, self::BOLD],
             '%W' => [self::FG_GREY, self::BOLD],
             '%K' => [self::FG_BLACK, self::BOLD],

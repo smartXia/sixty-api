@@ -70,7 +70,7 @@ Feature: Internal operations
 
     (Examples|Scenarios):
       | agent1 | agent2 |
-      | D      | M      |
+      | D      | models      |
 GHERKIN;
 
         $this->assertEquals($etalon, $dumped);
@@ -108,7 +108,7 @@ GHERKIN;
 
     Значения:
       | agent1 | agent2 |
-      | D      | M      |
+      | D      | models      |
 GHERKIN;
 
         $this->assertEquals($etalon, $dumped);
@@ -149,7 +149,7 @@ GHERKIN;
 
     <keyword>Значения</keyword>:
       | agent1 | agent2 |
-      | D      | M      |
+      | D      | models      |
 GHERKIN;
 
         $this->assertEquals($etalon, $dumped);
@@ -198,7 +198,7 @@ GHERKIN;
 
     Значения:
       | agent1 | agent2 |
-      | D      | M      |
+      | D      | models      |
 
   Аутлайн: Erasing other agents' memory
     Допустим there is agent <agent1>
@@ -210,7 +210,7 @@ GHERKIN;
 
     Значения:
       | agent1 | agent2 |
-      | D      | M      |
+      | D      | models      |
 GHERKIN
             , <<<GHERKIN
 # language: ru
@@ -249,7 +249,7 @@ GHERKIN
 
     Значения:
       | agent1 | agent2 |
-      | D      | M      |
+      | D      | models      |
 
   Аутлайн: Erasing other agents' memory
     Допустим there is agent <agent1>
@@ -261,7 +261,7 @@ GHERKIN
 
     Значения:
       | agent1 | agent2 |
-      | D      | M      |
+      | D      | models      |
 GHERKIN
         );
 

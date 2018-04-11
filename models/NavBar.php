@@ -5,7 +5,7 @@
  * Date: 2017/8/30
  * Time: 下午10:57
  */
-namespace app\m;
+namespace app\models;
 use yii\db\ActiveRecord;
 
 class NavBar extends ActiveRecord

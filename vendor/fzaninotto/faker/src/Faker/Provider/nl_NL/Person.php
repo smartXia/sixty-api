@@ -27,7 +27,7 @@ class Person extends \Faker\Provider\Person
     );
 
     private static $suffix = array(
-        'BA', 'Bsc', 'LLB', 'LLM', 'MA', 'Msc', 'MPhil', 'D', 'PhD', 'AD', 'B', 'M'
+        'BA', 'Bsc', 'LLB', 'LLM', 'MA', 'Msc', 'MPhil', 'D', 'PhD', 'AD', 'B', 'models'
     );
 
     protected static $commonDutchLastNames = array(

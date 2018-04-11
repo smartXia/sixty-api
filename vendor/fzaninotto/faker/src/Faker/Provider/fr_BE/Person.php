@@ -43,7 +43,7 @@ class Person extends \Faker\Provider\Person
         'Verhoeven', 'Verlinden', 'Vermeersch', 'Vermeiren', 'Vermeulen', 'Verschueren', 'Verstraete', 'Verstraeten', 'Vervoort', 'Wauters', 'Willems', 'Wouters', 'Wuyts', 'Yildirim', 'Yilmaz'
     );
 
-    protected static $titleMale = array('M.', 'Dr.', 'Pr.', 'Me.', 'Mgr');
+    protected static $titleMale = array('models.', 'Dr.', 'Pr.', 'Me.', 'Mgr');
 
     protected static $titleFemale = array('Mme.', 'Mlle', 'Dr.', 'Pr.', 'Me.');
 }

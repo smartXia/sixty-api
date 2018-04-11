@@ -6,7 +6,7 @@
  * Time: 下午5:44
  */
 namespace app\controllers;
-use app\M\News;
+use app\models\News;
 use yii\rest\ActiveController;
 use yii\web\Controller;
 use yii\web\Response;
@@ -26,7 +26,7 @@ class NewsController extends ActiveController
     }
     function actionDo()
     {
-        $news = new News();
+        $news = $this-> modelClass;
         var_export($news::find()->joinWith("newsClass")->all()[0]);
 
     }

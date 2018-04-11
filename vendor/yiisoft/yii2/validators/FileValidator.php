@@ -329,7 +329,7 @@ class FileValidator extends Validator
     private function sizeToBytes($sizeStr)
     {
         switch (substr($sizeStr, -1)) {
-            case 'M':
+            case 'models':
             case 'm':
                 return (int) $sizeStr * 1048576;
             case 'K':

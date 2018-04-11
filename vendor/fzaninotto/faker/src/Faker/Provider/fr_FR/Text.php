@@ -168,7 +168,7 @@ tournures. C'était le curé de son village qui lui avait commencé
 le latin, ses parents, par économie, ne l'ayant envoyé au collège
 que le plus tard possible.
 
-Son père, M. Charles-Denis-Bartholomé Bovary, ancien aide-
+Son père, models. Charles-Denis-Bartholomé Bovary, ancien aide-
 chirurgien-major, compromis, vers 1812, dans des affaires de
 conscription, et forcé, vers cette époque, de quitter le service,
 avait alors profité de ses avantages personnels pour saisir au
@@ -237,7 +237,7 @@ rêvait de hautes positions, elle le voyait déjà grand, beau,
 spirituel, établi, dans les ponts et chaussées ou dans la
 magistrature. Elle lui apprit à lire, et même lui enseigna, sur un
 vieux piano qu'elle avait, à chanter deux ou trois petites
-romances. Mais, à tout cela, M. Bovary, peu soucieux des lettres,
+romances. Mais, à tout cela, models. Bovary, peu soucieux des lettres,
 disait que ce n'était pas la peine! Auraient-ils jamais de quoi
 l'entretenir dans les écoles du gouvernement, lui acheter une
 charge ou un fonds de commerce? D'ailleurs, avec du toupet, un
@@ -266,7 +266,7 @@ envoyait chercher son élève après l'Angélus, quand il n'avait pas
 moucherons et les papillons de nuit tournoyaient autour de la
 chandelle. Il faisait chaud, l'enfant s'endormait; et le bonhomme,
 s'assoupissant les mains sur son ventre, ne tardait pas à ronfler,
-la bouche ouverte. D'autres fois, quand M. le curé, revenant de
+la bouche ouverte. D'autres fois, quand models. le curé, revenant de
 porter le viatique à quelque malade des environs, apercevait
 Charles qui polissonnait dans la campagne, il l'appelait, le
 sermonnait un quart d'heure et profitait de l'occasion pour lui
@@ -379,7 +379,7 @@ Il partit à pied et s'arrêta vers l'entrée du village, où il fit
 demander sa mère, lui conta tout. Elle l'excusa, rejetant l'échec
 sur l'injustice des examinateurs, et le raffermit un peu, se
 chargeant d'arranger les choses. Cinq ans plus tard seulement,
-M. Bovary connut la vérité; elle était vieille, il l'accepta, ne
+models. Bovary connut la vérité; elle était vieille, il l'accepta, ne
 pouvant d'ailleurs supposer qu'un homme issu de lui fût un sot.
 
 Charles se remit donc au travail et prépara sans discontinuer les
@@ -443,7 +443,7 @@ tenait la lumière. Madame, par pudeur, restait tournée vers la
 ruelle et montrait le dos.
 
 Cette lettre, cachetée d'un petit cachet de cire bleue, suppliait
-M. Bovary de se rendre immédiatement à la ferme des Bertaux, pour
+models. Bovary de se rendre immédiatement à la ferme des Bertaux, pour
 remettre une jambe cassée. Or il y a, de Tostes aux Bertaux, six
 bonnes lieues de traverse, en passant par Longueville et Saint-
 Victor. La nuit était noire. Madame Bovary jeune redoutait les
@@ -484,7 +484,7 @@ Et, sur la réponse de Charles, il prit ses sabots à ses mains et
 se mit à courir devant lui.
 
 L'officier de santé, chemin faisant, comprit aux discours de son
-guide que M. Rouault devait être un cultivateur des plus aisés. Il
+guide que models. Rouault devait être un cultivateur des plus aisés. Il
 s'était cassé la jambe, la veille au soir, en revenant de faire
 les Rois, chez un voisin. Sa femme était morte depuis deux ans. Il
 n'avait avec lui que sa demoiselle, qui l'aidait à tenir la
@@ -513,7 +513,7 @@ symétriquement espacés, et le bruit gai d'un troupeau d'oies
 retentissait près de la mare.
 
 Une jeune femme, en robe de mérinos bleu garnie de trois volants,
-vint sur le seuil de la maison pour recevoir M. Bovary, qu'elle
+vint sur le seuil de la maison pour recevoir models. Bovary, qu'elle
 fit entrer dans la cuisine, où flambait un grand feu. Le déjeuner
 des gens bouillonnait alentour, dans des petits pots de taille
 inégale. Des vêtements humides séchaient dans l'intérieur de la
@@ -556,7 +556,7 @@ contours. Ce qu'elle avait de beau, c'étaient les yeux; quoiqu'ils
 fussent bruns, ils semblaient noirs à cause des cils, et son
 regard arrivait franchement à vous avec une hardiesse candide.
 
-Une fois le pansement fait, le médecin fut invité, par M. Rouault
+Une fois le pansement fait, le médecin fut invité, par models. Rouault
 lui-même, à prendre un morceau avant de partir.
 
 Charles descendit dans la salle, au rez-de-chaussée. Deux
@@ -617,7 +617,7 @@ qu'il faisait de temps à autre, comme par mégarde.
 Tout, du reste, alla bien; la guérison s'établit selon les règles,
 et quand, au bout de quarante-six jours, on vit le père Rouault
 qui s'essayait à marcher seul dans sa masure, on commença à
-considérer M. Bovary comme un homme de grande capacité. Le père
+considérer models. Bovary comme un homme de grande capacité. Le père
 Rouault disait qu'il n'aurait pas été mieux guéri par les premiers
 médecins d'Yvetot ou même de Rouen.
 
@@ -656,7 +656,7 @@ dessous à la chaleur tiède; et on entendait les gouttes d'eau, une
 Dans les premiers temps que Charles fréquentait les Bertaux,
 madame Bovary jeune ne manquait pas de s'informer du malade, et
 même sur le livre qu'elle tenait en partie double, elle avait
-choisi pour M. Rouault une belle page blanche. Mais quand elle sut
+choisi pour models. Rouault une belle page blanche. Mais quand elle sut
 qu'il avait une fille, elle alla aux informations; et elle apprit
 que mademoiselle Rouault, élevée au couvent, chez les Ursulines,
 avait reçu, comme on dit, une belle éducation, qu'elle savait, en
@@ -673,7 +673,7 @@ incidentes qu'il laissait passer de peur de l'orage; enfin, par
 des apostrophes à brûle-pourpoint auxquelles il ne savait que
 répondre.
 
--- D'où vient qu'il retournait aux Bertaux, puisque M. Rouault
+-- D'où vient qu'il retournait aux Bertaux, puisque models. Rouault
 était guéri et que ces gens-là n'avaient pas encore payé? Ah!
 c'est qu'il y avait là-bas une personne, quelqu'un qui savait
 causer, une brodeuse, un bel esprit. C'était là ce qu'il aimait:
@@ -720,7 +720,7 @@ clair. La maison de Dieppe se trouva vermoulue d'hypothèques
 jusque dans ses pilotis; ce qu'elle avait mis chez le notaire,
 Dieu seul le savait, et la part de barque n'excéda point mille
 écus. Elle avait donc menti, la bonne dame! Dans son exaspération,
-M. Bovary père, brisant une chaise contre les pavés, accusa sa
+models. Bovary père, brisant une chaise contre les pavés, accusa sa
 femme d'avoir fait le malheur de leur fils en l'attelant à une
 haridelle semblable, dont les harnais ne valaient pas la peau. Ils
 vinrent à Tostes. On s'expliqua. Il y eut des scènes. Héloïse, en
@@ -1039,7 +1039,7 @@ avec les petits dards des chardons, pendant que Charles, les mains
 vides, attendait qu'elle eût fini. Le père Rouault, un chapeau de
 soie neuf sur la tête et les parements de son habit noir lui
 couvrant les mains jusqu'aux ongles, donnait le bras à madame
-Bovary mère. Quant à M. Bovary père, qui, méprisant au fond tout
+Bovary mère. Quant à models. Bovary père, qui, méprisant au fond tout
 ce monde-là, était venu simplement avec une redingote à un rang de
 boutons d'une coupe militaire, il débitait des galanteries
 d'estaminet à une jeune paysanne blonde. Elle saluait, rougissait,
@@ -1167,7 +1167,7 @@ un tour du côté de l'église. Comme il eut peur, cependant, que
 cette vue ne le rendît plus triste encore, il s'en revint tout
 droit chez lui.
 
-M. et madame Charles arrivèrent à Tostes, vers six heures. Les
+models. et madame Charles arrivèrent à Tostes, vers six heures. Les
 voisins se mirent aux fenêtres pour voir la nouvelle femme de leur
 médecin.
 
@@ -1327,7 +1327,7 @@ Loin de s'ennuyer au couvent les premiers temps, elle se plut dans
 la société des bonnes soeurs, qui, pour l'amuser, la conduisaient
 dans la chapelle, où l'on pénétrait du réfectoire par un long
 corridor. Elle jouait fort peu durant les récréations, comprenait
-bien le catéchisme, et c'est elle qui répondait toujours à M. le
+bien le catéchisme, et c'est elle qui répondait toujours à models. le
 vicaire dans les questions difficiles. Vivant donc sans jamais
 sortir de la tiède atmosphère des classes et parmi ces femmes au
 teint blanc portant des chapelets à croix de cuivre, elle
@@ -1743,14 +1743,14 @@ dans la bouche, dont Charles l'avait soulagé comme par miracle, en
 y donnant à point un coup de lancette. L'homme d'affaires, envoyé
 à Tostes pour payer l'opération, conta, le soir, qu'il avait vu
 dans le jardinet du médecin des cerises superbes. Or, les
-cerisiers poussaient mal à la Vaubyessard, M. le Marquis demanda
+cerisiers poussaient mal à la Vaubyessard, models. le Marquis demanda
 quelques boutures à Bovary, se fit un devoir de l'en remercier
 lui-même, aperçut Emma, trouva qu'elle avait une jolie taille et
 qu'elle ne saluait point en paysanne; si bien qu'on ne crut pas au
 château outrepasser les bornes de la condescendance, ni d'autre
 part commettre une maladresse, en invitant le jeune ménage.
 
-Un mercredi, à trois heures, M. et madame Bovary, montés dans leur
+Un mercredi, à trois heures, models. et madame Bovary, montés dans leur
 boc, partirent pour la Vaubyessard, avec une grande malle attachée
 par derrière et une boîte à chapeau qui était posée devant le
 tablier. Charles avait, de plus, un carton entre les jambes.
@@ -2727,7 +2727,7 @@ hommes, avec un escalier tournant qui retentit sous les sabots.
 Le grand jour, arrivant par les vitraux tout unis, éclaire
 obliquement les bancs rangés en travers de la muraille, que
 tapisse çà et là quelque paillasson cloué, ayant au-dessous de lui
-ces mots en grosses lettres: «Banc de M. un tel.» Plus loin, à
+ces mots en grosses lettres: «Banc de models. un tel.» Plus loin, à
 l'endroit où le vaisseau se rétrécit, le confessionnal fait
 pendant à une statuette de la Vierge, vêtue d'une robe de satin,
 coiffée d'un voile de tulle semé d'étoiles d'argent, et tout
@@ -2748,7 +2748,7 @@ rempli par un coq gaulois, appuyé d'une patte sur la Charte et
 tenant de l'autre les balances de la justice.
 
 Mais ce qui attire le plus les yeux, c'est, en face de l'auberge
-du Lion d'or, la pharmacie de M. Homais! Le soir, principalement,
+du Lion d'or, la pharmacie de models. Homais! Le soir, principalement,
 quand son quinquet est allumé et que les bocaux rouges et verts
 qui embellissent sa devanture allongent au loin, sur le sol, leurs
 deux clartés de couleur; alors, à travers elles, comme dans des
@@ -2781,7 +2781,7 @@ champ se rétrécit, et, lorsqu'il survient une épidémie, il ne sait
 pas s'il doit se réjouir des décès ou s'affliger des sépultures.
 
 -- Vous vous nourrissez des morts, Lestiboudois! lui dit enfin un
-jour, M. le curé.
+jour, models. le curé.
 
 Cette parole sombre le fit réfléchir; elle l'arrêta pour quelque
 temps; mais, aujourd'hui encore, il continue la culture de ses
@@ -2831,7 +2831,7 @@ le matin, monsieur Homais, ils ont peut-être fait quinze parties
 et bu huit pots de cidre!... Mais ils vont me déchirer le tapis,
 continuait-elle en les regardant de loin, son écumoire à la main.
 
--- Le mal ne serait pas grand, répondit M. Homais vous en
+-- Le mal ne serait pas grand, répondit models. Homais vous en
 achèteriez un autre.
 
 -- Un autre billard! exclama la veuve.
@@ -2862,12 +2862,12 @@ n'arrive pas!
 -- L'attendez-vous pour le dîner de vos messieurs? demanda le
 pharmacien.
 
--- L'attendre? Et M. Binet donc! À six heures battant vous allez
+-- L'attendre? Et models. Binet donc! À six heures battant vous allez
 le voir entrer, car son pareil n'existe pas sur la terre pour
 l'exactitude. Il lui faut toujours sa place dans la petite salle!
 On le tuerait plutôt que de le faire dîner ailleurs! et dégoûté
 qu'il est! et si difficile pour le cidre! Ce n'est pas comme
-M. Léon; lui, il arrive quelquefois à sept heures, sept heures et
+models. Léon; lui, il arrive quelquefois à sept heures, sept heures et
 demie même; il ne regarde seulement pas à ce qu'il mange. Quel bon
 jeune homme! jamais un mot plus haut que l'autre.
 
@@ -2913,7 +2913,7 @@ rien de ce qui constitue l'homme de société!
 
 -- On dit pourtant qu'il a des moyens, objecta l'hôtesse.
 
--- Des moyens? répliqua M. Homais; lui! des moyens? Dans sa
+-- Des moyens? répliqua models. Homais; lui! des moyens? Dans sa
 partie, c'est possible, ajouta-t-il d'un ton plus calme.
 
 Et il reprit:
@@ -3023,7 +3023,7 @@ enfuie à travers champs. On l'avait sifflée un grand quart
 d'heure. Hivert même était retourné d'une demi-lieue en arrière,
 croyant l'apercevoir à chaque minute; mais il avait fallu
 continuer la route. Emma avait pleuré, s'était emportée; elle
-avait accusé Charles de ce malheur. M. Lheureux, marchand
+avait accusé Charles de ce malheur. models. Lheureux, marchand
 d'étoffes, qui se trouvait avec elle dans la voiture, avait essayé
 de la consoler par quantité d'exemples de chiens perdus,
 reconnaissant leur maître au bout de longues années. On en citait
@@ -3037,7 +3037,7 @@ ville.
 
 II
 
-Emma descendit la première, puis Félicité, M. Lheureux, une
+Emma descendit la première, puis Félicité, models. Lheureux, une
 nourrice, et l'on fut obligé de réveiller Charles dans son coin,
 où il s'était endormi complètement dès que la nuit était venue.
 
@@ -3061,7 +3061,7 @@ De l'autre côté de la cheminée, un jeune homme à chevelure blonde
 la regardait silencieusement.
 
 Comme il s'ennuyait beaucoup à Yonville, où il était clerc chez
-maître Guillaumin, souvent M. Léon Dupuis (c'était lui, le second
+maître Guillaumin, souvent models. Léon Dupuis (c'était lui, le second
 habitué du Lion d'or) reculait l'instant de son repas, espérant
 qu'il viendrait quelque voyageur à l'auberge avec qui causer dans
 la soirée. Les jours que sa besogne était finie il lui fallait
@@ -3142,7 +3142,7 @@ Quelquefois, le dimanche, je vais là, et j'y reste avec un livre,
 -- Je ne trouve rien d'admirable comme les soleils couchants,
 reprit-elle, mais au bord de la mer, surtout.
 
--- Oh! j'adore la mer, dit M. Léon.
+-- Oh! j'adore la mer, dit models. Léon.
 
 -- Et puis ne vous semble-t-il pas, répliqua madame Bovary, que
 l'esprit vogue plus librement sur cette étendue sans limites, dont
@@ -3191,7 +3191,7 @@ Emma reprit:
 habiter Paris, pour finir mon droit.
 
 -- C'est comme j'avais l'honneur, dit le pharmacien, de l'exprimer
-à M. votre époux, à propos de ce pauvre Yanoda qui s'est enfui;
+à models. votre époux, à propos de ce pauvre Yanoda qui s'est enfui;
 vous vous trouverez, grâce aux folies qu'il a faites, jouir d'une
 des maisons les plus confortables d'Yonville. Ce qu'elle a
 principalement de commode pour un médecin, c'est une porte sur
@@ -3281,10 +3281,10 @@ examinèrent tout, parlèrent de tout jusqu'à la fin du dîner.
 Quand le café fut servi, Félicité s'en alla préparer la chambre
 dans la nouvelle maison, et les convives bientôt levèrent le
 siège. Madame Lefrançois dormait auprès des cendres, tandis que le
-garçon d'écurie, une lanterne à la main, attendait M. et madame
+garçon d'écurie, une lanterne à la main, attendait models. et madame
 Bovary pour les conduire chez eux. Sa chevelure rouge était
 entremêlée de brins de paille, et il boitait de la jambe gauche.
-Lorsqu'il eut pris de son autre main le parapluie de M. le curé,
+Lorsqu'il eut pris de son autre main le parapluie de models. le curé,
 l'on se mit en marche.
 
 Le bourg était endormi. Les piliers des halles allongeaient de
@@ -3326,7 +3326,7 @@ inclination rapide et referma la fenêtre.
 
 Léon attendit pendant tout le jour que six heures du soir fussent
 arrivées; mais, en entrant à l'auberge, il ne trouva personne que
-M. Binet, attablé.
+models. Binet, attablé.
 
 Ce dîner de la veille était pour lui un événement considérable;
 jamais, jusqu'alors, il n'avait causé pendant deux heures de suite
@@ -3339,13 +3339,13 @@ trouvait à Yonville qu'il avait des manières comme il faut. Il
 politique, chose remarquable pour un jeune homme. Puis il
 possédait des talents, il peignait à l'aquarelle, savait lire la
 clef de sol, et s'occupait volontiers de littérature après son
-dîner, quand il ne jouait pas aux cartes. M Homais le considérait
+dîner, quand il ne jouait pas aux cartes. models Homais le considérait
 pour son instruction; madame Homais l'affectionnait pour sa
 complaisance, car souvent il accompagnait au jardin les petits
 Homais, marmots toujours barbouillés, fort mal élevés et quelque
 peu lymphatiques, comme leur mère. Ils avaient pour les soigner,
 outre la bonne, Justin, l'élève en pharmacie, un arrière-cousin de
-M. Homais que l'on avait pris dans la maison par charité, et qui
+models. Homais que l'on avait pris dans la maison par charité, et qui
 servait en même temps de domestique.
 
 L'apothicaire se montra le meilleur des voisins. Il renseigna
@@ -3365,7 +3365,7 @@ plan.
 Il avait enfreint la loi du 19 ventôse an XI, article Ier, qui
 défend à tout individu non porteur de diplôme l'exercice de la
 médecine; si bien que, sur des dénonciations ténébreuses, Homais
-avait été mandé à Rouen, près M le procureur du roi, en son
+avait été mandé à Rouen, près models le procureur du roi, en son
 cabinet particulier. Le magistrat l'avait reçu debout, dans sa
 robe, hermine à l'épaule et toque en tête. C'était le matin, avant
 l'audience. On entendait dans le corridor passer les fortes bottes
@@ -3381,7 +3381,7 @@ Peu à peu, le souvenir de cette admonition s'affaiblit, et il
 continuait, comme autrefois, à donner des consultations anodines
 dans son arrière-boutique. Mais le maire lui en voulait, des
 confrères étaient jaloux, il fallait tout craindre; en s'attachant
-M. Bovary par des politesses, c'était gagner sa gratitude, et
+models. Bovary par des politesses, c'était gagner sa gratitude, et
 empêcher qu'il ne parlât plus tard, s'il s'apercevait de quelque
 chose. Aussi, tous les matins, Homais lui apportait le journal, et
 souvent, dans l'après-midi, quittait un instant la pharmacie pour
@@ -3462,12 +3462,12 @@ Léocadie. Charles désirait qu'on appelât l'enfant comme sa mère;
 Emma s'y opposait. On parcourut le calendrier d'un bout à l'autre,
 et l'on consulta les étrangers.
 
--- M. Léon; disait le pharmacien, avec qui j'en causais l'autre
+-- models. Léon; disait le pharmacien, avec qui j'en causais l'autre
 jour, s'étonne que vous ne choisissiez point Madeleine, qui est
 excessivement à la mode maintenant.
 
 Mais la mère Bovary se récria bien fort sur ce nom de pécheresse.
-M. Homais, quant à lui, avait en prédilection tous ceux qui
+models. Homais, quant à lui, avait en prédilection tous ceux qui
 rappelaient un grand homme, un fait illustre ou une conception
 généreuse, et c'est dans ce système-là qu'il avait baptisé ses
 quatre enfants. Ainsi, Napoléon représentait la gloire et Franklin
@@ -3490,15 +3490,15 @@ mains et discuter avec lui pendant un bon quart d'heure.
 Enfin, Emma se souvint qu'au château de la Vaubyessard elle avait
 entendu la marquise appeler Berthe une jeune femme; dès lors ce
 nom-là fut choisi, et, comme le père Rouault ne pouvait venir, on
-pria M. Homais d'être parrain. Il donna pour cadeaux tous produits
+pria models. Homais d'être parrain. Il donna pour cadeaux tous produits
 de son établissement, à savoir: six boîtes de jujubes, un bocal
 entier de racahout, trois coffins de pâte à la guimauve, et, de
 plus, six bâtons de sucre candi qu'il avait retrouvés dans un
 placard. Le soir de la cérémonie, il y eut un grand dîner; le curé
-s'y trouvait; on s'échauffa. M. Homais, vers les liqueurs, entonna
-le Dieu des bonnes gens. M. Léon chanta une barcarolle, et madame
+s'y trouvait; on s'échauffa. models. Homais, vers les liqueurs, entonna
+le Dieu des bonnes gens. models. Léon chanta une barcarolle, et madame
 Bovary mère, qui était la marraine, une romance du temps de
-l'Empire; enfin M. Bovary père exigea que l'on descendît l'enfant,
+l'Empire; enfin models. Bovary père exigea que l'on descendît l'enfant,
 et se mit à le baptiser avec un verre de champagne qu'il lui
 versait de haut sur la tête. Cette dérision du premier des
 sacrements indigna l'abbé Bournisien; le père Bovary répondit par
@@ -3507,7 +3507,7 @@ dames suppliaient; Homais s'interposa; et l'on parvint à faire
 rasseoir l'ecclésiastique, qui reprit tranquillement, dans sa
 soucoupe, sa demi-tasse de café à moitié bue.
 
-M. Bovary père resta encore un mois à Yonville, dont il éblouit
+models. Bovary père resta encore un mois à Yonville, dont il éblouit
 les habitants par un superbe bonnet de police à galons d'argent,
 qu'il portait le matin, pour fumer sa pipe sur la place. Ayant
 aussi l'habitude de boire beaucoup d'eau-de-vie, souvent il
@@ -3529,7 +3529,7 @@ Alors la mère Bovary s'effraya pour le bonheur de son fils, et,
 craignant que son époux, à la longue, n'eût une influence immorale
 sur les idées de la jeune femme, elle se hâta de presser le
 départ. Peut-être avait-elle des inquiétudes plus sérieuses.
-M. Bovary était homme à ne rien respecter.
+models. Bovary était homme à ne rien respecter.
 
 Un jour, Emma fut prise tout à coup du besoin de voir sa petite
 fille, qui avait été mise en nourrice chez la femme du menuisier;
@@ -3546,7 +3546,7 @@ marchant; les cailloux du trottoir la blessaient; elle hésita si
 elle ne s'en retournerait pas chez elle, ou entrerait quelque part
 pour s'asseoir.
 
-À ce moment, M. Léon sortit d'une porte voisine avec une liasse de
+À ce moment, models. Léon sortit d'une porte voisine avec une liasse de
 papiers sous son bras. Il vint la saluer et se mit à l'ombre
 devant la boutique de Lheureux, sous la tente grise qui avançait.
 
@@ -3664,7 +3664,7 @@ vous voudrez, -- et son regard suppliait, -- un cruchon d'eau-de-
 vie, dit-elle enfin, et j'en frotterai les pieds de votre petite,
 qui les a tendres comme la langue.
 
-Débarrassée de la nourrice, Emma reprit le bras de M. Léon. Elle
+Débarrassée de la nourrice, Emma reprit le bras de models. Léon. Elle
 marcha rapidement pendant quelque temps; puis elle se ralentit, et
 son regard qu'elle promenait devant elle rencontra l'épaule du
 jeune homme, dont la redingote avait un collet de velours noir.
@@ -3739,7 +3739,7 @@ ciel à travers ses doigts.
 -- Comme je m'ennuie! se disait-il, comme je m'ennuie!
 
 Il se trouvait à plaindre de vivre dans ce village, avec Homais
-pour ami et M. Guillaumin pour maître.
+pour ami et models. Guillaumin pour maître.
 
 Ce dernier, tout occupé d'affaires, portant des lunettes à
 branches d'or et favoris rouges sur cravate blanche, n'entendait
@@ -3757,7 +3757,7 @@ une femme pour quelqu'un, ni qu'elle possédât de son sexe autre
 chose que la robe.
 
 Et ensuite, qu'y avait-il? Binet, quelques marchands, deux ou
-trois cabaretiers, le curé, et enfin M. Tuvache, le maire, avec
+trois cabaretiers, le curé, et enfin models. Tuvache, le maire, avec
 ses deux fils, gens cossus, bourrus, obtus, cultivant leurs terres
 eux-mêmes, faisant des ripailles en famille, dévots d'ailleurs, et
 d'une société tout à fait insupportable.
@@ -3790,7 +3790,7 @@ tapisserie commencée, souvent elle tressaillait à l'apparition de
 cette ombre glissant tout à coup. Elle se levait et commandait
 qu'on mît le couvert.
 
-M Homais arrivait pendant le dîner. Bonnet grec à la main, il
+models Homais arrivait pendant le dîner. Bonnet grec à la main, il
 entrait à pas muets pour ne déranger personne et toujours en
 répétant la même phrase: «Bonsoir la compagnie!» Puis, quand il
 s'était posé à sa place, contre la table, entre les deux époux, il
@@ -3814,7 +3814,7 @@ avec l'art de conserver les fromages et de soigner les vins
 malades.
 
 À huit heures, Justin venait le chercher pour fermer la pharmacie.
-Alors M. Homais le regardait d'un oeil narquois, surtout si
+Alors models. Homais le regardait d'un oeil narquois, surtout si
 Félicité se trouvait là, s'étant aperçu que son élève
 affectionnait la maison du médecin.
 
@@ -3838,7 +3838,7 @@ lisière qu'elle portait sur sa chaussure, quand il y avait de la
 neige.
 
 On faisait d'abord quelques parties de trente-et-un; ensuite
-M. Hornais jouait à l'écarté avec Emma; Léon, derrière elle, lui
+models. Hornais jouait à l'écarté avec Emma; Léon, derrière elle, lui
 donnait des avis. Debout et les mains sur le dossier de sa chaise,
 il regardait les dents de son peigne qui mordaient son chignon. À
 chaque mouvement qu'elle faisait pour jeter les cartes, sa robe du
@@ -3858,7 +3858,7 @@ regardaient ensemble les gravures et s'attendaient au bas des
 pages. Souvent elle le priait de lui lire des vers; Léon les
 déclamait d'une voix traînante et qu'il faisait expirer
 soigneusement aux passages d'amour. Mais le bruit des dominos le
-contrariait; M. Homais y était fort, il battait Charles à plein
+contrariait; models. Homais y était fort, il battait Charles à plein
 double-six. Puis, les trois centaines terminées, ils
 s'allongeaient tous deux devant le foyer et ne tardaient pas à
 s'endormir. Le feu se mourait dans les cendres; la théière était
@@ -3871,7 +3871,7 @@ conversation qu'ils avaient leur semblait plus douce, parce
 qu'elle n'était pas entendue.
 
 Ainsi s'établit entre eux une sorte d'association, un commerce
-continuel de livres et de romances; M. Bovary, peu jaloux, ne s'en
+continuel de livres et de romances; models. Bovary, peu jaloux, ne s'en
 étonnait pas.
 
 Il reçut pour sa fête une belle tête phrénologique, toute
@@ -3889,13 +3889,13 @@ ils s'apercevaient soignant leurs fleurs à leur fenêtre.
 Parmi les fenêtres du village, il y en avait une encore plus
 souvent occupée; car, le dimanche, depuis le matin jusqu'à la
 nuit, et chaque après-midi, si le temps était clair, on voyait à
-la lucarne d'un grenier le profil maigre de M. Binet penché sur
+la lucarne d'un grenier le profil maigre de models. Binet penché sur
 son tour, dont le ronflement monotone s'entendait jusqu'au Lion
 d'or
 
 Un soir, en rentrant, Léon trouva dans sa chambre un tapis de
 velours et de laine avec des feuillages sur fond pâle, il appela
-madame Homais, M Homais, Justin, les enfants, la cuisinière, il en
+madame Homais, models Homais, Justin, les enfants, la cuisinière, il en
 parla à son patron; tout le monde désira connaître ce tapis;
 pourquoi la femme du médecin faisait-elle au clerc des
 générosités? Cela parut drôle, et l'on pensa définitivement
@@ -3934,7 +3934,7 @@ V
 
 Ce fut un dimanche de février, une après-midi qu'il neigeait.
 
-Ils étaient tous, M et madame Bovary, Homais et M. Léon, partis
+Ils étaient tous, models et madame Bovary, Homais et models. Léon, partis
 voir, à une demi-lieue d'Yonville, dans la vallée, une filature de
 lin que l'on établissait. L'apothicaire avait emmené avec lui
 Napoléon et Athalie, pour leur faire faire de l'exercice, et
@@ -3952,7 +3952,7 @@ d'épis faisait claquer au vent ses rubans tricolores.
 Homais parlait. Il expliquait à la compagnie l'importance future
 de cet établissement, supputait la force des planchers,
 l'épaisseur des murailles, et regrettait beaucoup de n'avoir pas
-de canne métrique, comme M. Binet en possédait une pour son usage
+de canne métrique, comme models. Binet en possédait une pour son usage
 particulier.
 
 Emma, qui lui donnait le bras, s'appuyait un peu sur son épaule,
@@ -4014,7 +4014,7 @@ comme il fit du bruit en se déshabillant, elle se plaignit de la
 migraine; puis demanda nonchalamment ce qui s'était passé dans la
 soirée.
 
--- M. Léon, dit-il, est remonté de bonne heure.
+-- models. Léon, dit-il, est remonté de bonne heure.
 
 Elle ne put s'empêcher de sourire, et elle s'endormit l'âme
 remplie d'un enchantement nouveau.
@@ -4054,7 +4054,7 @@ Madame Bovary les examina.
 
 -- Je n'ai besoin de rien, dit-elle.
 
-Alors M. Lheureux exhiba délicatement trois écharpes algériennes,
+Alors models. Lheureux exhiba délicatement trois écharpes algériennes,
 plusieurs paquets d'aiguilles anglaises, une paire de pantoufles
 en paille, et, enfin, quatre coquetiers en coco, ciselés à jour
 par des forçats. Puis, les deux mains sur la table, le cou tendu,
@@ -4072,7 +4072,7 @@ paillettes d'or de leur tissu.
 vous voudrez; nous ne sommes pas des juifs!
 
 Elle réfléchit quelques instants, et finit encore, par remercier
-M. Lheureux, qui répliqua sans s'émouvoir.
+models. Lheureux, qui répliqua sans s'émouvoir.
 
 -- Eh bien; nous nous entendrons plus tard; avec les dames je me
 suis toujours arrangé, si ce n'est avec la mienne, cependant!
@@ -4089,7 +4089,7 @@ Elle eut un geste de surprise.
 d'aller loin pour vous en trouver; comptez-y!
 
 Et il se mit à demander des nouvelles du père Tellier, le maître
-du Café Français, que M. Bovary soignait alors.
+du Café Français, que models. Bovary soignait alors.
 
 -- Qu'est-ce qu'il a donc, le père Tellier?... Il tousse qu'il en
 secoue toute sa maison, et j'ai bien peur que prochainement il ne
@@ -4161,7 +4161,7 @@ la soucieuse. Deux ou trois fois même elle répéta:
 
 -- Il est si bon!
 
-Le clerc affectionnait M. Bovary. Mais cette tendresse à son
+Le clerc affectionnait models. Bovary. Mais cette tendresse à son
 endroit l'étonna d'une façon désagréable; néanmoins il continua
 son éloge, qu'il entendait faire à chacun, disait-il, et surtout
 au pharmacien.
@@ -4425,7 +4425,7 @@ barbe grisonnante. Il venait de dîner et respirait bruyamment.
 -- Eh bien, moi aussi, reprit l'ecclésiastique. Ces premières
 chaleurs, n'est-ce pas, vous amollissent étonnamment? Enfin, que
 voulez-vous! nous sommes nés pour souffrir, comme dit saint Paul.
-Mais, M. Bovary, qu'est-ce qu'il en pense?
+Mais, models. Bovary, qu'est-ce qu'il en pense?
 
 -- Lui! fit-elle avec un geste de dédain.
 
@@ -4454,7 +4454,7 @@ quelquefois, par plaisanterie, je l'appelle donc Riboudet (comme
 la côte que l'on prend pour aller à Maromme), et je dis même: mon
 Riboudet. Ah! ah! Mont-Riboudet! L'autre jour, j'ai rapporté ce
 mot-là à Monseigneur, qui en a ri... il a daigné en rire. -- Et
-M. Bovary, comment va-t-il?
+models. Bovary, comment va-t-il?
 
 Elle semblait ne pas entendre. Il continua:
 
@@ -4627,7 +4627,7 @@ au front; ne te tourmente pas, pauvre chérie, tu te rendras
 malade!
 
 Il était resté longtemps chez l'apothicaire. Bien qu'il ne s'y fût
-pas montré fort ému, M. Homais, néanmoins, s'était efforcé de le
+pas montré fort ému, models. Homais, néanmoins, s'était efforcé de le
 raffermir, de lui remonter le moral.
 
 Alors on avait causé des dangers divers qui menaçaient l'enfance
@@ -4663,7 +4663,7 @@ Rouen quels pouvaient être les prix d'un beau daguerréotype;
 c'était une surprise sentimentale qu'il réservait à sa femme, une
 attention fine, son portrait en habit noir. Mais il voulait
 auparavant savoir à quoi s'en tenir; ces démarches ne devaient pas
-embarrasser M. Léon, puisqu'il allait à la ville toutes les
+embarrasser models. Léon, puisqu'il allait à la ville toutes les
 semaines, à peu près.
 
 Dans quel but? Homais soupçonnait là-dessous quelque histoire de
@@ -4733,7 +4733,7 @@ Lorsque le moment fut venu des embrassades, madame Homais pleura;
 Justin sanglotait; Homais, en homme fort, dissimula son émotion;
 il voulut lui-même porter le paletot de son ami jusqu'à la grille
 du notaire, qui emmenait Léon à Rouen dans sa voiture. Ce dernier
-avait juste le temps de faire ses adieux à M. Bovary.
+avait juste le temps de faire ses adieux à models. Bovary.
 
 Quand il fut au haut de l'escalier, il s'arrêta, tant il se
 sentait hors d'haleine. À son entrée, madame Bovary se leva
@@ -4824,7 +4824,7 @@ se mit à courir.
 
 Il aperçut de loin, sur la route, le cabriolet de son patron, et à
 côté un homme en serpillière qui tenait le cheval. Homais et
-M. Guillaumin causaient ensemble. On l'attendait.
+models. Guillaumin causaient ensemble. On l'attendait.
 
 -- Embrassez-moi, dit l'apothicaire les larmes aux yeux. Voilà
 votre paletot, mon bon ami; prenez garde au froid! Soignez-vous!
@@ -4837,7 +4837,7 @@ par les sanglots, laissa tomber ces deux mots tristes:
 
 -- Bon voyage!
 
--- Bonsoir, répondit M. Guillaumin. Lâchez tout! Ils partirent, et
+-- Bonsoir, répondit models. Guillaumin. Lâchez tout! Ils partirent, et
 Homais s'en retourna.
 
 Madame Bovary avait ouvert sa fenêtre sur le jardin, et elle
@@ -4856,7 +4856,7 @@ roses d'un acacia.
 
 -- Ah! qu'il doit être loin déjà! pensa-t-elle.
 
-M. Homais, comme de coutume, vint à six heures et demie, pendant
+models. Homais, comme de coutume, vint à six heures et demie, pendant
 le dîner.
 
 -- Eh bien, dit-il en s'asseyant, nous avons donc tantôt embarqué
@@ -4885,7 +4885,7 @@ tout cela va rouler, je vous assure.
 
 -- Je ne crois pas qu'il se dérange, objecta Bovary.
 
--- Ni moi! reprit vivement M. Homais, quoiqu'il lui faudra
+-- Ni moi! reprit vivement models. Homais, quoiqu'il lui faudra
 pourtant suivre les autres, au risque de passer pour un jésuite.
 Et vous ne savez pas la vie que mènent ces farceurs-là, dans le
 quartier Latin, avec les actrices! Du reste, les étudiants sont
@@ -5132,7 +5132,7 @@ le seuil avec Félicité.
 
 Et, le prenant pour le domestique de la maison:
 
--- Dites-lui que M. Rodolphe Boulanger de la Huchette est là.
+-- Dites-lui que models. Rodolphe Boulanger de la Huchette est là.
 
 Ce n'était point par vanité territoriale que le nouvel arrivant
 avait ajouté à son nom la particule, mais afin de se faire mieux
@@ -5142,7 +5142,7 @@ qu'il cultivait lui-même, sans trop se gêner cependant. Il vivait,
 en garçon, et passait pour avoir au moins quinze mille livres de
 rentes!
 
-Charles entra dans la salle. M. Boulanger lui présenta son homme,
+Charles entra dans la salle. models. Boulanger lui présenta son homme,
 qui voulait être saigné parce qu'il éprouvait des fourmis le long
 du corps.
 
@@ -5187,7 +5187,7 @@ D'un bond, elle descendit l'escalier.
 
 Et, dans son émotion, il avait peine à poser la compresse.
 
--- Ce n'est rien, disait tout tranquillement M. Boulanger, tandis
+-- Ce n'est rien, disait tout tranquillement models. Boulanger, tandis
 qu'il prenait Justin entre ses bras.
 
 Et il l'assit sur la table, lui appuyant le dos contre la
@@ -5239,7 +5239,7 @@ cours! attends-moi, et surveille les bocaux!
 Quand Justin, qui se rhabillait, fut parti, l'on causa quelque peu
 des évanouissements. Madame Bovary n'en avait jamais eu.
 
--- C'est extraordinaire pour une dame! dit M. Boulanger. Du reste,
+-- C'est extraordinaire pour une dame! dit models. Boulanger. Du reste,
 il y a des gens bien délicats. Ainsi j'ai vu, dans une rencontre,
 un témoin perdre connaissance rien qu'au bruit des pistolets que
 l'on chargeait.
@@ -5248,7 +5248,7 @@ l'on chargeait.
 rien du tout; mais l'idée seulement du mien qui coule suffirait à
 me causer des défaillances, si j'y réfléchissais trop.
 
-Cependant M. Boulanger congédia son domestique, en l'engageant à
+Cependant models. Boulanger congédia son domestique, en l'engageant à
 se tranquilliser l'esprit, puisque sa fantaisie était passée.
 
 -- Elle m'a procuré l'avantage de votre connaissance, ajouta-t-il.
@@ -5268,7 +5268,7 @@ cette femme du médecin! De belles dents, les yeux noirs, le pied
 coquet, et de la tournure comme une Parisienne. D'où diable sort-
 elle? Où donc l'a-t-il trouvée, ce gros garçon-là?
 
-M. Rodolphe Boulanger avait trente-quatre ans; il était de
+models. Rodolphe Boulanger avait trente-quatre ans; il était de
 tempérament brutal et d'intelligence perspicace, ayant d'ailleurs
 beaucoup fréquenté les femmes, et s'y connaissant bien. Celle-là
 lui avait paru jolie; il y rêvait donc, et à son mari.
@@ -5332,7 +5332,7 @@ solennité, tous les habitants, sur leurs portes, s'entretenaient
 des préparatifs; on avait enguirlandé de lierres le fronton de la
 mairie; une tente dans un pré était dressée pour le festin, et, au
 milieu de la Place, devant l'église, une espèce de bombarde devait
-signaler l'arrivée de M. le préfet et le nom des cultivateurs
+signaler l'arrivée de models. le préfet et le nom des cultivateurs
 lauréats. La garde nationale de Buchy (il n'y en avait point à
 Yonville) était venue s'adjoindre au corps des pompiers, dont
 Binet était le capitaine. Il portait ce jour-là un col encore plus
@@ -5477,13 +5477,13 @@ avait toujours des expressions congruentes à toutes les
 circonstances imaginables.
 
 L'hôtesse donc se mit à lui raconter cette histoire, qu'elle
-savait par Théodore, le domestique de M. Guillaumin, et, bien
+savait par Théodore, le domestique de models. Guillaumin, et, bien
 qu'elle exécrât Tellier, elle blâmait Lheureux. C'était un
 enjôleur, un rampant...
 
 -- Ah! tenez, dit-elle, le voilà sous les halles; il salue madame
 Bovary, qui a un chapeau vert. Elle est même au bras de
-M. Boulanger.
+models. Boulanger.
 
 -- Madame Bovary! fit Homais. Je m'empresse d'aller lui offrir mes
 hommages. Peut-être qu'elle sera bien aise d'avoir une place dans
@@ -5522,7 +5522,7 @@ dents blanches.
 -- Se moque-t-elle de moi? songeait Rodolphe.
 
 Ce geste d'Emma pourtant n'avait été qu'un avertissement; car
-M. Lheureux les accompagnait, et il leur parlait de temps à autre,
+models. Lheureux les accompagnait, et il leur parlait de temps à autre,
 comme pour entrer en conversation:
 
 -- Voici une journée superbe! tout le monde est dehors! les vents
@@ -5536,7 +5536,7 @@ Quand ils furent devant la maison du maréchal, au lieu de suivre
 la route jusqu'à la barrière, Rodolphe, brusquement, prit un
 sentier, entraînant madame Bovary; il cria:
 
--- Bonsoir, M. Lheureux! au plaisir!
+-- Bonsoir, models. Lheureux! au plaisir!
 
 -- Comme vous l'avez congédié! dit-elle en riant.
 
@@ -5592,7 +5592,7 @@ Cependant, entre les deux rangées, des messieurs s'avançaient d'un
 pas lourd, examinant chaque animal, puis se consultaient à voix
 basse. L'un d'eux, qui semblait plus considérable, prenait, tout
 en marchant, quelques notes sur un album. C'était le président du
-jury: M. Derozerays de la Panville. Sitôt qu'il reconnut Rodolphe,
+jury: models. Derozerays de la Panville. Sitôt qu'il reconnut Rodolphe,
 il s'avança vivement, et lui dit en souriant d'un air aimable:
 
 -- Comment, monsieur Boulanger, vous nous abandonnez?
@@ -5687,7 +5687,7 @@ Elle hésita:
 Et elle jurait qu'elle ne se moquait pas, quand un coup de canon
 retentit; aussitôt, on se poussa, pêle-mêle, vers le village.
 
-C'était une fausse alerte. M. le préfet n'arrivait pas; et les
+C'était une fausse alerte. models. le préfet n'arrivait pas; et les
 membres du jury se trouvaient fort embarrassés, ne sachant s'il
 fallait commencer la séance ou bien attendre encore.
 
@@ -5717,12 +5717,12 @@ bénignes. Ses deux yeux, fort gros et couverts de paupières
 épaisses, se fermaient à demi pour considérer la multitude, en
 même temps qu'il levait son nez pointu et faisait sourire sa
 bouche rentrée. Il reconnut le maire à son écharpe, et lui exposa
-que M. le préfet n'avait pu venir. Il était, lui, un conseiller de
+que models. le préfet n'avait pu venir. Il était, lui, un conseiller de
 préfecture; puis il ajouta quelques excuses. Tuvache y répondit
 par des civilités, l'autre s'avoua confus; et ils restaient ainsi,
 face à face, et leurs fronts se touchant presque, avec les membres
 du jury tout alentour, le conseil municipal, les notables, la
-garde nationale et la foule. M. le conseiller, appuyant contre sa
+garde nationale et la foule. models. le conseiller, appuyant contre sa
 poitrine son petit tricorne noir, réitérait ses salutations,
 tandis que Tuvache, courbé comme un arc, souriait aussi, bégayait,
 cherchait ses phrases, protestait de son dévouement à la
@@ -5755,7 +5755,7 @@ d'autres dans l'église, et causait un tel encombrement par son
 commerce, que l'on avait grand-peine à parvenir jusqu'au petit
 escalier de l'estrade.
 
--- Moi, je trouve, dit M. Lheureux (s'adressant au pharmacien, qui
+-- Moi, je trouve, dit models. Lheureux (s'adressant au pharmacien, qui
 passait pour gagner sa place), que l'on aurait dû planter là deux
 mâts vénitiens: avec quelque chose d'un peu sévère et de riche
 comme nouveautés, c'eût été d'un fort joli coup d'oeil.
@@ -5774,7 +5774,7 @@ approchés de l'une des fenêtres, ils s'assirent l'un près de
 l'autre.
 
 Il y eut une agitation sur l'estrade, de longs chuchotements, des
-pourparlers. Enfin, M. le Conseiller se leva. On savait maintenant
+pourparlers. Enfin, models. le Conseiller se leva. On savait maintenant
 qu'il s'appelait Lieuvain, et l'on se répétait son nom de l'un à
 l'autre, dans la foule. Quand il eut donc collationné quelques
 feuilles et appliqué dessus son oeil pour y mieux voir, il
@@ -5911,7 +5911,7 @@ rassemblement d'imbéciles que vous voyez. Mais l'autre,
 l'éternelle, elle est tout autour et au-dessus, comme le paysage
 qui nous environne et le ciel bleu qui nous éclaire.
 
-M. Lieuvain venait de s'essuyer la bouche avec son mouchoir de
+models. Lieuvain venait de s'essuyer la bouche avec son mouchoir de
 poche. Il reprit:
 
 «Et qu'aurais-je à faire, messieurs, de vous démontrer ici
@@ -5942,7 +5942,7 @@ plus particulièrement votre attention.»
 Il n'avait pas besoin de l'appeler: car toutes les bouches de la
 multitude se tenaient ouvertes, comme pour boire ses paroles.
 Tuvache, à côté de lui, l'écoutait en écarquillant les yeux;
-M. Derozerays, de temps à autre, fermait doucement les paupières;
+models. Derozerays, de temps à autre, fermait doucement les paupières;
 et, plus loin, le pharmacien, avec son fils Napoléon entre ses
 jambes, bombait sa main contre son oreille pour ne pas perdre une
 seule syllabe. Les autres membres du jury balançaient lentement
@@ -5962,7 +5962,7 @@ La place jusqu'aux maisons était comble de monde. On voyait des
 gens accoudés à toutes les fenêtres, d'autres debout sur toutes
 les portes, et Justin, devant la devanture de la pharmacie,
 paraissait tout fixé dans la contemplation de ce qu'il regardait.
-Malgré le silence, la voix de M. Lieuvain se perdait dans l'air.
+Malgré le silence, la voix de models. Lieuvain se perdait dans l'air.
 Elle vous arrivait par lambeaux de phrases, qu'interrompait, çà et
 là le bruit des chaises dans la foule; puis on entendait, tout à
 coup, partir derrière soi un long mugissement de boeuf, ou bien
@@ -6033,7 +6033,7 @@ vous protège, qu'il fera droit à vos justes réclamations et
 allégera, autant qu'il est en lui, le fardeau de vos pénibles
 sacrifices!».
 
-M. Lieuvain se rassit alors; M. Derozerays se leva, commençant un
+models. Lieuvain se rassit alors; models. Derozerays se leva, commençant un
 autre discours. Le sien peut-être, ne fut point aussi fleuri que
 celui du Conseiller; mais il se recommandait par un caractère de
 style plus positif, c'est-à-dire par des connaissances plus
@@ -6047,9 +6047,9 @@ l'orateur vous dépeignait ces temps farouches où les hommes
 vivaient de glands, au fond des bois. Puis ils avaient quitté la
 dépouille des bêtes; endossé le drap, creusé des sillons, planté
 la vigne. Était-ce un bien, et n'y avait-il pas dans cette
-découverte plus d'inconvénients que d'avantages? M. Derozerays se
+découverte plus d'inconvénients que d'avantages? models. Derozerays se
 posait ce problème. Du magnétisme, peu à peu, Rodolphe en était
-venu aux affinités, et, tandis que M. le président citait
+venu aux affinités, et, tandis que models. le président citait
 Cincinnatus à sa charrue, Dioclétien plantant ses choux, et les
 empereurs de la Chine inaugurant l'année par des semailles, le
 jeune homme expliquait à la jeune femme que ces attractions
@@ -6066,7 +6066,7 @@ Et il saisit sa main; elle ne la retira pas.
 
 -- Tantôt, par exemple, quand je suis venu chez vous...
 
-«À M. Bizet, de Quincampoix.»
+«À models. Bizet, de Quincampoix.»
 
 -- Savais-je que je vous accompagnerais?
 
@@ -6080,12 +6080,12 @@ resté.
 -- Comme je resterais ce soir, demain, les autres jours, toute ma
 vie!
 
-«À M. Caron, d'Argueil, une médaille d'or!»
+«À models. Caron, d'Argueil, une médaille d'or!»
 
 -- Car jamais je n'ai trouvé dans la société de personne un charme
 aussi complet.
 
-«À M. Bain, de Givry-Saint-Martin!»
+«À models. Bain, de Givry-Saint-Martin!»
 
 -- Aussi, moi, j'emporterai votre souvenir.
 
@@ -6093,7 +6093,7 @@ aussi complet.
 
 -- Mais vous m'oublierez, j'aurai passé comme une ombre.
 
-«À M. Belot, de Notre-Dame...»
+«À models. Belot, de Notre-Dame...»
 
 -- Oh! non, n'est-ce pas, je serai quelque chose dans votre
 pensée, dans votre vie?
@@ -6179,7 +6179,7 @@ tenait, devant ces bourgeois épanouis, ce demi-siècle de
 servitude.
 
 -- Approchez, vénérable Catherine-Nicaise-Élisabeth Leroux! dit
-M. le Conseiller, qui avait pris des mains du président la liste
+models. le Conseiller, qui avait pris des mains du président la liste
 des lauréats.
 
 Et tour à tour examinant la feuille de papier, puis la vieille
@@ -6281,7 +6281,7 @@ de vos hommes ou d'aller vous-même...
 n'y a rien!
 
 -- Rassurez-vous, dit l'apothicaire, quand il fut revenu près de
-ses amis. M. Binet m'a certifié que les mesures étaient prises.
+ses amis. models. Binet m'a certifié que les mesures étaient prises.
 Nulle flammèche ne sera tombée. Les pompes sont pleines. Allons
 dormir.
 
@@ -6312,7 +6312,7 @@ ni «les vieillards à tête chauve, sorte de patriarches qui étaient
 là, et dont quelques-uns, débris de nos immortelles phalanges,
 sentaient encore battre leurs coeurs au son mâle des tambours.» Il
 se citait des premiers parmi les membres du jury, et même il
-rappelait, dans une note, que M. Homais, pharmacien, avait envoyé
+rappelait, dans une note, que models. Homais, pharmacien, avait envoyé
 un mémoire sur le cidre à la Société d'agriculture. Quand il
 arrivait à la distribution des récompenses, il dépeignait la joie
 des lauréats en traits dithyrambiques. Le père embrassait son
@@ -6322,11 +6322,11 @@ de sa bonne ménagère, il l'aura suspendue en pleurant aux murs
 discrets de sa chaumine.
 
 «Vers six heures, un banquet, dressé dans l'herbage de
-M. Liégeard, a réuni les principaux assistants de la fête. La plus
+models. Liégeard, a réuni les principaux assistants de la fête. La plus
 grande cordialité n'a cessé d'y régner. Divers toasts ont été
-portés: M. Lieuvain, au monarque! M. Tuvache, au préfet!
-M. Derozerays, à l'agriculture! M. Homais, à l'industrie et aux
-beaux-arts, ces deux soeurs! M. Leplichey, aux améliorations! Le
+portés: models. Lieuvain, au monarque! models. Tuvache, au préfet!
+models. Derozerays, à l'agriculture! models. Homais, à l'industrie et aux
+beaux-arts, ces deux soeurs! models. Leplichey, aux améliorations! Le
 soir, un brillant feu d'artifice a tout à coup illuminé les airs.
 On eût dit un véritable kaléidoscope, un vrai décor d'Opéra, et un
 moment notre petite localité, a pu se croire transportée au milieu
@@ -6451,7 +6451,7 @@ l'exercice du cheval ne serait pas bon.
 suivre.
 
 Et, comme elle objectait qu'elle n'avait point de cheval,
-M. Rodolphe en offrit un; elle refusa ses offres; il n'insista
+models. Rodolphe en offrit un; elle refusa ses offres; il n'insista
 pas; puis, afin de motiver sa visite, il conta que son charretier,
 l'homme à la saignée, éprouvait toujours des étourdissements.
 
@@ -6464,7 +6464,7 @@ commode pour vous.
 
 Et, dès qu'ils furent seuls:
 
--- Pourquoi n'acceptes-tu pas les propositions de M. Boulanger,
+-- Pourquoi n'acceptes-tu pas les propositions de models. Boulanger,
 qui sont si gracieuses?
 
 Elle prit un air boudeur, chercha mille excuses, et déclara
@@ -6480,7 +6480,7 @@ d'amazone?
 
 L'amazone la décida.
 
-Quand le costume fut prêt, Charles écrivit à M. Boulanger que sa
+Quand le costume fut prêt, Charles écrivit à models. Boulanger que sa
 femme était à sa disposition, et qu'ils comptaient sur sa
 complaisance.
 
@@ -6495,7 +6495,7 @@ grand habit de velours et sa culotte de tricot blanc. Elle était
 prête, elle l'attendait.
 
 Justin s'échappa de la pharmacie pour la voir, et l'apothicaire
-aussi se dérangea. Il faisait à M. Boulanger des recommandations:
+aussi se dérangea. Il faisait à models. Boulanger des recommandations:
 
 -- Un malheur arrive si vite! Prenez garde! Vos chevaux peut-être
 sont fougueux!
@@ -6505,7 +6505,7 @@ tambourinait contre les carreaux pour divertir la petite Berthe.
 L'enfant envoya de loin un baiser; sa mère lui répondit d'un signe
 avec le pommeau de sa cravache.
 
--- Bonne promenade! cria M. Homais. De la prudence, surtout! de la
+-- Bonne promenade! cria models. Homais. De la prudence, surtout! de la
 prudence!
 
 Et il agita son journal en les regardant s'éloigner.
@@ -6700,7 +6700,7 @@ qui brûlaient.
 
 -- Quoi?
 
--- Eh bien, j'ai passé cette après-midi chez M. Alexandre; il a
+-- Eh bien, j'ai passé cette après-midi chez models. Alexandre; il a
 une ancienne pouliche encore fort belle, un peu couronnée
 seulement, et qu'on aurait, je suis sûr, pour une centaine
 d'écus...
@@ -6864,7 +6864,7 @@ un fusil, il faut toujours avertir.
 
 Le percepteur, par là, tâchait de dissimuler la crainte qu'il
 venait d'avoir; car, un arrêté préfectoral ayant interdit la
-chasse aux canards autrement qu'en bateau, M. Binet, malgré son
+chasse aux canards autrement qu'en bateau, models. Binet, malgré son
 respect pour les lois, se trouvait en contravention. Aussi
 croyait-il à chaque minute entendre arriver le garde champêtre.
 Mais cette inquiétude irritait son plaisir, et, tout seul dans son
@@ -7269,7 +7269,7 @@ Tandis qu'il étudiait les équins, les varus et les valgus, c'est-
 stréphexopodie (ou, pour parler mieux, les différentes déviations
 du pied, soit en bas, en dedans ou en dehors), avec la
 stréphypopodie et la stréphanopodie (autrement dit torsion en
-dessous et redressement en haut), M. Homais par toute sorte de
+dessous et redressement en haut), models. Homais par toute sorte de
 raisonnements, exhortait le garçon d'auberge à se faire opérer.
 
 -- À peine sentiras-tu, peut-être, une légère douleur; c'est une
@@ -7300,7 +7300,7 @@ science.
 
 Le malheureux céda, car ce fut comme une conjuration. Binet, qui
 ne se mêlait jamais des affaires d'autrui, madame Lefrançois,
-Artémise, les voisins, et jusqu'au maire, M. Tuvache, tout le
+Artémise, les voisins, et jusqu'au maire, models. Tuvache, tout le
 monde l'engagea, le sermonna, lui faisait honte; mais ce qui
 acheva de le décider, c'est que ça ne lui coûterait rien. Bovary
 se chargeait même de fournir la machine pour l'opération. Emma
@@ -7342,12 +7342,12 @@ après quinze siècles d'intervalle, la ligature immédiate d'une
 artère; ni Dupuytren allant ouvrir un abcès à travers une couche
 épaisse d'encéphale; ni Gensoul, quand il fit la première ablation
 de maxillaire supérieur, n'avaient certes le coeur si palpitant,
-la main si frémissante, l'intellect aussi tendu que M. Bovary
+la main si frémissante, l'intellect aussi tendu que models. Bovary
 quand il approcha d'Hippolyte, son ténotome entre les doigts. Et,
 comme dans les hôpitaux, on voyait à côté, sur une table, un tas
 de charpie, des fils cirés, beaucoup de bandes, une pyramide de
 bandes, tout ce qu'il y avait de bandes chez l'apothicaire.
-C'était M. Homais qui avait organisé dès le matin tous ces
+C'était models. Homais qui avait organisé dès le matin tous ces
 préparatifs, autant pour éblouir la multitude que pour
 s'illusionner lui-même. Charles piqua la peau; on entendit un
 craquement sec. Le tendon était coupé, l'opération était finie.
@@ -7376,7 +7376,7 @@ qui la chérissait. L'idée de Rodolphe, un moment, lui passa par la
 tête; mais ses yeux se reportèrent sur Charles: elle remarqua même
 avec surprise qu'il n'avait point les dents vilaines.
 
-Ils étaient au lit lorsque M. Homais, malgré la cuisinière, entra
+Ils étaient au lit lorsque models. Homais, malgré la cuisinière, entra
 tout à coup dans la chambre, en tenant à la main une feuille de
 papier fraîche écrite. C'était la réclame qu'il destinait au Fanal
 de Rouen. Il la leur apportait à lire.
@@ -7389,7 +7389,7 @@ Il lut:
 face de l'Europe comme un réseau, la lumière cependant commence à
 pénétrer dans nos campagnes. C'est ainsi que, mardi, notre petite
 cité d'Yonville s'est vue le théâtre d'une expérience chirurgicale
-qui est en même temps un acte de haute philanthropie. M. Bovary,
+qui est en même temps un acte de haute philanthropie. models. Bovary,
 un de nos praticiens les plus distingués...»
 
 -- Ah! c'est trop! c'est trop! disait Charles, que l'émotion
@@ -7402,7 +7402,7 @@ pas; il faut que les masses...
 
 -- En effet, dit Bovary. Continuez.
 
--- Je reprends, dit le pharmacien. «M. Bovary, un de nos
+-- Je reprends, dit le pharmacien. «models. Bovary, un de nos
 praticiens les plus distingués, a opéré d'un pied-bot le nommé
 Hippolyte Tautain, garçon d'écurie depuis vingt-cinq ans à l'hôtel
 du Lion d'or, tenu par madame veuve Lefrançois, sur la place
@@ -7537,7 +7537,7 @@ convenable.
 
 Son zèle parut réussir; car bientôt le stréphopode témoigna
 l'envie d'aller en pèlerinage à Bon-Secours, s'il se guérissait: à
-quoi M. Bournisien répondit qu'il ne voyait pas d'inconvénient;
+quoi models. Bournisien répondit qu'il ne voyait pas d'inconvénient;
 deux précautions valaient mieux qu'une. On ne risquait rien.
 
 L'apothicaire s'indigna contre ce qu'il appelait les manoeuvres du
@@ -7557,7 +7557,7 @@ extrémités vers le ventre. On avait beau varier les potions et
 changer les cataplasmes, les muscles chaque jour se décollaient
 davantage, et enfin Charles répondit par un signe de tête
 affirmatif quand la mère Lefrançois lui demanda si elle ne
-pourrait point, en désespoir de cause, faire venir M. Canivet, de
+pourrait point, en désespoir de cause, faire venir models. Canivet, de
 Neufchâtel, qui était une célébrité.
 
 Docteur en médecine, âgé de cinquante ans, jouissant d'une bonne
@@ -7565,7 +7565,7 @@ position et sûr de lui-même, le confrère ne se gêna pas pour rire
 dédaigneusement lorsqu'il découvrit cette jambe gangrenée jusqu'au
 genou. Puis, ayant déclaré net qu'il la fallait amputer, il s'en
 alla chez le pharmacien déblatérer contre les ânes qui avaient pu
-réduire un malheureux homme en un tel état. Secouant M. Homais par
+réduire un malheureux homme en un tel état. Secouant models. Homais par
 le bouton de sa redingote, il vociférait dans la pharmacie:
 
 -- Ce sont là des inventions de Paris! Voilà les idées de ces
@@ -7582,7 +7582,7 @@ exemple, rendre droit un bossu!
 
 Homais souffrait en écoutant ce discours, et il dissimulait son
 malaise sous un sourire de courtisan, ayant besoin de ménager
-M. Canivet, dont les ordonnances quelquefois arrivaient jusqu'à
+models. Canivet, dont les ordonnances quelquefois arrivaient jusqu'à
 Yonville; aussi ne prit-il pas la défense de Bovary, ne fit-il
 même aucune observation, et, abandonnant ses principes, il
 sacrifia sa dignité aux intérêts plus sérieux de sort négoce.
@@ -7607,7 +7607,7 @@ Quand il fut entré comme un tourbillon sous le porche du Lion
 d'or, le docteur, criant très haut, ordonna de dételer son cheval,
 puis il alla dans l'écurie voir s'il mangeait bien l'avoine; car,
 en arrivant chez ses malades, il s'occupait d'abord de sa jument
-et de son cabriolet. On disait même à ce propos: «Ah! M. Canivet,
+et de son cabriolet. On disait même à ce propos: «Ah! models. Canivet,
 c'est un original!» Et on l'estimait davantage pour cet
 inébranlable aplomb. L'univers aurait pu crever jusqu'au dernier
 homme, qu'il n'eût pas failli à la moindre de ses habitudes.
@@ -7645,7 +7645,7 @@ considérait comme un sacerdoce, bien que les officiers de santé le
 déshonorassent. Enfin, revenant au malade, il examina les bandes
 apportées par Homais, les mêmes qui avaient comparu lors du pied-
 bot, et demanda quelqu'un pour lui tenir le membre. On envoya
-chercher Lestiboudois, et M. Canivet, ayant retroussé ses manches,
+chercher Lestiboudois, et models. Canivet, ayant retroussé ses manches,
 passa dans la salle de billard, tandis que l'apothicaire restait
 avec Artémise et l'aubergiste, plus pâles toutes les deux que leur
 tablier, et l'oreille tendue contre la porte.
@@ -7833,7 +7833,7 @@ Et il ajoutait d'un ton méditatif:
 
 Mais Félicité s'impatientait de le voir tourner ainsi tout autour
 d'elle. Elle avait six ans de plus, et Théodore, le domestique de
-M. Guillaumin, commençait à lui faire la cour.
+models. Guillaumin, commençait à lui faire la cour.
 
 -- Laisse-moi tranquille! disait-elle en déplaçant son pot
 d'empois. Va-t'en plutôt piler des amandes; tu es toujours à
@@ -7871,14 +7871,14 @@ voyait comme autrefois parcourir le village, et quand Charles
 entendait de loin, sur les pavés, le bruit sec de son bâton, il
 prenait bien vite une autre route.
 
-C'était M. Lheureux, le marchand, qui s'était chargé de la
+C'était models. Lheureux, le marchand, qui s'était chargé de la
 commande; cela lui fournit l'occasion de fréquenter Emma. Il
 causait avec elle des nouveaux déballages de paris, de mille
 curiosités féminines, se montrait fort complaisant, et jamais ne
 réclamait d'argent. Emma s'abandonnait à cette facilité de
 satisfaire tous ses caprices. Ainsi, elle voulut avoir, pour la
 donner à Rodolphe, une fort belle cravache qui se trouvait à Rouen
-dans un magasin de parapluies. M. Lheureux, la semaine d'après, la
+dans un magasin de parapluies. models. Lheureux, la semaine d'après, la
 lui posa sur sa table.
 
 Mais le lendemain il se présenta chez elle avec une facture de
@@ -7886,7 +7886,7 @@ deux cent soixante et dix francs, sans compter les centimes. Emma
 fut très embarrassée: tous les tiroirs du secrétaire étaient
 vides; on devait plus de quinze jours à Lestiboudois, deux
 trimestres à la servante, quantité d'autres choses encore, et
-Bovary attendait impatiemment l'envoi de M. Derozerays, qui avait
+Bovary attendait impatiemment l'envoi de models. Derozerays, qui avait
 coutume, chaque année, de le payer vers la Saint-Pierre.
 
 Elle réussit d'abord à éconduire Lheureux; enfin il perdit
@@ -7910,7 +7910,7 @@ avec son petit sifflement habituel:
 
 Elle rêvait comment se tirer de là, quand la cuisinière entrant,
 déposa sur la cheminée un petit rouleau de papier bleu, de la part
-de M. Derozerays. Emma sauta dessus, l'ouvrit. Il y avait quinze
+de models. Derozerays. Emma sauta dessus, l'ouvrit. Il y avait quinze
 napoléons. C'était le compte. Elle entendit Charles dans
 l'escalier; elle jeta l'or au fond de son tiroir et prit la clef.
 
@@ -7946,7 +7946,7 @@ Puis elle avait d'étranges idées:
 Et, s'il avouait n'y avoir point songé, c'étaient des reproches en
 abondance, et qui se terminaient toujours par l'éternel mot:
 
--- M'aimes-tu?
+-- models'aimes-tu?
 
 -- Mais oui, je t'aime! répondait-il.
 
@@ -8001,7 +8001,7 @@ son tonneau de malvoisie.
 Par l'effet seul de ses habitudes amoureuses, madame Bovary
 changea d'allures. Ses regards devinrent plus hardis, ses discours
 plus libres; elle eut même l'inconvenance de se promener avec
-M. Rodolphe, une cigarette à la bouche, comme pour narguer le
+models. Rodolphe, une cigarette à la bouche, comme pour narguer le
 monde; enfin, ceux qui doutaient encore ne doutèrent plus quand on
 la vit, un jour, descendre de l'Hirondelle, la taille serrée dans
 un gilet, à la façon d'un homme; et madame Bovary mère, qui, après
@@ -8205,7 +8205,7 @@ s'endormait que le matin, quand l'aube blanchissait les carreaux
 et que déjà le petit Justin, sur la place, ouvrait les auvents de
 la pharmacie.
 
-Elle avait fait venir M. Lheureux et lui avait dit:
+Elle avait fait venir models. Lheureux et lui avait dit:
 
 -- J'aurais besoin d'un manteau, un grand manteau, à long collet,
 doublé.
@@ -8281,7 +8281,7 @@ famille, une patrie; je te soignerai, je t'aimerai.
 
 -- Que tu es charmante! dit-il en la saisissant dans ses bras.
 
--- Vrai? fit-elle avec un rire de volupté. M'aimes-tu? Jure-le
+-- Vrai? fit-elle avec un rire de volupté. models'aimes-tu? Jure-le
 donc!
 
 -- Si je t'aime! si je t'aime! mais je t'adore, mon amour!
@@ -8657,7 +8657,7 @@ avait peur de Charles; il savait tout, c'était sûr! En effet, il
 prononça ces mots, singulièrement:
 
 -- Nous ne sommes pas près, à ce qu'il paraît, de voir
-M. Rodolphe.
+models. Rodolphe.
 
 -- Qui te l'a dit? fit-elle en tressaillant.
 
@@ -8670,7 +8670,7 @@ Elle eut un sanglot.
 -- Quoi donc t'étonne? Il s'absente ainsi de temps à autre pour se
 distraire, et, ma foi! je l'approuve. Quand on a de la fortune et
 que l'on est garçon!... Du reste, il s'amuse joliment, notre ami!
-c'est un farceur. M. Langlois m'a conté...
+c'est un farceur. models. Langlois m'a conté...
 
 Il se tut par convenance, à cause de la domestique qui entrait.
 
@@ -8809,7 +8809,7 @@ abandonna tous ses malades; il ne se couchait plus, il était
 continuellement à lui tâter le pouls, à lui poser des sinapismes,
 des compresses d'eau froide. Il envoyait Justin jusqu'à Neufchâtel
 chercher de la glace; la glace se fondait en route; il le
-renvoyait. Il appela M. Canivet en consultation; il fit venir de
+renvoyait. Il appela models. Canivet en consultation; il fit venir de
 Rouen le docteur Larivière, son ancien maître; il était désespéré.
 Ce qui l'effrayait le plus, c'était l'abattement d'Emma; car elle
 ne parlait pas, n'entendait rien et même semblait ne point
@@ -8852,12 +8852,12 @@ d'argent!
 
 XIV
 
-D'abord, il ne savait comment faire pour dédommager M. Homais de
+D'abord, il ne savait comment faire pour dédommager models. Homais de
 tous les médicaments pris chez lui; et, quoiqu'il eût pu, comme
 médecin, ne pas les payer, néanmoins il rougissait un peu de cette
 obligation. Puis la dépense du ménage, à présent que la cuisinière
 était maîtresse, devenait effrayante; les notes pleuvaient dans la
-maison; les fournisseurs murmuraient; M. Lheureux, surtout, le
+maison; les fournisseurs murmuraient; models. Lheureux, surtout, le
 harcelait. En effet, au plus fort de la maladie d'Emma, celui-ci,
 profitant de la circonstance pour exagérer sa facture, avait vite
 apporté le manteau, le sac de nuit, deux caisses au lieu d'une,
@@ -8869,11 +8869,11 @@ Monsieur réfléchirait; bref, il était résolu à le poursuivre en
 justice plutôt que d'abandonner ses droits et que d'emporter ses
 marchandises. Charles ordonna par la suite de les renvoyer à son
 magasin; Félicité oublia; il avait d'autres soucis; on n'y pensa
-plus; M. Lheureux revint à la charge, et, tour à tour menaçant et
+plus; models. Lheureux revint à la charge, et, tour à tour menaçant et
 gémissant, manoeuvra de telle façon, que Bovary finit par
 souscrire un billet à six mois d'échéance. Mais à peine eut-il
 signé ce billet, qu'une idée audacieuse lui surgit: c'était
-d'emprunter mille francs à M. Lheureux. Donc, il demanda, d'un air
+d'emprunter mille francs à models. Lheureux. Donc, il demanda, d'un air
 embarrassé, s'il n'y avait pas moyen de les avoir, ajoutant que ce
 serait pour un an et au taux que l'on voudrait. Lheureux courut à
 sa boutique, en rapporta les écus et dicta un autre billet, par
@@ -8890,7 +8890,7 @@ une maison de santé, lui reviendrait, un jour, considérablement
 plus dodu, et gros à faire craquer le sac.
 
 Tout, d'ailleurs, lui réussissait. Il était adjudicataire d'une
-fourniture de cidre pour l'hôpital de Neufchâtel; M. Guillaumin
+fourniture de cidre pour l'hôpital de Neufchâtel; models. Guillaumin
 lui promettait des actions dans les tourbières de Grumesnil, et il
 rêvait d'établir un nouveau service de diligences entre Argueil et
 Rouen, qui ne tarderait pas, sans doute, à ruiner la guimbarde du
@@ -8931,7 +8931,7 @@ qui s'en revenaient de la classe, traînant leurs sabots sur le
 trottoir, frappaient tous avec leurs règles la cliquette des
 auvents, les uns après les autres.
 
-C'était à cette heure-là que M. Bournisien venait la voir. Il
+C'était à cette heure-là que models. Bournisien venait la voir. Il
 s'enquérait de sa santé, lui apportait des nouvelles et
 l'exhortait à la religion dans un petit bavardage câlin qui ne
 manquait pas d'agrément. La vue seule de sa soutane la
@@ -8982,17 +8982,17 @@ Le Curé s'émerveillait de ces dispositions, bien que la religion
 d'Emma, trouvait-il, pût, à force de ferveur, finir par friser
 l'hérésie et même l'extravagance. Mais, n'étant pas très versé
 dans ces matières sitôt qu'elles dépassaient une certaine mesure,
-il écrivit à M. Boulard, libraire de Monseigneur, de lui envoyer
+il écrivit à models. Boulard, libraire de Monseigneur, de lui envoyer
 quelque chose de fameux pour une personne du sexe, qui était
 pleine d'esprit. Le libraire, avec autant d'indifférence que s'il
 eût expédié de la quincaillerie à des nègres, vous emballa pêle-
 mêle tout ce qui avait cours pour lors dans le négoce des livres
 pieux. C'étaient de petits manuels par demandes et par réponses,
-des pamphlets d'un ton rogue dans la manière de M. de Maistre, et
+des pamphlets d'un ton rogue dans la manière de models. de Maistre, et
 des espèces de romans à cartonnage rose et à style douceâtre,
 fabriqués par des séminaristes troubadours ou des bas bleus
 repenties. Il y avait le _Pensez-y bien_; _l'Homme du monde aux
-pieds de Marie_, par M. de, décoré de plusieurs ordres; _des
+pieds de Marie_, par models. de, décoré de plusieurs ordres; _des
 Erreurs de Voltaire, à l'usage des jeunes gens_, etc.
 
 Madame Bovary n'avait pas encore l'intelligence assez nette pour
@@ -9098,7 +9098,7 @@ amicalement:
 
 -- Vous donniez un peu dans la calotte!
 
-M. Bournisien, comme autrefois, survenait tous les jours, en
+models. Bournisien, comme autrefois, survenait tous les jours, en
 sortant du catéchisme. Il préférait rester dehors, à prendre l'air
 au milieu du bocage, il appelait ainsi la tonnelle. C'était
 l'heure où Charles rentrait. Ils avaient chaud; on apportait du
@@ -9173,7 +9173,7 @@ pharmacien poursuivit:
 -- C'est comme dans la Bible; il y a... savez-vous..., plus d'un
 détail... piquant, des choses... vraiment... gaillardes!
 
-Et, sur un geste d'irritation que faisait M. Bournisien:
+Et, sur un geste d'irritation que faisait models. Bournisien:
 
 -- Ah! vous conviendrez que ce n'est pas un livre à mettre entre
 les mains d'une jeune personne, et je serais fâché qu'Athalie...
@@ -9220,7 +9220,7 @@ brutal, que la tolérance est le plus sûr moyen d'attirer les âmes
 sa chaise.
 
 Mais il n'y resta que deux minutes. Puis, dès qu'il fut parti,
-M. Homais dit au médecin:
+models. Homais dit au médecin:
 
 -- Voilà ce qui s'appelle une prise de bec! Je l'ai roulé, vous
 avez vu, d'une manière!... Enfin, croyez-moi, conduisez Madame au
@@ -9514,7 +9514,7 @@ monde!...
 
 Il ajouta:
 
--- Devine un peu qui j'ai rencontré là-haut? M. Léon!
+-- Devine un peu qui j'ai rencontré là-haut? models. Léon!
 
 -- Léon?
 
@@ -9594,13 +9594,13 @@ Puis Léon dit en soupirant
 
 -- Oui, j'étouffe; partons.
 
-M. Léon posa délicatement sur ses épaules son long châle de
+models. Léon posa délicatement sur ses épaules son long châle de
 dentelle, et ils allèrent tous les trois s'asseoir sur le port, en
 plein air, devant le vitrage d'un café.
 
 Il fut d'abord question de sa maladie, bien qu'Emma interrompît
 Charles de temps à autre, par crainte, disait-elle, d'ennuyer
-M. Léon; et celui-ci leur raconta qu'il venait à Rouen passer deux
+models. Léon; et celui-ci leur raconta qu'il venait à Rouen passer deux
 ans dans une forte étude, afin de se rompre aux affaires, qui
 étaient différentes en Normandie de celles que l'on traitait à
 Paris. Puis il s'informa de Berthe, de la famille Homais, de la
@@ -9672,7 +9672,7 @@ TROISIÈME PARTIE
 
 I
 
-M. Léon, tout en étudiant son droit, avait passablement fréquenté
+models. Léon, tout en étudiant son droit, avait passablement fréquenté
 la Chaumière, où il obtint même de fort jolis succès près des
 grisettes, qui lui trouvaient l'air distingué. C'était le plus
 convenable des étudiants: il ne portait les cheveux ni trop longs
@@ -9705,7 +9705,7 @@ la femme riche semble avoir autour d'elle, pour garder sa vertu,
 tous ses billets de banque, comme une cuirasse, dans la doublure
 de son corset.
 
-En quittant la veille au soir M. et madame Bovary, Léon, de loin,
+En quittant la veille au soir models. et madame Bovary, Léon, de loin,
 les avait suivis dans la rue; puis les ayant vus s'arrêter à la
 Croix rouge, il avait tourné les talons et passé toute la nuit à
 méditer un plan.
@@ -9982,7 +9982,7 @@ l'heure:
 Il comprit l'allusion et chercha son chapeau.
 
 -- J'en ai même oublié le spectacle! Ce pauvre Bovary qui m'avait
-laissée tout exprès! M Lormeaux, de la rue Grand-Pont, devait m'y
+laissée tout exprès! models Lormeaux, de la rue Grand-Pont, devait m'y
 conduire avec sa femme.
 
 Et l'occasion était perdue, car elle partait dès le lendemain.
@@ -10397,7 +10397,7 @@ tenait en vedette devant la maison du maréchal. Hivert retint ses
 chevaux, et la cuisinière, se haussant jusqu'au vasistas, dit
 mystérieusement:
 
--- Madame il faut que vous alliez tout de suite chez M. Homais.
+-- Madame il faut que vous alliez tout de suite chez models. Homais.
 C'est pour quelque chose de pressé.
 
 Le village était silencieux comme d'habitude. Au coin des rues, il
@@ -10574,7 +10574,7 @@ sûr, au moins, qu'ils ne l'aient pas lu? peux-tu me certifier...?
 En effet, le sieur Bovary père venait de décéder l'avant-veille,
 tout à coup, d'une attaque d'apoplexie, au sortir de table; et,
 par excès de précaution pour la sensibilité d'Emma, Charles avait
-prié M. Homais de lui apprendre avec ménagement cette horrible
+prié models. Homais de lui apprendre avec ménagement cette horrible
 nouvelle.
 
 Il avait médité sa phrase, il l'avait arrondie, polie, rythmée;
@@ -10583,7 +10583,7 @@ tournures fines et de délicatesse; mais la colère avait emporté la
 rhétorique.
 
 Emma, renonçant à avoir aucun détail, quitta donc la pharmacie;
-car M. Homais avait repris le cours de ses vitupérations. Il se
+car models. Homais avait repris le cours de ses vitupérations. Il se
 calmait cependant, et, à présent, il grommelait d'un ton paterne,
 tout en s'éventant avec son bonnet grec:
 
@@ -10709,7 +10709,7 @@ de chambre, restait les deux mains dans ses poches et ne parlait
 pas non plus; près d'eux, Berthe, en petit tablier blanc, raclait
 avec sa pelle le sable des allées.
 
-Tout à coup, ils virent entrer par la barrière M. Lheureux, le
+Tout à coup, ils virent entrer par la barrière models. Lheureux, le
 marchand d'étoffes.
 
 Il venait offrir ses services, eu égard à la fatale circonstance.
@@ -10739,7 +10739,7 @@ mère:
 Il ne voulait point qu'elle connût l'histoire du billet, redoutant
 ses observations.
 
-Dès qu'ils furent seuls, M. Lheureux se mit, en termes assez nets,
+Dès qu'ils furent seuls, models. Lheureux se mit, en termes assez nets,
 à féliciter Emma sur la succession, puis à causer de choses
 indifférentes, des espaliers, de la récolte et de sa santé à lui,
 qui allait toujours couci-couci, entre le zist et le zest. En
@@ -10812,7 +10812,7 @@ Lheureux.
 
 Charles, naïvement, lui demanda d'où venait ce papier.
 
--- De M. Guillaumin.
+-- De models. Guillaumin.
 
 Et, avec le plus grand sang-froid du monde, elle ajouta:
 
@@ -10832,7 +10832,7 @@ mutinerie factice:
 -- Comme tu es bonne! dit-il en la baisant au front.
 
 Dès le lendemain, elle s'embarqua dans l'Hirondelle pour aller à
-Rouen consulter M. Léon; et elle y resta trois jours.
+Rouen consulter models. Léon; et elle y resta trois jours.
 
 
 III
@@ -10993,7 +10993,7 @@ fois la semaine. Emma n'en doutait pas. Elle était, d'ailleurs,
 pleine d'espoir. Il allait lui venir de l'argent.
 
 Aussi, elle acheta pour sa chambre une paire de rideaux jaunes à
-larges raies, dont M. Lheureux lui avait vanté le bon marché; elle
+larges raies, dont models. Lheureux lui avait vanté le bon marché; elle
 rêva un tapis, et Lheureux, affirmant «que ce n'était pas la mer à
 boire», s'engagea poliment à lui en fournir un. Elle ne pouvait
 plus se passer de ses services. Vingt fois dans la journée elle
@@ -11510,7 +11510,7 @@ croire qu'elle avait pris par le côté gauche.
 
 Un matin qu'elle venait de partir, selon sa coutume, assez
 légèrement vêtue, il tomba de la neige tout à coup; et comme
-Charles regardait le temps à la fenêtre, il aperçut M. Bournisien
+Charles regardait le temps à la fenêtre, il aperçut models. Bournisien
 dans le boc du sieur Tuvache qui le conduisait à Rouen. Alors il
 descendit confier à l'ecclésiastique un gros châle pour qu'il le
 remît à Madame, sitôt qu'il arriverait à la Croix rouge. À peine
@@ -11528,7 +11528,7 @@ utile de descendre chaque fois à la Croix rouge, de sorte que les
 bonnes gens de son village qui la voyaient dans l'escalier ne se
 doutaient de rien.
 
-Un jour pourtant, M. Lheureux la rencontra qui sortait de l'hôtel
+Un jour pourtant, models. Lheureux la rencontra qui sortait de l'hôtel
 de Boulogne au bras de Léon; et elle eut peur, s'imaginant qu'il
 bavarderait. Il n'était pas si bête.
 
@@ -11556,7 +11556,7 @@ Elle baissa la tête; il reprit:
 
 Et il indiqua une méchante masure sise à Barneville, près
 d'Aumale, qui ne rapportait pas grand-chose. Cela dépendait
-autrefois d'une petite ferme vendue par M. Bovary père, car
+autrefois d'une petite ferme vendue par models. Bovary père, car
 Lheureux savait tout, jusqu'à la contenance d'hectares, avec le
 nom des voisins.
 
@@ -11616,7 +11616,7 @@ mille francs chacun.
 Elle se récria, scandalisée.
 
 -- Mais, si je vous donne le surplus, répondit effrontément
-M. Lheureux, n'est-ce pas vous rendre service, à vous?
+models. Lheureux, n'est-ce pas vous rendre service, à vous?
 
 Et, prenant une plume, il écrivit au bas du mémoire: «Reçu de
 madame Bovary quatre mille francs.»
@@ -11665,7 +11665,7 @@ quand Emma voulut savoir s'il en avait tiré quelque chose:
 
 -- Oui, répondit-il. Mais elle demande à connaître la facture.
 
-Le lendemain, au point du jour, Emma courut chez M. Lheureux le
+Le lendemain, au point du jour, Emma courut chez models. Lheureux le
 prier de refaire une autre note, qui ne dépassât point mille
 francs; car pour montrer celle de quatre mille, il eût fallu dire
 qu'elle en avait payé les deux tiers, avouer conséquemment la
@@ -11733,7 +11733,7 @@ Charles n'en resta pas moins fort penaud vis-à-vis d'Emma, celle-
 ci ne cachant point la rancune qu'elle lui gardait pour avoir
 manqué de confiance; il fallut bien des prières avant qu'elle
 consentît à reprendre sa procuration, et même il l'accompagna chez
-M. Guillaumin pour lui en faire faire une seconde, toute pareille.
+models. Guillaumin pour lui en faire faire une seconde, toute pareille.
 
 -- Je comprends cela, dit le notaire; un homme de science ne peut
 s'embarrasser aux détails pratiques de la vie.
@@ -11759,7 +11759,7 @@ complètement affranchie de sa dépendance.
 Un soir, elle ne rentra point à Yonville. Charles en perdait la
 tête, et la petite Berthe, ne voulant pas se coucher sans sa
 maman, sanglotait à se rompre la poitrine. Justin était parti au
-hasard sur la route. M. Homais en avait quitté sa pharmacie.
+hasard sur la route. models. Homais en avait quitté sa pharmacie.
 
 Enfin, à onze heures, n'y tenant plus, Charles attela son boc,
 sauta dedans, fouetta sa bête et arriva vers deux heures du matin
@@ -11778,7 +11778,7 @@ auvents: Un agent de police vint à passer; alors il eut peur et
 s'en alla.
 
 -- Je suis fou, se disait-il; sans doute, on l'aura retenue à
-dîner chez M. Lormeaux.
+dîner chez models. Lormeaux.
 
 La famille Lormeaux n'habitait plus Rouen.
 
@@ -11854,7 +11854,7 @@ Dans les voyages qu'il faisait pour la voir, Léon souvent avait
 dîné chez le pharmacien, et s'était cru contraint, par politesse,
 de l'inviter à son tour.
 
--- Volontiers! avait répondu M. Homais; il faut, d'ailleurs, que
+-- Volontiers! avait répondu models. Homais; il faut, d'ailleurs, que
 je me retrempe un peu, car je m'encroûte ici. Nous irons au
 spectacle, au restaurant, nous ferons des folies!
 
@@ -11877,7 +11877,7 @@ bourgeois, disant _turne, bazar, chicard, chicandard, Breda-
 street, _et _Je me la casse_, pour: Je m'en vais.
 
 Donc, un jeudi, Emma fut surprise de rencontrer, dans la cuisine
-du Lion d'or, M. Homais en costume de voyageur, c'est-à-dire
+du Lion d'or, models. Homais en costume de voyageur, c'est-à-dire
 couvert d'un vieux manteau qu'on ne lui connaissait pas, tandis
 qu'il portait d'une main une valise, et, de l'autre, la
 chancelière de son établissement. Il n'avait confié son projet à
@@ -11887,7 +11887,7 @@ L'idée de revoir les lieux où s'était passée sa jeunesse
 l'exaltait sans doute, car tout le long du chemin il n'arrêta pas
 de discourir; puis, à peine arrivé, il sauta vivement de la
 voiture pour se mettre en quête de Léon; et le clerc eut beau se
-débattre, M. Homais l'entraîna vers le grand café de Normandie, où
+débattre, models. Homais l'entraîna vers le grand café de Normandie, où
 il entra majestueusement sans retirer son chapeau, estimant fort
 provincial de se découvrir dans un endroit public.
 
@@ -11968,7 +11968,7 @@ escalada l'escalier, et trouva sa maîtresse en grand émoi.
 
 Au nom du pharmacien, elle s'emporta. Cependant, il accumulait de
 bonnes raisons; ce n'était pas sa faute, ne connaissait-elle pas
-M. Homais? pouvait-elle croire qu'il préférât sa compagnie? Mais
+models. Homais? pouvait-elle croire qu'il préférât sa compagnie? Mais
 elle se détournait; il la retint; et, s'affaissant sur les genoux,
 il lui entoura la taille de ses deux bras, dans une pose
 langoureuse toute pleine de concupiscence et de supplication.
@@ -12004,7 +12004,7 @@ Et comme le clerc s'obstinait toujours:
 -- J'y vais aussi. Je lirai un journal en vous attendant, ou je
 feuilletterai un Code.
 
-Léon, étourdi par la colère d'Emma, le bavardage de M. Homais et
+Léon, étourdi par la colère d'Emma, le bavardage de models. Homais et
 peut-être les pesanteurs du déjeuner, restait indécis et comme
 sous la fascination du pharmacien qui répétait:
 
@@ -12125,7 +12125,7 @@ Emma vivait tout occupée des siennes, et ne s'inquiétait pas plus
 de l'argent qu'une archiduchesse.
 
 Une fois pourtant, un homme d'allure chétive, rubicond et chauve,
-entra chez elle, se déclarant envoyé par M. Vinçart, de Rouen. Il
+entra chez elle, se déclarant envoyé par models. Vinçart, de Rouen. Il
 retira les épingles qui fermaient la poche latérale de sa longue
 redingote verte, les piqua sur sa manche et tendit poliment un
 papier.
@@ -12140,7 +12140,7 @@ Alors, l'inconnu, qui était resté debout, lançant de droite et de
 gauche des regards curieux que dissimulaient ses gros sourcils
 blonds, demanda d'un air naïf:
 
--- Quelle réponse apporter à M. Vinçart?
+-- Quelle réponse apporter à models. Vinçart?
 
 -- Eh bien, répondit Emma, dites-lui... que je n'en ai pas... Ce
 sera la semaine prochaine... Qu'il attende... oui, la semaine
@@ -12168,7 +12168,7 @@ quelques registres, défendus transversalement par une barre de fer
 cadenassée. Contre le mur, sous des coupons d'indienne, on
 entrevoyait un coffre-fort, mais d'une telle dimension, qu'il
 devait contenir autre chose que des billets et de l'argent.
-M. Lheureux, en effet, prêtait sur gages, et c'est là qu'il avait
+models. Lheureux, en effet, prêtait sur gages, et c'est là qu'il avait
 mis la chaîne en or de madame Bovary, avec les boucles d'oreilles
 du pauvre père Tellier, qui, enfin contraint de vendre, avait
 acheté à Quincampoix un maigre fonds d'épicerie, où il se mourait
@@ -12196,12 +12196,12 @@ ne pas faire circuler ses billets; il en convenait.
 saisie...; bernique!
 
 Emma se retenait pour ne pas le battre. Elle lui demanda doucement
-s'il n'y avait pas moyen de calmer M. Vinçart.
+s'il n'y avait pas moyen de calmer models. Vinçart.
 
 -- Ah bien, oui! calmer Vinçart; vous ne le connaissez guère; il
 est plus féroce qu'un Arabe.
 
-Pourtant il fallait que M. Lheureux s'en mêlât.
+Pourtant il fallait que models. Lheureux s'en mêlât.
 
 -- Écoutez donc! il me semble que, jusqu'à présent, j'ai été assez
 bon pour vous.
@@ -12228,7 +12228,7 @@ D'ailleurs, il n'avait pas un centime, personne à présent ne le
 payait, on lui mangeait la laine sur le dos, un pauvre boutiquier
 comme lui ne pouvait faire d'avances.
 
-Emma se taisait; et M. Lheureux, qui mordillonnait les barbes
+Emma se taisait; et models. Lheureux, qui mordillonnait les barbes
 d'une plume, sans doute s'inquiéta de son silence, car il reprit:
 
 -- Au moins, si un de ces jours j'avais quelques rentrées... Je
@@ -12293,7 +12293,7 @@ Pour se faire de l'argent, elle se mit à vendre ses vieux gants,
 ses vieux chapeaux, la vieille ferraille; et elle marchandait avec
 rapacité, -- son sang de paysanne la poussant au gain. Puis, dans
 ses voyages à la ville, elle brocanterait des babioles, que
-M. Lheureux, à défaut d'autres, lui prendrait certainement. Elle
+models. Lheureux, à défaut d'autres, lui prendrait certainement. Elle
 s'acheta des plumes d'autruche, de la porcelaine chinoise et des
 bahuts; elle empruntait à Félicité, à madame Lefrançois, à
 l'hôtelière de la Croix rouge, à tout le monde, n'importe où. Avec
@@ -12841,7 +12841,7 @@ autrefois, croyant voir sur la table, à la lueur des torches
 jaunes, entre les brocs d'hypocras et les gigantesques
 charcuteries, des têtes de Sarrasins à dévorer. La femme de
 l'apothicaire les croquait comme eux, héroïquement, malgré sa
-détestable dentition; aussi, toutes les fois que M. Homais faisait
+détestable dentition; aussi, toutes les fois que models. Homais faisait
 un voyage à la ville, il ne manquait pas de lui en rapporter,
 qu'il prenait toujours chez le grand faiseur, rue Massacre.
 
@@ -12875,7 +12875,7 @@ suivre un régime.
 
 Il l'engageait à prendre de bon vin, de bonne bière, de bons
 rôtis. L'Aveugle continuait sa chanson; il paraissait, d'ailleurs,
-presque idiot. Enfin, M. Homais ouvrit sa bourse.
+presque idiot. Enfin, models. Homais ouvrit sa bourse.
 
 -- Tiens, voilà un sou, rends-moi deux liards; et n'oublie pas mes
 recommandations, tu t'en trouveras bien.
@@ -12885,7 +12885,7 @@ l'apothicaire certifia qu'il le guérirait lui-même, avec une
 pommade antiphlogistique de sa composition, et il donna son
 adresse:
 
--- M. Homais, près des halles, suffisamment connu.
+-- models. Homais, près des halles, suffisamment connu.
 
 -- Eh bien, pour la peine, dit Hivert, tu vas nous montrer la
 comédie.
@@ -12897,7 +12897,7 @@ hurlement sourd, comme un chien affamé. Emma, prise de dégoût, lui
 envoya, par-dessus l'épaule, une pièce de cinq francs. C'était
 toute sa fortune. Il lui semblait beau de la jeter ainsi.
 
-La voiture était repartie, quand soudain M. Homais se pencha en
+La voiture était repartie, quand soudain models. Homais se pencha en
 dehors du vasistas et cria:
 
 -- Pas de farineux ni de laitage! Porter de la laine sur la peau
@@ -12918,7 +12918,7 @@ sur la place. Il y avait un attroupement autour des halles pour
 lire une grande affiche collée contre un des poteaux, et elle vit
 Justin qui montait sur une borne et qui déchirait l'affiche. Mais,
 à ce moment, le garde champêtre lui posa la main sur le collet.
-M. Homais sortit de la pharmacie, et la mère Lefrançois, au milieu
+models. Homais sortit de la pharmacie, et la mère Lefrançois, au milieu
 de la foule, avait l'air de pérorer.
 
 -- Madame! madame! s'écria Félicité en entrant, c'est une
@@ -12932,7 +12932,7 @@ Alors elles se considérèrent silencieusement. Elles n'avaient, la
 servante et la maîtresse, aucun secret l'une pour l'autre. Enfin
 Félicité soupira:
 
--- Si j'étais de vous, madame, j'irais chez M. Guillaumin.
+-- Si j'étais de vous, madame, j'irais chez models. Guillaumin.
 
 -- Tu crois?...
 
@@ -13594,7 +13594,7 @@ sérénité d'un devoir accompli.
 Quand Charles, bouleversé par la nouvelle de la saisie, était
 rentré à la maison, Emma venait d'en sortir. Il cria, pleura,
 s'évanouit, mais elle ne revint pas. Où pouvait-elle être? Il
-envoya Félicité chez Homais, chez M. Tuvache, chez Lheureux, au
+envoya Félicité chez Homais, chez models. Tuvache, chez Lheureux, au
 Lion d'or, partout; et, dans les intermittences de son angoisse,
 il voyait sa considération anéantie, leur fortune perdue, l'avenir
 de Berthe brisé! Par quelle cause?... pas un mot! Il attendit
@@ -13716,7 +13716,7 @@ chambre. Il se heurtait aux meubles, s'arrachait les cheveux, et
 jamais le pharmacien n'avait cru qu'il pût y avoir de si
 épouvantable spectacle.
 
-Il revint chez lui pour écrire à M. Canivet et au docteur
+Il revint chez lui pour écrire à models. Canivet et au docteur
 Larivière. Il perdait la tête; il fit plus de quinze brouillons.
 Hippolyte partit à Neufchâtel, et Justin talonna si fort le cheval
 de Bovary, qu'il le laissa dans la côte du bois Guillaume, fourbu
@@ -13837,7 +13837,7 @@ s'efforçait de lui faire boire. Il était debout, son mouchoir sur
 les lèvres, râlant, pleurant, et suffoqué par des sanglots qui le
 secouaient jusqu'aux talons; Félicité courait çà et là dans la
 chambre; Homais, immobile, poussait de gros soupirs, et
-M. Canivet, gardant toujours son aplomb, commençait néanmoins à se
+models. Canivet, gardant toujours son aplomb, commençait néanmoins à se
 sentir troublé.
 
 -- Diable!... cependant... elle est purgée, et, du moment que la
@@ -13917,7 +13917,7 @@ ses mains.
 
 Le pharmacien les rejoignit sur la place. Il ne pouvait, par
 tempérament, se séparer des gens célèbres. Aussi conjura-t-il
-M. Larivière de lui faire cet insigne honneur d'accepter à
+models. Larivière de lui faire cet insigne honneur d'accepter à
 déjeuner.
 
 On envoya bien vite prendre des pigeons au Lion d'or, tout ce
@@ -13994,7 +13994,7 @@ porphyrisé lui-même, mixtionné lui-même.
 Puis il fit descendre tous ses enfants, curieux d'avoir l'avis du
 chirurgien sur leur constitution.
 
-Enfin, M. Larivière allait partir, quand madame Homais lui demanda
+Enfin, models. Larivière allait partir, quand madame Homais lui demanda
 une consultation pour son mari. Il s'épaississait le sang à
 s'endormir chaque soir après le dîner.
 
@@ -14004,7 +14004,7 @@ Et, souriant un peu de ce calembour inaperçu, le docteur ouvrit la
 porte. Mais la pharmacie regorgeait de monde; et il eut grand-
 peine à pouvoir se débarrasser du sieur Tuvache, qui redoutait
 pour son épouse une fluxion de poitrine, parce qu'elle avait
-coutume de cracher dans les cendres; puis de M. Binet, qui
+coutume de cracher dans les cendres; puis de models. Binet, qui
 éprouvait parfois des fringales, et de madame Caron, qui avait des
 picotements; de Lheureux, qui avait des vertiges; de Lestiboudois,
 qui avait un rhumatisme; de madame Lefrançois, qui avait des
@@ -14012,7 +14012,7 @@ aigreurs. Enfin les trois chevaux détalèrent, et l'on trouva
 généralement qu'il n'avait point montré de complaisance.
 
 L'attention publique fut distraite par l'apparition de
-M. Bournisien, qui passait sous les halles avec les saintes
+models. Bournisien, qui passait sous les halles avec les saintes
 huiles.
 
 Homais, comme il le devait à ses principes, compara les prêtres à
@@ -14022,7 +14022,7 @@ soutane le faisait rêver au linceul, et il exécrait l'une un peu
 par épouvante de l'autre.
 
 Néanmoins, ne reculant pas devant ce qu'il appelait sa mission, il
-retourna chez Bovary en compagnie de Canivet, que M. Larivière,
+retourna chez Bovary en compagnie de Canivet, que models. Larivière,
 avant de partir, avait engagé fortement à cette démarche; et même,
 sans les représentations de sa femme, il eût emmené avec lui ses
 deux fils, afin de les accoutumer aux fortes circonstances, pour
@@ -14069,7 +14069,7 @@ Jésus-Christ et s'abandonner à la miséricorde divine.
 En finissant ses exhortations, il essaya de lui mettre dans la
 main un cierge bénit, symbole des gloires célestes dont elle
 allait tout à l'heure être environnée. Emma, trop faible, ne put
-fermer les doigts, et le cierge, sans M. Bournisien, serait tombé
+fermer les doigts, et le cierge, sans models. Bournisien, serait tombé
 à terre.
 
 Cependant elle n'était plus aussi pâle, et son visage avait une
@@ -14097,7 +14097,7 @@ croire déjà morte, sans l'effrayante accélération de ses côtes,
 secouées par un souffle furieux, comme si l'âme eût fait des bonds
 pour se détacher. Félicité s'agenouilla devant le crucifix, et le
 pharmacien lui-même fléchit un peu les jarrets, tandis que
-M. Canivet regardait vaguement sur la place. Bournisien s'était
+models. Canivet regardait vaguement sur la place. Bournisien s'était
 remis en prière, la figure inclinée contre le bord de la couche,
 avec sa longue soutane noire qui traînait derrière lui dans
 l'appartement. Charles était de l'autre côté, à genoux, les bras
@@ -14160,7 +14160,7 @@ Et il pleurait.
 vous soulagera!
 
 Devenu plus faible qu'un enfant, Charles se laissa conduire en
-bas, dans la salle, et M. Homais bientôt s'en retourna chez lui.
+bas, dans la salle, et models. Homais bientôt s'en retourna chez lui.
 
 Il fut sur la Place accosté par l'Aveugle, qui, s'étant traîné
 jusqu'à Yonville dans l'espoir de la pommade antiphlogistique,
@@ -14179,7 +14179,7 @@ Yonvillais eurent tous entendu son histoire d'arsenic qu'elle
 avait pris pour du sucre, en faisant une crème à la vanille,
 Homais, encore une fois, retourna chez Bovary.
 
-Il le trouva seul (M. Canivet venait de partir), assis dans le
+Il le trouva seul (models. Canivet venait de partir), assis dans le
 fauteuil, près de la fenêtre, et contemplant d'un regard idiot les
 pavés de la salle.
 
@@ -14211,11 +14211,11 @@ baissa la tête en signe d'approbation.
 L'apothicaire, à bout d'idées, se mit à écarter doucement les
 petits rideaux du vitrage.
 
--- Tiens, voilà M. Tuvache qui passe.
+-- Tiens, voilà models. Tuvache qui passe.
 
 Charles répéta comme une machine:
 
--- M. Tuvache qui passe.
+-- models. Tuvache qui passe.
 
 Homais n'osa lui reparler des dispositions funèbres; ce fut
 l'ecclésiastique qui parvint à l'y résoudre.
@@ -14264,12 +14264,12 @@ carreaux, à voir descendre les uns après les autres tous les
 voyageurs. Félicité lui étendit un matelas dans le salon; il se
 jeta dessus et s'endormit.
 
-Bien que philosophe, M. Homais respectait les morts. Aussi, sans
+Bien que philosophe, models. Homais respectait les morts. Aussi, sans
 garder rancune au pauvre Charles, il revint le soir pour faire la
 veillée du cadavre, apportant avec lui trois volumes, et un
 portefeuille afin de prendre des notes.
 
-M. Bournisien s'y trouvait, et deux grands cierges brûlaient au
+models. Bournisien s'y trouvait, et deux grands cierges brûlaient au
 chevet du lit, que l'on avait tiré hors de l'alcôve.
 
 L'apothicaire, à qui le silence pesait, ne tarda pas à formuler
@@ -14315,7 +14315,7 @@ pesait sur elle.
 
 L'horloge de l'église sonna deux heures. On entendait le gros
 murmure de la rivière qui coulait dans les ténèbres, au pied de la
-terrasse. M. Bournisien, de temps à autre, se mouchait bruyamment,
+terrasse. models. Bournisien, de temps à autre, se mouchait bruyamment,
 et Homais faisait grincer sa plume sur le papier.
 
 -- Allons, mon bon ami, dit-il, retirez-vous, ce spectacle vous
@@ -14436,7 +14436,7 @@ l'ecclésiastique. C'est comme les abeilles: elles s'envolent de la
 ruche au décès des personnes. Homais ne releva pas ces préjugés,
 car il s'était rendormi.
 
-M. Bournisien, plus robuste, continua quelque temps à remuer tout
+models. Bournisien, plus robuste, continua quelque temps à remuer tout
 bas les lèvres; puis, insensiblement, il baissa le menton, lâcha
 son gros livre noir et se mit à ronfler.
 
@@ -14493,7 +14493,7 @@ blanches dans cette belle chevelure noire.
 
 Le pharmacien et le curé se replongèrent dans leurs occupations,
 non sans dormir de temps à autre, ce dont ils s'accusaient
-réciproquement à chaque réveil nouveau. Alors M. Bournisien
+réciproquement à chaque réveil nouveau. Alors models. Bournisien
 aspergeait la chambre d'eau bénite et Homais jetait un peu de
 chlore par terre.
 
@@ -14530,7 +14530,7 @@ le drap noir.
 X
 
 Il n'avait reçu la lettre du pharmacien que trente-six heures
-après l'événement; et, par égard pour sa sensibilité, M. Homais
+après l'événement; et, par égard pour sa sensibilité, models. Homais
 l'avait rédigée de telle façon qu'il était impossible de savoir à
 quoi s'en tenir.
 
@@ -14605,7 +14605,7 @@ La cloche tintait. Tout était prêt. Il fallut se mettre en marche.
 Et, assis dans une stalle du choeur, l'un près de l'autre, ils
 virent passer, devant eux et repasser continuellement les trois
 chantres qui psalmodiaient. Le serpent soufflait à pleine
-poitrine. M. Bournisien, en grand appareil, chantait d'une voix
+poitrine. models. Bournisien, en grand appareil, chantait d'une voix
 aiguë; il saluait le tabernacle, élevait les mains, étendait les
 bras. Lestiboudois circulait dans l'église avec sa latte de
 baleine; près du lutrin, la bière reposait entre quatre rangs de
@@ -14698,7 +14698,7 @@ par les cailloux, fit ce bruit formidable qui nous semble être le
 retentissement de l'éternité.
 
 L'ecclésiastique passa le goupillon à son voisin. C'était
-M. Homais. Il le secoua gravement, puis le tendit à Charles, qui
+models. Homais. Il le secoua gravement, puis le tendit à Charles, qui
 s'affaissa jusqu'aux genoux dans la terre, et il en jetait à
 pleines mains tout en criant: «Adieu!» Il lui envoyait des
 baisers; il se traînait vers la fosse pour s'y engloutir avec
@@ -14709,7 +14709,7 @@ comme tous les autres, la vague satisfaction d'en avoir fini.
 
 Le père Rouault, en revenant, se mit tranquillement à fumer une
 pipe; ce que Homais, dans son for intérieur, jugea peu convenable.
-Il remarqua de même que M. Binet s'était abstenu de paraître, que
+Il remarqua de même que models. Binet s'était abstenu de paraître, que
 Tuvache «avait filé» après la messe, et que Théodore, le
 domestique du notaire, portait un habit bleu, «comme si l'on ne
 pouvait pas trouver un habit noir, puisque c'est l'usage, que
@@ -14800,7 +14800,7 @@ rapporterait des joujoux. Berthe en reparla plusieurs fois; puis,
 navrait Bovary, et il avait à subir les intolérables consolations
 du pharmacien.
 
-Les affaires d'argent bientôt recommencèrent, M. Lheureux excitant
+Les affaires d'argent bientôt recommencèrent, models. Lheureux excitant
 de nouveau son ami Vinçart, et Charles s'engagea pour des sommes
 exorbitantes; car jamais il ne voulut consentir à laisser vendre
 le moindre des meubles ne lui avaient appartenu. Sa mère en fut
@@ -14835,7 +14835,7 @@ Mais, à la Pentecôte, elle décampa d'Yonville, enlevée par
 Théodore, et en volant tout ce qui restait de la garde-robe.
 
 Ce fut vers cette époque que madame veuve Dupuis eut l'honneur de
-lui faire part du «mariage de M. Léon Dupuis, son fils, notaire à
+lui faire part du «mariage de models. Léon Dupuis, son fils, notaire à
 Yvetot, avec mademoiselle Léocadie Leboeuf, de Bondeville».
 Charles, parmi les félicitations qu'il lui adressa, écrivit cette
 phrase:
@@ -14897,7 +14897,7 @@ triste, qu'elle devenait triste comme lui.
 
 Personne à présent ne venait les voir; car Justin s'était enfui à
 Rouen, où il est devenu garçon épicier, et les enfants de
-l'apothicaire fréquentaient de moins en moins la petite, M. Homais
+l'apothicaire fréquentaient de moins en moins la petite, models. Homais
 ne se souciant pas, vu la différence de leurs conditions sociales,
 que l'intimité se prolongeât.
 
@@ -14999,7 +14999,7 @@ c'était toujours le même rêve: il s'approchait d'elle; mais, quand
 il venait à l'étreindre, elle tombait en pourriture dans ses bras.
 
 On le vit pendant une semaine entrer le soir à l'église.
-M. Bournisien lui fit même deux ou trois visites, puis
+models. Bournisien lui fit même deux ou trois visites, puis
 l'abandonna. D'ailleurs, le bonhomme tournait à l'intolérance, au
 fanatisme, disait Homais; il fulminait contre l'esprit du siècle,
 et ne manquait pas, tous les quinze jours, au sermon, de raconter
@@ -15048,7 +15048,7 @@ seule).
 serait que de me signaler aux incendies!
 
 Alors Homais inclina vers le Pouvoir. Il rendit secrètement à
-M. le préfet de grands services dans les élections. Il se vendit
+models. le préfet de grands services dans les élections. Il se vendit
 enfin, il se prostitua. Il adressa même au souverain une pétition
 où il le suppliait de lui faire justice; il l'appelait notre bon
 roi et le comparait à Henri IV.
@@ -15091,7 +15091,7 @@ Cependant la volupté de sa douleur était incomplète, car il
 n'avait autour de lui personne qui la partageât; et il faisait des
 visites à la mère Lefrançois afin de pouvoir parler d'elle. Mais
 l'aubergiste ne l'écoutait que d'une oreille, ayant comme lui des
-chagrins, car M. Lheureux venait enfin d'établir les Favorites du
+chagrins, car models. Lheureux venait enfin d'établir les Favorites du
 commerce, et Hivert, qui jouissait d'une grande réputation pour
 les commissions, exigeait un surcroît d'appointements et menaçait
 de s'engager «à la Concurrence».
@@ -15156,7 +15156,7 @@ Et, croyant qu'il voulait jouer, elle le poussa doucement. Il
 tomba par terre. Il était mort.
 
 Trente-six heures après, sur la demande de l'apothicaire,
-M. Canivet accourut. Il l'ouvrit et ne trouva rien.
+models. Canivet accourut. Il l'ouvrit et ne trouva rien.
 
 Quand tout fut vendu, il resta douze francs soixante et quinze
 centimes qui servirent à payer le voyage de mademoiselle Bovary
@@ -15166,7 +15166,7 @@ Elle est pauvre et l'envoie, pour gagner sa vie, dans une filature
 de coton.
 
 Depuis la mort de Bovary, trois médecins se sont succédé à
-Yonville sans pouvoir y réussir, tant M. Homais les a tout de
+Yonville sans pouvoir y réussir, tant models. Homais les a tout de
 suite battus en brèche. Il fait une clientèle d'enfer; l'autorité
 le ménage et l'opinion publique le protège.
 
