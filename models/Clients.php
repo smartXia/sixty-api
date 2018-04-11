@@ -5,7 +5,7 @@
  * Date: 2017/3/7
  * Time: 下午7:15
  */
-namespace app\M;
+namespace app\models;
 
 use yii\db\ActiveRecord;
 use yii\web\IdentityInterface;

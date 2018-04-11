@@ -5,7 +5,7 @@
  * Date: 2017/9/3
  * Time: 下午9:32
  */
-namespace app\M;
+namespace app\models;
 
 use Qiniu\QiniuUtil;
 use yii\base\Model;

@@ -83,7 +83,7 @@ abstract class KeywordsTest extends \PHPUnit_Framework_TestCase
                     $keywords = explode('|', $i18nKeywords['examples']);
                     $table = new ExampleTableNode(array(
                         ++$line => array('agent1', 'agent2'),
-                        ++$line => array('D', 'M')
+                        ++$line => array('D', 'models')
                     ), $keywords[0]);
                     $line += 1;
 

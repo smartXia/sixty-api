@@ -1855,9 +1855,9 @@ some time without interrupting it.
 
 'They were learning to draw,' the Dormouse went on, yawning and rubbing
 its eyes, for it was getting very sleepy; 'and they drew all manner of
-things--everything that begins with an M--'
+things--everything that begins with an models--'
 
-'Why with an M?' said Alice.
+'Why with an models?' said Alice.
 
 'Why not?' said the March Hare.
 
@@ -1865,7 +1865,7 @@ Alice was silent.
 
 The Dormouse had closed its eyes by this time, and was going off into
 a doze; but, on being pinched by the Hatter, it woke up again with
-a little shriek, and went on: '--that begins with an M, such as
+a little shriek, and went on: '--that begins with an models, such as
 mouse-traps, and the moon, and memory, and muchness--you know you say
 things are "much of a muchness"--did you ever see such a thing as a
 drawing of a muchness?'
@@ -2216,7 +2216,7 @@ Alice was very glad to find her in such a pleasant temper, and thought
 to herself that perhaps it was only the pepper that had made her so
 savage when they met in the kitchen.
 
-'When I'M a Duchess,' she said to herself, (not in a very hopeful tone
+'When I'models a Duchess,' she said to herself, (not in a very hopeful tone
 though), 'I won't have any pepper in my kitchen AT ALL. Soup does very
 well without--Maybe it's always pepper that makes people hot-tempered,'
 she went on, very much pleased at having found out a new kind of
@@ -3142,7 +3142,7 @@ Forty-two. ALL PERSONS MORE THAN A MILE HIGH TO LEAVE THE COURT.'
 
 Everybody looked at Alice.
 
-'I'M not a mile high,' said Alice.
+'I'models not a mile high,' said Alice.
 
 'You are,' said the King.
 

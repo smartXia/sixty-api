@@ -5,7 +5,7 @@
  * Date: 2017/9/9
  * Time: 下午4:23
  */
-namespace app\M;
+namespace app\models;
 
 use yii\db\ActiveRecord;
 

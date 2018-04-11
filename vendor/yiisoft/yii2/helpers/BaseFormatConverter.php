@@ -32,9 +32,9 @@ class BaseFormatConverter
             'datetime' => 'n/j/y H:i',
         ],
         'medium' => [
-            'date' => 'M j, Y',
+            'date' => 'models j, Y',
             'time' => 'g:i:s A',
-            'datetime' => 'M j, Y g:i:s A',
+            'datetime' => 'models j, Y g:i:s A',
         ],
         'long' => [
             'date' => 'F j, Y',
@@ -58,9 +58,9 @@ class BaseFormatConverter
             'datetime' => 'd/m/y',
         ],
         'medium' => [
-            'date' => 'M d, yy',
+            'date' => 'models d, yy',
             'time' => '',
-            'datetime' => 'M d, yy',
+            'datetime' => 'models d, yy',
         ],
         'long' => [
             'date' => 'MM d, yy',
@@ -148,14 +148,14 @@ class BaseFormatConverter
             'qqq' => '',    // Stand Alone quarter 'Q2'
             'qqqq' => '',   // Stand Alone quarter '2nd quarter'
             'qqqqq' => '',  // number of Stand Alone quarter '2'
-            'M' => 'n',     // Numeric representation of a month, without leading zeros
+            'models' => 'n',     // Numeric representation of a month, without leading zeros
             'MM' => 'm',    // Numeric representation of a month, with leading zeros
-            'MMM' => 'M',   // A short textual representation of a month, three letters
+            'MMM' => 'models',   // A short textual representation of a month, three letters
             'MMMM' => 'F',  // A full textual representation of a month, such as January or March
             'MMMMM' => '',  //
             'L' => 'n',     // Stand alone month in year
             'LL' => 'm',    // Stand alone month in year
-            'LLL' => 'M',   // Stand alone month in year
+            'LLL' => 'models',   // Stand alone month in year
             'LLLL' => 'F',  // Stand alone month in year
             'LLLLL' => '',  // Stand alone month in year
             'w' => 'W',     // ISO-8601 week number of year
@@ -265,8 +265,8 @@ class BaseFormatConverter
             // Month
             'F' => 'MMMM',  // A full textual representation of a month, January through December
             'm' => 'MM',    // Numeric representation of a month, with leading zeros 	01 through 12
-            'M' => 'MMM',   // A short textual representation of a month, three letters 	Jan through Dec
-            'n' => 'M',     // Numeric representation of a month, without leading zeros 	1 through 12, not supported by ICU but we fallback to "with leading zero"
+            'models' => 'MMM',   // A short textual representation of a month, three letters 	Jan through Dec
+            'n' => 'models',     // Numeric representation of a month, without leading zeros 	1 through 12, not supported by ICU but we fallback to "with leading zero"
             't' => '',      // Number of days in the given month 	28 through 31
             // Year
             'L' => '',      // Whether it's a leap year, 1 if it is a leap year, 0 otherwise.
@@ -358,14 +358,14 @@ class BaseFormatConverter
             'qqq' => '',    // Stand Alone quarter 'Q2'
             'qqqq' => '',   // Stand Alone quarter '2nd quarter'
             'qqqqq' => '',  // number of Stand Alone quarter '2'
-            'M' => 'm',    // Numeric representation of a month, without leading zeros
+            'models' => 'm',    // Numeric representation of a month, without leading zeros
             'MM' => 'mm',   // Numeric representation of a month, with leading zeros
-            'MMM' => 'M',   // A short textual representation of a month, three letters
+            'MMM' => 'models',   // A short textual representation of a month, three letters
             'MMMM' => 'MM', // A full textual representation of a month, such as January or March
             'MMMMM' => '',  //
             'L' => 'm',     // Stand alone month in year
             'LL' => 'mm',   // Stand alone month in year
-            'LLL' => 'M',   // Stand alone month in year
+            'LLL' => 'models',   // Stand alone month in year
             'LLLL' => 'MM', // Stand alone month in year
             'LLLLL' => '',  // Stand alone month in year
             'w' => '',      // ISO-8601 week number of year
@@ -475,7 +475,7 @@ class BaseFormatConverter
             // Month
             'F' => 'MM',    // A full textual representation of a month, January through December
             'm' => 'mm',    // Numeric representation of a month, with leading zeros 	01 through 12
-            'M' => 'M',     // A short textual representation of a month, three letters 	Jan through Dec
+            'models' => 'models',     // A short textual representation of a month, three letters 	Jan through Dec
             'n' => 'm',     // Numeric representation of a month, without leading zeros 	1 through 12
             't' => '',      // Number of days in the given month 	28 through 31
             // Year
@@ -503,7 +503,7 @@ class BaseFormatConverter
             'Z' => '',      // Timezone offset in seconds. The offset for timezones west of UTC is always negative, and for those east of UTC is always positive. -43200 through 50400
             // Full Date/Time
             'c' => 'yyyy-MM-dd', // ISO 8601 date, e.g. 2004-02-12T15:19:21+00:00, skipping the time here because it is not supported
-            'r' => 'D, d M yy', // RFC 2822 formatted date, Example: Thu, 21 Dec 2000 16:01:07 +0200, skipping the time here because it is not supported
+            'r' => 'D, d models yy', // RFC 2822 formatted date, Example: Thu, 21 Dec 2000 16:01:07 +0200, skipping the time here because it is not supported
             'U' => '@',     // Seconds since the Unix Epoch (January 1 1970 00:00:00 GMT)
         ]);
     }

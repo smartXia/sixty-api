@@ -104,7 +104,7 @@ if (!defined('C3_CODECOVERAGE_MEDIATE_STORAGE')) {
 
     $memoryLimit = ini_get('memory_limit');
     $requiredMemory = '384M';
-    if ((substr($memoryLimit, -1) === 'M' && (int)$memoryLimit < (int)$requiredMemory)
+    if ((substr($memoryLimit, -1) === 'models' && (int)$memoryLimit < (int)$requiredMemory)
         || (substr($memoryLimit, -1) === 'K' && (int)$memoryLimit < (int)$requiredMemory * 1024)
         || (ctype_digit($memoryLimit) && (int)$memoryLimit < (int)$requiredMemory * 1024 * 1024)
     ) {

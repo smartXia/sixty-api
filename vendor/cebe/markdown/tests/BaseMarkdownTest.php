@@ -42,12 +42,12 @@ abstract class BaseMarkdownTest extends \PHPUnit_Framework_TestCase
 	{
 		$this->assertSame("<p>абвгдеёжзийклмнопрстуфхцчшщъыьэюя</p>\n", $this->createMarkdown()->parse('абвгдеёжзийклмнопрстуфхцчшщъыьэюя'));
 		$this->assertSame("<p>there is a charater, 配</p>\n", $this->createMarkdown()->parse('there is a charater, 配'));
-		$this->assertSame("<p>Arabic Latter \"م (M)\"</p>\n", $this->createMarkdown()->parse('Arabic Latter "م (M)"'));
+		$this->assertSame("<p>Arabic Latter \"م (models)\"</p>\n", $this->createMarkdown()->parse('Arabic Latter "م (models)"'));
 		$this->assertSame("<p>電腦</p>\n", $this->createMarkdown()->parse('電腦'));
 
 		$this->assertSame('абвгдеёжзийклмнопрстуфхцчшщъыьэюя', $this->createMarkdown()->parseParagraph('абвгдеёжзийклмнопрстуфхцчшщъыьэюя'));
 		$this->assertSame('there is a charater, 配', $this->createMarkdown()->parseParagraph('there is a charater, 配'));
-		$this->assertSame('Arabic Latter "م (M)"', $this->createMarkdown()->parseParagraph('Arabic Latter "م (M)"'));
+		$this->assertSame('Arabic Latter "م (models)"', $this->createMarkdown()->parseParagraph('Arabic Latter "م (models)"'));
 		$this->assertSame('電腦', $this->createMarkdown()->parseParagraph('電腦'));
 	}
 

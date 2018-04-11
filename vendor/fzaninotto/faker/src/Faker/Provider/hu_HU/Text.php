@@ -165,7 +165,7 @@ Csakis Mr. Gould társaságában mutatkozott a hajón. Ezt a Gouldot szívből g
 Penang előtt furcsa esete volt vele Josénak. A kikötőből egy maláj óriás jött a fedélzetre. Bilincset tört, szöget evett, és izmait játszatta néhány fillérért. Hatalmas izmai voltak. Később a japán dzsiudzsicu birkózás fogásait mutatta be a matrózoknak. José ott szaladgált fel-le a lépcsőkön, frissítővel, tortával, de valamelyik rosszul kiszámított, nagy ívű, kecses mozdulata révén a sétafedélzetről pontosan az erőművész fejére pottyant egy habostorta.
 A maláj hörögve kaparta magáról a csokoládés habot, csattogtatta hatalmas fogait, és végül lovagias mosollyal fojtva el dühét, közölte, hogy Josét szétmorzsolná, ha nem lenne tekintettel az előkelő környezetre.
 A spanyol pincér igen erélyes hangon többféle előétel nevét kiáltotta oda a bennszülöttnek, amitől az érthetően felbőszült.
-- M'Bisung! Glonga! Bon-Bon! - hörögte a maláj.
+- models'Bisung! Glonga! Bon-Bon! - hörögte a maláj.
 - Omlette... à la Sevilla! - üvöltötte José.
 - Sihungi! Mizonga dzur bsefár!
 - Olla potrida! - idézte a pincér transzparens korából, és lerohant. Ott állt lihegve a maláj előtt, és az utasok, boldogan a sok egyhangúság után, mindenfelől összecsődültek.

@@ -72,7 +72,7 @@ Strauß von Blüten, und man möchte zum Maienkäfer werden, um in dem Meer von
 Wohlgerüchen herumschweben und alle seine Nahrung darin finden zu können.
 
 Die Stadt selbst ist unangenehm, dagegen rings umher eine unaussprechliche
-Schönheit der Natur. Das bewog den verstorbenen Grafen von M., einen Garten auf
+Schönheit der Natur. Das bewog den verstorbenen Grafen von models., einen Garten auf
 einem der Hügel anzulegen, die mit der schönsten Mannigfaltigkeit sich kreuzen
 und die lieblichsten Täler bilden. Der Garten ist einfach, und man fühlt
 gleich bei dem Eintritte, daß nicht ein wissenschaftlicher Gärtner, sondern ein
@@ -963,9 +963,9 @@ Neulich fragte mich einer, wie mir Ossian gefiele!
 
 Am 11. Julius
 
-Frau M. ist sehr schlecht; ich bete für ihr Leben, weil ich mit Lotten dulde.
+Frau models. ist sehr schlecht; ich bete für ihr Leben, weil ich mit Lotten dulde.
 Ich sehe sie selten bei einer Freundin, und heute hat sie mir einen
-wunderbaren Vorfall erzählt.—der alte M. ist ein geiziger, rangiger Filz, der seine
+wunderbaren Vorfall erzählt.—der alte models. ist ein geiziger, rangiger Filz, der seine
 Frau im Leben was Rechts geplagt und eingeschränkt hat; doch hat sich die Frau
 immer durchzuhelfen gewußt. Vor wenigen Tagen, als der Arzt ihr das Leben
 abgesprochen hatte, ließ sie ihren Mann kommen (Lotte war im Zimmer) und redete ihn

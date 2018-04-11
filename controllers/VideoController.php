@@ -7,11 +7,11 @@
  */
 namespace app\controllers;
 
-use app\M\ModelFactory;
+use app\models\ModelFactory;
 use Qiniu\QiniuUtil;
 use Yii;
 use yii\web\UploadedFile;
-use app\M\Uploader;
+use app\models\Uploader;
 
 class VideoController extends ComBaseController{
     public function init()

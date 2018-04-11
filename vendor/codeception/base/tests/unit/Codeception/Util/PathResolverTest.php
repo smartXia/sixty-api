@@ -77,7 +77,7 @@ class PathResolverTest extends \Codeception\Test\Unit
             // Device letter mismatch
             ['A:\\my\\proj\\path\\some\\file\\in\\my\\proj.txt', 'B:my\\proj\\path\\',           '\\',  'A:\\my\\proj\\path\\some\\file\\in\\my\\proj.txt'],
             ['c:my\\proj\\path\\some\\file\\in\\my\\proj.json',  'd:\\my\\proj\\path\\',         '\\',  'c:my\\proj\\path\\some\\file\\in\\my\\proj.json'],
-            ['M:my\\proj\\path\\foo.txt',                        'N:my\\proj\\path\\foo\\bar',   '\\',  'M:my\\proj\\path\\foo.txt'],
+            ['models:my\\proj\\path\\foo.txt',                        'N:my\\proj\\path\\foo\\bar',   '\\',  'models:my\\proj\\path\\foo.txt'],
             ['G:\\my\\proj\\path\\baz.exe',                      'C:\\my\\proj\\path\\foobar\\', '\\',  'G:\\my\\proj\\path\\baz.exe'],
             ['C:\\my\\proj\\path\\bam\\',                        'G:\\my\\proj\\path\\foobar\\', '\\',  'C:\\my\\proj\\path\\bam\\'] ];
     }

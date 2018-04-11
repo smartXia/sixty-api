@@ -7,7 +7,6 @@
  */
 namespace app\models;
 
-use app\M\NewsClass;
 use yii\db\ActiveRecord;
 
 class News extends ActiveRecord
@@ -15,7 +14,7 @@ class News extends ActiveRecord
     /**
      * @return string 返回该AR类关联的数据表名
      */
-    public static function tableName()
+    static function tableName()
     {
         return 'news';
     }

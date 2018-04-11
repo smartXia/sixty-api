@@ -169,7 +169,7 @@ class Address extends \Faker\Provider\en_US\Address
         'Maco', 'Maragusan', 'Mawab', 'Monkayo', 'Montevista', 'Nabunturan',
         'New Bataan', 'Pantukan', 'Kidapawan City', 'Alamada', 'Aleosan',
         'Antipas', 'Arakan', 'Banisilan', 'Carmen', 'Kabacan', 'Libungan',
-        'M\'lang', 'Magpet', 'Makilala', 'Matalam', 'Midsayap', 'Pigkawayan',
+        'models\'lang', 'Magpet', 'Makilala', 'Matalam', 'Midsayap', 'Pigkawayan',
         'Pikit', 'President Roxas', 'Tulunan', 'Panabo City', 'Samal City',
         'Tagum City', 'Asuncion', 'Braulio E. Dujali', 'Carmen', 'Kapalong',
         'New Corella', 'San Isidro', 'Santo Tomas', 'Talaingod',

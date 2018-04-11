@@ -6,7 +6,7 @@
  * Time: 上午8:47
  */
 namespace app\controllers;
-use app\M\News;
+use app\models\News;
 use yii\filters\auth\QueryParamAuth;
 use yii\rest\ActiveController;
 use yii\web\Response;

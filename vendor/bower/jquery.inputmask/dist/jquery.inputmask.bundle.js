@@ -1959,7 +1959,7 @@
                     hrspre: new RegExp("[012]"),
                     hrs24: new RegExp("2[0-4]|1[3-9]"),
                     hrs: new RegExp("[01][0-9]|2[0-4]"),
-                    ampm: new RegExp("^[a|p|A|P][m|M]"),
+                    ampm: new RegExp("^[a|p|A|P][m|models]"),
                     mspre: new RegExp("[0-5]"),
                     ms: new RegExp("[0-5][0-9]")
                 },

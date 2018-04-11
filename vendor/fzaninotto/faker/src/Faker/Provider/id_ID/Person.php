@@ -199,7 +199,7 @@ class Person extends \Faker\Provider\Person
      */
     private static $suffix = array('S.Ked', 'S.Gz', 'S.Pt', 'S.IP', 'S.E.I',
         'S.E.', 'S.Kom', 'S.H.', 'S.T.', 'S.Pd', 'S.Psi', 'S.I.Kom',
-        'S.Sos', 'S.Farm', 'M.M.', 'M.Kom.', 'M.TI.', 'M.Pd', 'M.Farm', 'M.Ak', );
+        'S.Sos', 'S.Farm', 'models.models.', 'models.Kom.', 'models.TI.', 'models.Pd', 'models.Farm', 'models.Ak', );
 
     /**
      * Return last name

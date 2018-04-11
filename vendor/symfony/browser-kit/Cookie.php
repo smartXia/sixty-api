@@ -25,13 +25,13 @@ class Cookie
      * @var array
      */
     private static $dateFormats = array(
-        'D, d M Y H:i:s T',
-        'D, d-M-y H:i:s T',
-        'D, d-M-Y H:i:s T',
+        'D, d models Y H:i:s T',
+        'D, d-models-y H:i:s T',
+        'D, d-models-Y H:i:s T',
         'D, d-m-y H:i:s T',
         'D, d-m-Y H:i:s T',
-        'D M j G:i:s Y',
-        'D M d H:i:s Y T',
+        'D models j G:i:s Y',
+        'D models d H:i:s Y T',
     );
 
     protected $name;
