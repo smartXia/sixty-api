@@ -13,7 +13,7 @@ use yii\web\Response;
 
 class UserController extends ActiveController
 {
-    public $modelClass = 'app\M\Users';
+    public $modelClass = 'app\models\Users';
 
     public function behaviors()
     {

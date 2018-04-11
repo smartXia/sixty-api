@@ -11,7 +11,7 @@ use yii\web\Response;
  */
 class TokenController extends ActiveController
 {
-    public $modelClass="app\M\Clients";
+    public $modelClass="app\models\Clients";
 
     public function behaviors()
     {
