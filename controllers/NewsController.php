@@ -13,7 +13,7 @@ use yii\web\Response;
 
 class NewsController extends ActiveController
 {
-    public $modelClass = 'app\M\News';
+    public $modelClass = 'app\models\News';
     public function init()
     {
         $this->enableCsrfValidation= false;
