@@ -2,19 +2,19 @@
 /**
  * Created by PhpStorm.
  * User: liulin
- * Date: 2018/4/12
- * Time: 下午10:18
+ * Date: 2018/4/14
+ * Time: 下午5:59
  */
 namespace app\controllers;
 
-class ArticleController extends BaseController {
-    public $modelClass = 'app\models\Article';
+class TagController extends BaseController {
+    public $modelClass = 'app\models\Tag';
 
     function actionAll() {
         try {
             $model = $this->modelClass;
             $article = $model::find();
-            $articleData =  $article
+            $tagData =  $article
                 /*->where(['or', 'id=:id1', 'id=:id2'])
                 ->addParams([':id1'=>1, ':id2'=>2])*/
                 ->all();
@@ -22,7 +22,7 @@ class ArticleController extends BaseController {
             if ($article) {
                 $result = [
                     'total' => $total,
-                    'data' => $articleData,
+                    'data' => $tagData,
                     'ret' => 1
                 ];
             } else {
