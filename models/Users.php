@@ -2,22 +2,84 @@
 /**
  * Created by PhpStorm.
  * User: liulin
- * Date: 2017/2/26
+ * Date: 2018/4/26
  * Time: 下午5:22
  */
 namespace app\models;
+use yii\base\Model;
 use yii\db\ActiveRecord;
+use \yii\db\Query;
 
 class Users extends ActiveRecord
 {
     static function tableName()
     {
-        return "users";
+        return 'hi_users';
     }
-    function scenarios()
+    public function __construct(array $config = [])
     {
-        return [
-            "default"=> ["user_name","user_pass"]
-        ];
+        parent::__construct($config);
+    }
+
+    public function all($id, $limit = 10, $page = 1) {
+        $offset = ($page - 1) * $limit;
+        $query = new Query;
+        $dataQuery = $query->select(['id', 'nickname', 'avatar', 'status', 'created_at', 'updated_at', 'weibo_uid']);
+        try {
+            $total = $dataQuery->from('hi_users')->count();
+            if ($id) {
+                $userData = $dataQuery->from('hi_users')
+                    ->where('id=:id', [':id' => $id])
+                    ->all();
+            } else {
+                $userData = $dataQuery->from('hi_users')
+                    ->limit($limit)
+                    ->offset($offset)
+                    ->orderBy('created_at desc')
+                    ->all();
+            }
+            if ($userData) {
+                $result = [
+                    'total' => $total,
+                    'data' => $userData,
+                    'ret' => 1
+                ];
+            } else {
+                $result = [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '获取用户数据出错'
+                ];
+            }
+            return $result;
+        } catch (Exception $e) {
+            echo 'Message: ' .$e->getMessage();
+        }
+    }
+
+    public function register ($params) {
+        try {
+             $model = new Users;
+             $model -> nickname = $params['nickname'];
+             $model -> status = $params['status'];
+             $model -> avatar = $params['avatar'];
+             $model -> weibo_uid = $params['weibo_uid'];
+             $result = $model->save();
+             if ($result > 0) {
+                 $result = [
+                     'data' => $result,
+                     'ret' => 1
+                 ];
+             } else {
+                 $result = [
+                     'ret' => 0,
+                     'data' => null,
+                     'msg' => '插入数据失败'
+                 ];
+             }
+             return $result;
+         } catch (Exception $e) {
+             echo 'Message: ' .$e->getMessage();
+         }
     }
 }
