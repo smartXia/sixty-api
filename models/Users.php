@@ -21,7 +21,7 @@ class Users extends ActiveRecord
         parent::__construct($config);
     }
 
-    public function all($id, $limit = 10, $page = 1) {
+    public function all($id, $limit = 100, $page = 1) {
         $offset = ($page - 1) * $limit;
         $query = new Query;
         $dataQuery = $query->select(['id', 'nickname', 'avatar', 'status', 'created_at', 'updated_at', 'weibo_uid']);

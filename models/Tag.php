@@ -7,6 +7,7 @@
  */
 namespace app\models;
 use yii\db\ActiveRecord;
+use yii\db\Query;
 
 class Tag extends ActiveRecord {
     /**
@@ -15,5 +16,41 @@ class Tag extends ActiveRecord {
     static function tableName()
     {
         return 'hi_tags';
+    }
+
+    public function all($id, $limit = 100, $page = 1) {
+        $offset = ($page - 1) * $limit;
+        $query = new Query;
+        $dataQuery = $query->select('*');
+        try {
+            $total = $dataQuery->from('hi_tags')->count();
+            if ($id) {
+                $tagData = $dataQuery->from('hi_tags')
+                    ->where('id=:id', [':id' => $id])
+                    ->all();
+            } else {
+                $tagData = $dataQuery->from('hi_tags')
+                    ->limit($limit)
+                    ->offset($offset)
+                    ->orderBy('create_time desc')
+                    ->all();
+            }
+            if ($tagData) {
+                $result = [
+                    'total' => $total,
+                    'data' => $tagData,
+                    'ret' => 1
+                ];
+            } else {
+                $result = [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '获取文章标签数据出错'
+                ];
+            }
+            return $result;
+        } catch (Exception $e) {
+            echo 'Message: ' .$e->getMessage();
+        }
     }
 }

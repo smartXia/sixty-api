@@ -16,7 +16,7 @@ class UserController extends BaseController {
         $request = Yii::$app->request;
         $userModel = new Users();
         $id = $request->post('id');
-        $limit = $request->post('limit') ? $request->post('limit') : 10;
+        $limit = $request->post('limit') ? $request->post('limit') : 100;
         $page = $request->post('page') ? $request->post('page') : 1;
         return $userModel->all($id, $limit, $page);
     }
