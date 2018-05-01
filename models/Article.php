@@ -7,6 +7,7 @@
  */
 namespace app\models;
 use yii\db\ActiveRecord;
+use yii\db\Query;
 
 class Article extends ActiveRecord {
     /**
@@ -15,5 +16,41 @@ class Article extends ActiveRecord {
     static function tableName()
     {
         return 'hi_article';
+    }
+
+    public function all($id, $limit = 100, $page = 1) {
+        $offset = ($page - 1) * $limit;
+        $query = new Query;
+        $dataQuery = $query->select('*');
+        $total = $dataQuery->from('hi_article')->count();
+        try {
+            if ($id) {
+                $articleData = $dataQuery->from('hi_article')
+                    ->where('id=:id', [':id' => $id])
+                    ->all();
+            } else {
+                $articleData = $dataQuery->from('hi_article')
+                    ->limit($limit)
+                    ->offset($offset)
+                    ->orderBy('create_time desc')
+                    ->all();
+            }
+            if ($articleData) {
+                $result = [
+                    'total' => $total,
+                    'data' => $articleData,
+                    'ret' => 1
+                ];
+            } else {
+                $result = [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '获取文章数据出错'
+                ];
+            }
+            return $result;
+        } catch (Exception $e) {
+            echo 'Message: ' .$e->getMessage();
+        }
     }
 }
