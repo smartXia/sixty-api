@@ -35,7 +35,7 @@ class Article extends ActiveRecord {
                     ->orderBy('create_time desc')
                     ->all();
             }
-            if ($articleData) {
+            if (count($articleData) >= 0) {
                 $result = [
                     'total' => $total,
                     'data' => $articleData,

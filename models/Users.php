@@ -38,7 +38,7 @@ class Users extends ActiveRecord
                     ->orderBy('created_at desc')
                     ->all();
             }
-            if ($userData) {
+            if (count($userData) >= 0) {
                 $result = [
                     'total' => $total,
                     'data' => $userData,
