@@ -12,7 +12,7 @@ use Yii;
 class UserController extends BaseController {
     public $modelClass = 'app\models\Users';
 
-    function actionAll() {
+    public function actionAll() {
         $request = Yii::$app->request;
         $userModel = new Users();
         $id = $request->post('id');
@@ -21,7 +21,7 @@ class UserController extends BaseController {
         return $userModel->all($id, $limit, $page);
     }
 
-    function actionRegister() {
+    public function actionRegister() {
         $request = Yii::$app->request;
         $userModel = new Users();
         $params = $request->post();
