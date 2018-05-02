@@ -35,7 +35,7 @@ class Tag extends ActiveRecord {
                     ->orderBy('create_time desc')
                     ->all();
             }
-            if ($tagData) {
+            if (count($tagData) >= 0) {
                 $result = [
                     'total' => $total,
                     'data' => $tagData,
