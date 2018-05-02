@@ -34,7 +34,7 @@ class Http{
      *   ]
      * @return \Psr\Http\Message\ResponseInterface
      */
-    public function httpPost($repuestType="POST", $url,$data=array(), $type="form_params", $header=array(), $cookie=""){
+    public function httpPost($url,$data=array(), $type="form_params", $header=array(), $cookie=""){
         if(!$type){
             $type = "form_params";
         }
@@ -49,7 +49,7 @@ class Http{
         if($cookie){
             $request['headers']["Cookie"] = $cookie;
         }
-        return $this->client->request($repuestType, $url, $request);
+        return $this->client->request("POST", $url, $request);
     }
 
 
