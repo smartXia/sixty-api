@@ -17,7 +17,7 @@ class Token extends ActiveRecord {
         try {
             $res = $http->httpPost('POST',$url,$params);
             $res->getBody()->getContents();
-            if ($res && $res['uid']) {
+            if ($res) {
                 $result = [
                     'data' => $res,
                     'ret' => 1
@@ -39,7 +39,7 @@ class Token extends ActiveRecord {
         try {
             $res = $http->httpPost('GET', $url);
             $res->getBody()->getContents();
-            if ($res && $res['id']) {
+            if ($res) {
                 $result = [
                     'data' => $res,
                     'ret' => 1

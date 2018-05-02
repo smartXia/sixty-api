@@ -2,7 +2,6 @@
 namespace app\controllers;
 use app\models\Token;
 use Yii;
-use yii\rest\ActiveController;
 
 /**
  * Created by PhpStorm.
@@ -10,7 +9,7 @@ use yii\rest\ActiveController;
  * Date: 2017/3/11
  * Time: 下午3:02
  */
-class TokenController extends ActiveController
+class TokenController extends BaseController
 {
     public $modelClass="app\models\Token";
 
