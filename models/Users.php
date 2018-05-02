@@ -10,8 +10,7 @@ use yii\base\Model;
 use yii\db\ActiveRecord;
 use \yii\db\Query;
 
-class Users extends ActiveRecord
-{
+class Users extends ActiveRecord {
     static function tableName()
     {
         return 'hi_users';
@@ -46,7 +45,7 @@ class Users extends ActiveRecord
                 ];
             } else {
                 $result = [
-                    'ret' => 0,
+                    'ret' => -1,
                     'data' => null,
                     'msg' => '获取用户数据出错'
                 ];
