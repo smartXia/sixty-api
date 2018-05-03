@@ -60,6 +60,7 @@ class Http{
      * @return mixed|\Psr\Http\Message\ResponseInterface
      */
     public function httpGet($url,$header=array(),$cookie=""){
+        $request=[];
         //设置header
         if($header){
             $request['headers'] = $header;
@@ -68,7 +69,7 @@ class Http{
         if($cookie){
             $request['headers']["Cookie"] = $cookie;
         }
-        return $this->client->request("GET",$url,$request);
+        return $this->client->request("GET",$url, $request);
     }
 
 }

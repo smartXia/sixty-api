@@ -13,14 +13,11 @@ use yii\db\ActiveRecord;
 
 class Token extends ActiveRecord {
     public function getToken ($url, $params) {
-        var_dump($url);
-        var_dump($params);
         $http = new Http();
         try {
-            $res = $http->httpPost('POST',$url,$params);
-            var_dump($res);
-            $res->getBody()->getContents();
-            var_dump($res);
+            $query = $http->httpPost($url,$params);
+            var_dump($query);
+            $res = $query->getBody()->getContents();
             if ($res) {
                 $result = [
                     'data' => $res,
@@ -41,8 +38,8 @@ class Token extends ActiveRecord {
     public function getUser ($url) {
         $http = new Http();
         try {
-            $res = $http->httpGet($url);
-            $res->getBody()->getContents();
+            $query = $http->httpGet($url);
+            $res = $query->getBody()->getContents();
             if ($res) {
                 $result = [
                     'data' => $res,
