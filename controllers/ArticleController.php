@@ -17,7 +17,7 @@ class ArticleController extends BaseController {
         $request = Yii::$app->request;
         $articleModel = new Article();
         $id = $request->post('id');
-        $limit = $request->post('limit') ? $request->post('limit') : 100;
+        $limit = $request->post('limit') ? $request->post('limit') : 1000;
         $page = $request->post('page') ? $request->post('page') : 1;
         return $articleModel->all($id, $limit, $page);
     }

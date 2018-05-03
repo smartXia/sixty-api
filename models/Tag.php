@@ -18,7 +18,7 @@ class Tag extends ActiveRecord {
         return 'hi_tags';
     }
 
-    public function all($id, $limit = 100, $page = 1) {
+    public function all($id, $limit = 1000, $page = 1) {
         $offset = ($page - 1) * $limit;
         $query = new Query;
         $dataQuery = $query->select('*');
