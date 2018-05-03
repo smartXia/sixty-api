@@ -17,7 +17,7 @@ class UserController extends BaseController {
         $userModel = new Users();
         $id = $request->post('id');
         $weibo_uid = $request->post('weibo_uid');
-        $limit = $request->post('limit') ? $request->post('limit') : 100;
+        $limit = $request->post('limit') ? $request->post('limit') : 1000;
         $page = $request->post('page') ? $request->post('page') : 1;
         return $userModel->all($id, $weibo_uid, $limit, $page);
     }

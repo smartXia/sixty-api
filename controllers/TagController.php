@@ -17,7 +17,7 @@ class TagController extends BaseController {
         $request = Yii::$app->request;
         $TagModel = new Tag();
         $id = $request->post('id');
-        $limit = $request->post('limit') ? $request->post('limit') : 100;
+        $limit = $request->post('limit') ? $request->post('limit') : 1000;
         $page = $request->post('page') ? $request->post('page') : 1;
         return $TagModel->all($id, $limit, $page);
     }
