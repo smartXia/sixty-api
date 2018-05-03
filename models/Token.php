@@ -16,11 +16,10 @@ class Token extends ActiveRecord {
         $http = new Http();
         try {
             $query = $http->httpPost($url,$params);
-            var_dump($query);
             $res = $query->getBody()->getContents();
             if ($res) {
                 $result = [
-                    'data' => $res,
+                    'data' => json_decode($res),
                     'ret' => 1
                 ];
             } else {
@@ -42,7 +41,7 @@ class Token extends ActiveRecord {
             $res = $query->getBody()->getContents();
             if ($res) {
                 $result = [
-                    'data' => $res,
+                    'data' => json_decode($res),
                     'ret' => 1
                 ];
             } else {
