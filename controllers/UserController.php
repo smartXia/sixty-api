@@ -28,6 +28,14 @@ class UserController extends BaseController {
         $params = $request->post();
         $nickname = $params['nickname'];
         $weibo_uid = $params['weibo_uid'];
+        $checkRegister = $userModel ->all(null, $weibo_uid);
+        if ($checkRegister) {
+            return $result = [
+                'ret' => -1,
+                'data' => false,
+                'msg' => '该用户已经注册'
+            ];
+        }
         if (!$nickname) {
             return $result = [
                 'ret' => -1,
