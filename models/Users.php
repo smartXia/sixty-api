@@ -61,12 +61,12 @@ class Users extends ActiveRecord {
     }
 
     public function register ($params) {
+        $model = new Users;
+        $model -> nickname = $params['nickname'];
+        $model -> status = $params['status'];
+        $model -> avatar = $params['avatar'];
+        $model -> weibo_uid = $params['weibo_uid'];
         try {
-             $model = new Users;
-             $model -> nickname = $params['nickname'];
-             $model -> status = $params['status'];
-             $model -> avatar = $params['avatar'];
-             $model -> weibo_uid = $params['weibo_uid'];
              $result = $model->save();
              if ($result > 0) {
                  $result = [
