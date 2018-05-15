@@ -108,7 +108,7 @@ class Comment extends ActiveRecord
         }
     }
 
-    public function addComment($article_id, $user_id, $parent_id, $reply_id, $content) {
+    public function addComment($article_id, $user_id, $parent_id = 0, $reply_id = 0, $content, $user_nickname = '', $user_avatar = '', $parent_user_nickname = '') {
         try {
             $customer = new Comment();
             $customer->article_id = $article_id;
@@ -116,6 +116,9 @@ class Comment extends ActiveRecord
             $customer->parent_id = $parent_id;
             $customer->reply_id = $reply_id;
             $customer->content = $content;
+            $customer->user_nickname = $user_nickname;
+            $customer->user_avatar = $user_avatar;
+            $customer->parent_user_nickname = $parent_user_nickname;
             $res = $customer->insert();
             if ($res) {
                 $result = [
