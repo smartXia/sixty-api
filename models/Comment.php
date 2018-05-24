@@ -6,6 +6,7 @@
  * Time: 下午4:34
  */
 namespace app\models;
+use app\models\Agree;
 use yii\db\ActiveRecord;
 use yii\db\Query;
 
@@ -42,8 +43,11 @@ class Comment extends ActiveRecord
                 ->offset($offset)
                 ->all();
             if (count($articleCommentData) >= 0) {
+                $agreeModel = new Agree;
                 foreach ($articleCommentData as $key => $comment) {
-                    /*在循环里请求数据库，这做法最好不要用，我这里严格限制了每次10条数据，可能是因为w我太懒了*/
+                    /*在循环里请求数据库，这做法最好不要用，我这里严格限制了每次10条数据，可能是因为我太懒了*/
+                    $agreeTotal = $agreeModel->getAgreeTotal($comment['id']);
+                    $articleCommentData[$key]['like'] = $agreeTotal;
                     $childrenCommentData = $this->childrenComment($comment['id'], $children_limit, $children_page);
                     if ($childrenCommentData['ret'] == 1) {
                         $articleCommentData[$key]['childrenTotal'] = $childrenCommentData['total'];
@@ -90,6 +94,12 @@ class Comment extends ActiveRecord
                 ->offset($offset)
                 ->all();
             if (count($childrenCommentData) >= 0) {
+                $agreeModel = new Agree;
+                /*在循环里请求数据库，这做法最好不要用，我这里严格限制了每次10条数据，可能是因为我太懒了*/
+                foreach ($childrenCommentData as $key=>$comment) {
+                    $agreeTotal = $agreeModel->getAgreeTotal($comment['id']);
+                    $childrenCommentData[$key]['like'] = $agreeTotal;
+                }
                 $result = [
                     'total' => $total,
                     'data' => $childrenCommentData,
@@ -110,16 +120,16 @@ class Comment extends ActiveRecord
 
     public function addComment($article_id, $user_id, $parent_id = 0, $reply_id = 0, $content, $user_nickname = '', $user_avatar = '', $parent_user_nickname = '') {
         try {
-            $customer = new Comment();
-            $customer->article_id = $article_id;
-            $customer->user_id = $user_id;
-            $customer->parent_id = $parent_id;
-            $customer->reply_id = $reply_id;
-            $customer->content = $content;
-            $customer->user_nickname = $user_nickname;
-            $customer->user_avatar = $user_avatar;
-            $customer->parent_user_nickname = $parent_user_nickname;
-            $res = $customer->insert();
+            $comment = new Comment();
+            $comment->article_id = $article_id;
+            $comment->user_id = $user_id;
+            $comment->parent_id = $parent_id;
+            $comment->reply_id = $reply_id;
+            $comment->content = $content;
+            $comment->user_nickname = $user_nickname;
+            $comment->user_avatar = $user_avatar;
+            $comment->parent_user_nickname = $parent_user_nickname;
+            $res = $comment->insert();
             if ($res) {
                 $result = [
                     'data' => $res,
