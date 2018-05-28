@@ -54,9 +54,11 @@ class Comment extends ActiveRecord
                         $articleCommentData[$key]['children'] = $childrenCommentData['data'];
                     }
                 }
+                $articleComment['total'] = $total;
+                $articleComment['data'] = $articleCommentData;
                 $result = [
                     'total' => $total,
-                    'data' => $articleCommentData,
+                    'data' => $articleComment,
                     'ret' => 1
                 ];
             } else {
