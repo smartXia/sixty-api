@@ -9,8 +9,6 @@ namespace app\controllers;
 use app\models\Comment;
 use app\models\Users;
 use app\models\Agree;
-
-use phpDocumentor\Reflection\Types\Null_;
 use Yii;
 
 class CommentController extends BaseController {
