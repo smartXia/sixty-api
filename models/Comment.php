@@ -20,8 +20,8 @@ class Comment extends ActiveRecord
         return 'hi_comment';
     }
 
-    public function comment($article_id, $limit, $page, $children_limit, $children_page) {
-        if (!$article_id) {
+    public function comment($article_id, $limit, $page, $children_limit, $children_page, $type) {
+        if ($article_id = null) {
             return [
                 'ret' => 0,
                 'data' => null,
@@ -32,16 +32,31 @@ class Comment extends ActiveRecord
         $query = new Query;
         $dataQuery = $query->select('*');
         try {
-            $total = $dataQuery->from('hi_comment')
-                ->where('article_id=:article_id', [':article_id' => $article_id])
-                ->andWhere(['=', 'parent_id', 0])
-                ->count();
-            $articleCommentData = $dataQuery->from('hi_comment')
-                ->where('article_id=:article_id', [':article_id' => $article_id])
-                ->andWhere(['=', 'parent_id', 0])
-                ->limit($limit)
-                ->offset($offset)
-                ->all();
+            if ($article_id == 0) {
+                $total = $dataQuery->from('hi_comment')
+                    ->where('type=:type', [':type' => $type])
+                    ->andWhere(['=', 'parent_id', 0])
+                    ->count();
+                $articleCommentData = $dataQuery->from('hi_comment')
+                    ->where('type=:type', [':type' => $type])
+                    ->andWhere(['=', 'parent_id', 0])
+                    ->limit($limit)
+                    ->offset($offset)
+                    ->all();
+            } else {
+                $total = $dataQuery->from('hi_comment')
+                    ->where('article_id=:article_id', [':article_id' => $article_id])
+                    ->andWhere('type=:type', [':type' => $type])
+                    ->andWhere(['=', 'parent_id', 0])
+                    ->count();
+                $articleCommentData = $dataQuery->from('hi_comment')
+                    ->where('article_id=:article_id', [':article_id' => $article_id])
+                    ->andWhere('type=:type', [':type' => $type])
+                    ->andWhere(['=', 'parent_id', 0])
+                    ->limit($limit)
+                    ->offset($offset)
+                    ->all();
+            }
             if (count($articleCommentData) >= 0) {
                 $agreeModel = new Agree;
                 foreach ($articleCommentData as $key => $comment) {
@@ -120,7 +135,7 @@ class Comment extends ActiveRecord
         }
     }
 
-    public function addComment($article_id, $user_id, $parent_id = 0, $reply_id = 0, $content, $user_nickname = '', $user_avatar = '', $parent_user_nickname = '') {
+    public function addComment($article_id, $user_id, $parent_id = 0, $reply_id = 0, $content, $user_nickname = '', $user_avatar = '', $parent_user_nickname = '', $type = 'article') {
         try {
             $comment = new Comment();
             $comment->article_id = $article_id;
@@ -131,6 +146,7 @@ class Comment extends ActiveRecord
             $comment->user_nickname = $user_nickname;
             $comment->user_avatar = $user_avatar;
             $comment->parent_user_nickname = $parent_user_nickname;
+            $comment->type = $type;
             $res = $comment->insert();
             if ($res) {
                 $result = [

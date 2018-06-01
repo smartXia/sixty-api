@@ -10,6 +10,7 @@ use app\models\Comment;
 use app\models\Users;
 use app\models\Agree;
 
+use phpDocumentor\Reflection\Types\Null_;
 use Yii;
 
 class CommentController extends BaseController {
@@ -23,7 +24,8 @@ class CommentController extends BaseController {
         $page = $request->post('page') ? $request->post('page') : 1;
         $children_limit = $request->post('children_limit') ? $request->post('children_limit') : 1000;
         $children_page = $request->post('children_page') ? $request->post('children_page') : 1;
-        return $commentModel->comment($article_id, $limit, $page, $children_limit, $children_page);
+        $type = $request->post('type') ? $request->post('type') : 'article';
+        return $commentModel->comment($article_id, $limit, $page, $children_limit, $children_page, $type);
     }
 
     function actionChildren() {
@@ -43,7 +45,8 @@ class CommentController extends BaseController {
         $parent_id = $request->post('parent_id') ? $request->post('parent_id') : 0;
         $reply_id = $request->post('reply_id') ? $request->post('reply_id') : 0;
         $content = $request->post('content');
-        if (!$article_id || !$user_id || !$content) {
+        $type = $request->post('type') ? $request->post('type') : 'article';
+        if ($article_id == null || !$user_id || !$content) {
             return [
                 'ret' => 0,
                 'data' => null,
@@ -59,7 +62,7 @@ class CommentController extends BaseController {
         $user_nickname = $userData['nickname'];
         $user_avatar = $userData['avatar'];
         $parent_user_nickname = $parentUserData['nickname'];
-        return $commentModel->addComment($article_id, $user_id, $parent_id, $reply_id, $content, $user_nickname, $user_avatar, $parent_user_nickname);
+        return $commentModel->addComment($article_id, $user_id, $parent_id, $reply_id, $content, $user_nickname, $user_avatar, $parent_user_nickname, $type);
     }
 
     function actionLike() {
