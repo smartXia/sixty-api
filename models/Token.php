@@ -9,6 +9,7 @@
 namespace app\models;
 
 use app\functions\Http;
+use Behat\Gherkin\Exception\Exception;
 use yii\db\ActiveRecord;
 
 class Token extends ActiveRecord {

@@ -6,6 +6,7 @@
  * Time: 下午6:00
  */
 namespace app\models;
+use Behat\Gherkin\Exception\Exception;
 use yii\db\ActiveRecord;
 use yii\db\Query;
 

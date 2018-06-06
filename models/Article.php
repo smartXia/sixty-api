@@ -6,6 +6,7 @@
  * Time: 下午10:23
  */
 namespace app\models;
+use Prophecy\Exception\Exception;
 use yii\db\ActiveRecord;
 use yii\db\Query;
 

@@ -7,6 +7,7 @@
  */
 namespace app\models;
 use app\models\Agree;
+use Behat\Gherkin\Exception\Exception;
 use yii\db\ActiveRecord;
 use yii\db\Query;
 
