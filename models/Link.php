@@ -19,7 +19,7 @@ class Link extends ActiveRecord {
         return 'hi_link';
     }
 
-    public function all($id, $limit = 1000, $page = 1) {
+    public function all($id, $type, $limit = 1000, $page = 1) {
         $offset = ($page - 1) * $limit;
         $query = new Query;
         $dataQuery = $query->select('*');
@@ -28,12 +28,14 @@ class Link extends ActiveRecord {
             if ($id) {
                 $linkData = $dataQuery->from('hi_link')
                     ->where('id=:id', [':id' => $id])
+                    ->andWhere('type=:type', [':type' => $type])
                     ->all();
             } else {
                 $linkData = $dataQuery->from('hi_link')
                     ->limit($limit)
                     ->offset($offset)
                     ->orderBy('create_time desc')
+                    ->where('type=:type', [':type' => $type])
                     ->all();
             }
             if (count($linkData) >= 0) {
@@ -55,13 +57,14 @@ class Link extends ActiveRecord {
         }
     }
 
-    public function addLink($logo_url, $nickname, $description, $link) {
+    public function addLink($logo_url, $nickname, $description, $link, $type) {
         try {
             $linkModel = new Link();
             $linkModel->logo_url = $logo_url;
             $linkModel->nickname = $nickname;
             $linkModel->description = $description;
             $linkModel->link = $link;
+            $linkModel->type = $type;
             $res = $linkModel->insert();
             if ($res) {
                 $result = [

@@ -17,9 +17,17 @@ class LinkController extends BaseController {
         $request = Yii::$app->request;
         $linkModel = new Link();
         $id = $request->post('id');
+        $type = $request->post('type');
         $limit = $request->post('limit') ? $request->post('limit') : 1000;
         $page = $request->post('page') ? $request->post('page') : 1;
-        return $linkModel->all($id, $limit, $page);
+        if (!$type) {
+            return [
+                'ret' => 0,
+                'data' => null,
+                'msg' => '必要参数缺失'
+            ];
+        }
+        return $linkModel->all($id, $type, $limit, $page);
     }
 
     function actionAdd() {
@@ -28,7 +36,8 @@ class LinkController extends BaseController {
         $nickname = $request->post('nickname');
         $description = $request->post('description');
         $link = $request->post('link');
-        if (!$logo_url || !$nickname || !$link) {
+        $type = $request->post('type');
+        if (!$logo_url || !$nickname || !$link || !$type) {
             return [
                 'ret' => 0,
                 'data' => null,
@@ -36,6 +45,6 @@ class LinkController extends BaseController {
             ];
         }
         $linkModel = new Link();
-        return $linkModel->addLink($logo_url, $nickname, $description, $link);
+        return $linkModel->addLink($logo_url, $nickname, $description, $link, $type);
     }
 }
