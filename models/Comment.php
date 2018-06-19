@@ -22,7 +22,7 @@ class Comment extends ActiveRecord
     }
 
     public function comment($article_id, $limit, $page, $children_limit, $children_page, $type) {
-        if ($article_id = null) {
+        if ($article_id == null) {
             return [
                 'ret' => 0,
                 'data' => null,
