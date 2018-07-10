@@ -22,13 +22,13 @@ class Comment extends ActiveRecord
     }
 
     public function comment($article_id, $limit, $page, $children_limit, $children_page, $type) {
-        if ($article_id == null) {
+        /*if ($article_id == null) {
             return [
                 'ret' => 0,
                 'data' => null,
                 'msg' => '必要参数缺失'
             ];
-        }
+        }*/
         $offset = ($page - 1) * $limit;
         $query = new Query;
         $dataQuery = $query->select('*');
@@ -74,7 +74,7 @@ class Comment extends ActiveRecord
                 $articleComment['data'] = $articleCommentData;
                 $result = [
                     'total' => $total,
-                    'data' => $articleComment,
+                    'data' => $articleCommentData,
                     'ret' => 1
                 ];
             } else {
