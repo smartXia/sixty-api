@@ -21,4 +21,28 @@ class TagController extends BaseController {
         $page = $request->post('page') ? $request->post('page') : 1;
         return $TagModel->all($id, $limit, $page);
     }
+
+    function actionAdd() {
+        $request = Yii::$app->request;
+        $TagModel = new Tag();
+        $id= $request->post('id');
+        $tag_name = $request->post('name');
+        $tag_color = $request->post('color') ? $request->post('color') : 'green';
+        if (!$tag_name || $tag_name === '') {
+            return [
+                'ret' => 0,
+                'data' => null,
+                'msg' => '标签名错误'
+            ];
+        }
+        return $TagModel->addTag($id, $tag_name, $tag_color);
+    }
+
+    function actionDel() {
+        $request = Yii::$app->request;
+        $TagModel = new Tag();
+        $id= $request->post('id');
+        return $TagModel->deleteTag($id);
+    }
+
 }

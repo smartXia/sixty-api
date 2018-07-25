@@ -54,4 +54,73 @@ class Tag extends ActiveRecord {
             echo 'Message: ' .$e->getMessage();
         }
     }
+
+    public function addTag($id, $tag_name, $tag_color) {
+        try {
+            if ($id) {
+                $tagUpdate = Tag::findOne($id);
+                $tagUpdate->name = $tag_name;
+                $tagUpdate->color = $tag_color;
+                $res = $tagUpdate->update(false);
+
+            } else {
+                $tagAdd = new Tag();
+                $tagAdd->name = $tag_name;
+                $tagAdd->color = $tag_color;
+                $res = $tagAdd->insert();
+            }
+            if ($res) {
+                $result = [
+                    'data' => $res,
+                    'ret' => 1
+                ];
+            } else {
+                $result = [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '操作失败'
+                ];
+            }
+            return $result;
+        } catch (Exception $e) {
+            echo 'Message: ' .$e->getMessage();
+        }
+    }
+
+    public function deleteTag($id) {
+        try {
+            if (!$id) {
+                return [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '必要参数缺失'
+                ];
+            }
+            $agreeData = $this->all(intval($id));
+            if (count($agreeData['data']) == 0) {
+                return [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '该分类不存在'
+                ];
+            }
+            $tagDelete = Tag::findOne($id);
+            $res = $tagDelete->delete();
+            if ($res) {
+                $result = [
+                    'data' => $res,
+                    'ret' => 1
+                ];
+            } else {
+                $result = [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '删除成功'
+                ];
+            }
+            return $result;
+        } catch (Exception $e) {
+            echo 'Message: ' .$e->getMessage();
+        }
+    }
 }
