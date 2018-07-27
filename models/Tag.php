@@ -58,6 +58,14 @@ class Tag extends ActiveRecord {
     public function addTag($id, $tag_name, $tag_color) {
         try {
             if ($id) {
+                $tagData = $this->all(intval($id));
+                if (count($tagData['data']) == 0) {
+                    return [
+                        'ret' => 0,
+                        'data' => null,
+                        'msg' => '该分类不存在'
+                    ];
+                }
                 $tagUpdate = Tag::findOne($id);
                 $tagUpdate->name = $tag_name;
                 $tagUpdate->color = $tag_color;
@@ -96,8 +104,8 @@ class Tag extends ActiveRecord {
                     'msg' => '必要参数缺失'
                 ];
             }
-            $agreeData = $this->all(intval($id));
-            if (count($agreeData['data']) == 0) {
+            $tagData = $this->all(intval($id));
+            if (count($tagData['data']) == 0) {
                 return [
                     'ret' => 0,
                     'data' => null,

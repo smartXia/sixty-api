@@ -54,4 +54,91 @@ class Article extends ActiveRecord {
             echo 'Message: ' .$e->getMessage();
         }
     }
+
+    public function addArticle($id, $title, $category_id = 0, $introduction, $nickname, $cover_picture, $content, $tag_ids) {
+        try {
+            if ($id) {
+                $articleData = $this->all(intval($id));
+                if (count($articleData['data']) == 0) {
+                    return [
+                        'ret' => 0,
+                        'data' => null,
+                        'msg' => '该文章不存在'
+                    ];
+                }
+                $articleUpdate = Article::findOne($id);
+                $articleUpdate->title = $title;
+                $articleUpdate->category_id = $category_id;
+                $articleUpdate->introduction = $introduction;
+                $articleUpdate->nickname = $nickname;
+                $articleUpdate->cover_picture = $cover_picture;
+                $articleUpdate->content = $content;
+                $articleUpdate->tag_ids = $tag_ids;
+                $res = $articleUpdate->update(false);
+
+            } else {
+                $articleAdd = new Article();
+                $articleAdd->title = $title;
+                $articleAdd->category_id = $category_id;
+                $articleAdd->introduction = $introduction;
+                $articleAdd->nickname = $nickname;
+                $articleAdd->cover_picture = $cover_picture;
+                $articleAdd->content = $content;
+                $articleAdd->tag_ids = $tag_ids;
+                $res = $articleAdd->insert();
+            }
+            if ($res) {
+                $result = [
+                    'data' => $res,
+                    'ret' => 1
+                ];
+            } else {
+                $result = [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '操作失败'
+                ];
+            }
+            return $result;
+        } catch (Exception $e) {
+            echo 'Message: ' .$e->getMessage();
+        }
+    }
+
+    public function deleteArticle($id) {
+        try {
+            if (!$id) {
+                return [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '必要参数缺失'
+                ];
+            }
+            $articleData = $this->all(intval($id));
+            if (count($articleData['data']) == 0) {
+                return [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '该文章不存在'
+                ];
+            }
+            $articleDelete = Article::findOne($id);
+            $res = $articleDelete->delete();
+            if ($res) {
+                $result = [
+                    'data' => $res,
+                    'ret' => 1
+                ];
+            } else {
+                $result = [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '删除成功'
+                ];
+            }
+            return $result;
+        } catch (Exception $e) {
+            echo 'Message: ' .$e->getMessage();
+        }
+    }
 }

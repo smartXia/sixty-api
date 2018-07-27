@@ -44,5 +44,4 @@ class TagController extends BaseController {
         $id= $request->post('id');
         return $TagModel->deleteTag($id);
     }
-
 }

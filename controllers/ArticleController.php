@@ -21,4 +21,25 @@ class ArticleController extends BaseController {
         $page = $request->post('page') ? $request->post('page') : 1;
         return $articleModel->all($id, $limit, $page);
     }
+
+    function actionAdd() {
+        $request = Yii::$app->request;
+        $articleModel = new Article();
+        $id= $request->post('id');
+        $title = $request->post('title');
+        $category_id = $request->post('category_id');
+        $introduction = $request->post('introduction');
+        $nickname = $request->post('nickname');
+        $cover_picture = $request->post('cover_picture');
+        $content = $request->post('content');
+        $tag_ids = $request->post('tag_ids');
+        return $articleModel->addArticle($id, $title, $category_id, $introduction, $nickname, $cover_picture, $content, $tag_ids);
+    }
+
+    function actionDel() {
+        $request = Yii::$app->request;
+        $articleModel = new Article();
+        $id= $request->post('id');
+        return $articleModel->deleteArticle($id);
+    }
 }
