@@ -38,8 +38,10 @@ class Article extends ActiveRecord {
             }
             if (count($articleData) >= 0) {
                 $result = [
-                    'total' => $total,
-                    'data' => $articleData,
+                    'data' => [
+                        'items' => $articleData,
+                        'total' => $total
+                    ],
                     'ret' => 1
                 ];
             } else {

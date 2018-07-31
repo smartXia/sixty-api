@@ -18,12 +18,12 @@ class QiniuUtil {
         // 需要填写你的 Access Key 和 Secret Key
         $accessKey = '2VAFPwD3YKMSBW6u1yveyQdsnFXlG3DpOqvYjAhW';
         $secretKey = 'HG9xVuLqzFpOAJkyIgY3IBRLfGMKIOIO0Xb9E7Li';
-        $this->auth = new Auth($accessKey, $secretKey);// 构建鉴权对象
+        $this->auth = new Auth($accessKey, $secretKey); // 构建鉴权对象
         $this->token = $this->auth->uploadToken($this->bucket);
     }
 
     //上传视频的封面图片
-    function uploadVImg($imgName,$imgFilePath) {
+    function uploadImage($imgName,$imgFilePath) {
         // 初始化 UploadManager 对象并进行文件的上传。
         $uploadMgr = new UploadManager();
         //第四个参数就是上传策略数组
