@@ -12,6 +12,7 @@ use Qiniu\Storage\UploadManager;
 class QiniuUtil {
     public $auth;
     public $bucket = 'hivue';//要上传的空间
+    public $domian = 'http://lib.sixtyden.com/';//要上传的空间
     public $token;
     function __construct()
     {

@@ -9,6 +9,7 @@ namespace app\controllers;
 
 use app\models\ModelFactory;
 use Qiniu\QiniuUtil;
+use Qiniu\Storage\UploadManager;
 use Yii;
 use yii\web\UploadedFile;
 use app\models\Uploader;
@@ -45,10 +46,43 @@ class UploadController extends ComBaseController{
 
     function actionPicture() {
         $model = new Uploader();
-        if (Yii::$app->request->isPost) {
+        $request = Yii::$app->request;
+        if ($request->isPost) {
             $model->imageFile = UploadedFile::getInstance($model, 'imageFile');
             $getUploadResult = $model->upload();
             return $getUploadResult;
+        }
+        return "";
+    }
+
+    function actionBase64() {
+        $util = new QiniuUtil();
+        $uploadMgr = new UploadManager();
+        $token = $util->token;
+        $domian = $util->domian;
+        $request = Yii::$app->request;
+        if ($request->isPost) {
+            $base64 = $request->post('base64');
+            if(preg_match('/^(data:\s*image\/(\w+);base64,)/', $base64, $result)) {
+                $imgName = date('Ymdhis').'.'.$result[2];
+                $image_url = $domian.$imgName;
+                list($ret, $err) = $uploadMgr->putFile($token, $imgName, $base64);
+                if ($err !== null) {
+                    $result = [
+                        'ret' => 0,
+                        'data' => null,
+                        'msg' => $err
+                    ];
+                } else {
+                    $result = [
+                        'data' => [
+                            'url' => $image_url
+                        ],
+                        'ret' => 1
+                    ];
+                }
+                return json_encode($result);
+            }
         }
         return "";
     }
