@@ -38,8 +38,10 @@ class Tag extends ActiveRecord {
             }
             if (count($tagData) >= 0) {
                 $result = [
-                    'total' => $total,
-                    'data' => $tagData,
+                    'data' => [
+                        'items' => $tagData,
+                        'total' => $total
+                    ],
                     'ret' => 1
                 ];
             } else {
