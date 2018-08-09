@@ -14,8 +14,7 @@ class QiniuUtil {
     public $bucket = 'hivue';//要上传的空间
     public $domian = 'http://lib.sixtyden.com/';//要上传的空间
     public $token;
-    function __construct()
-    {
+    function __construct() {
         // 需要填写你的 Access Key 和 Secret Key
         $accessKey = '2VAFPwD3YKMSBW6u1yveyQdsnFXlG3DpOqvYjAhW';
         $secretKey = 'HG9xVuLqzFpOAJkyIgY3IBRLfGMKIOIO0Xb9E7Li';

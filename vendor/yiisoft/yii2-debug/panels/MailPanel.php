@@ -98,7 +98,7 @@ class MailPanel extends Panel
      */
     public function getName()
     {
-        return 'Mail';
+        return 'MailUtil';
     }
 
     /**

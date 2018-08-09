@@ -6,7 +6,7 @@
  * Time: 下午4:34
  */
 namespace app\models;
-use app\models\Agree;
+use app\models\Mail;
 use Behat\Gherkin\Exception\Exception;
 use yii\db\ActiveRecord;
 use yii\db\Query;
@@ -154,11 +154,14 @@ class Comment extends ActiveRecord
                     'data' => $res,
                     'ret' => 1
                 ];
+                // 评论成功后发邮件
+                $mail = new Mail();
+                $mail->sendMail('1025132924@qq.com', '测试邮件标题', '这是来自sixtyden的一条测试邮件内容');
             } else {
                 $result = [
                     'ret' => 0,
                     'data' => null,
-                    'msg' => '添加评论数据失败'
+                    'msg' => '添加评论失败'
                 ];
             }
             return $result;

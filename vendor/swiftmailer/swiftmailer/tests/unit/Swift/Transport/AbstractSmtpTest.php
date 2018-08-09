@@ -203,7 +203,7 @@ abstract class Swift_Transport_AbstractSmtpTest extends \SwiftMailerTestCase
         Syntax:
 
             "MAIL FROM:" ("<>" / Reverse-Path)
-                       [SP Mail-parameters] CRLF
+                       [SP MailUtil-parameters] CRLF
         -- RFC 2821, 4.1.2.
 
         Reverse-path = Path

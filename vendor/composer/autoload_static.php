@@ -56,6 +56,7 @@ class ComposerStaticInitc22a6a76a7e576c519fe0104bbd8dbd7
         array (
             'Psr\\Log\\' => 8,
             'Psr\\Http\\Message\\' => 17,
+            'PHPMailer\\PHPMailer\\' => 20,
         ),
         'G' => 
         array (
@@ -169,6 +170,10 @@ class ComposerStaticInitc22a6a76a7e576c519fe0104bbd8dbd7
         'Psr\\Http\\Message\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/http-message/src',
+        ),
+        'PHPMailer\\PHPMailer\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpmailer/phpmailer/src',
         ),
         'GuzzleHttp\\Psr7\\' => 
         array (

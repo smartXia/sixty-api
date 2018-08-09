@@ -80,7 +80,7 @@ class Debug extends Base
             'url' => 'url',
             'statusCode' => 'Status code',
             'sqlCount' => 'Query Count',
-            'mailCount' => 'Mail Count',
+            'mailCount' => 'MailUtil Count',
         ];
     }
 
