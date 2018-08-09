@@ -23,11 +23,11 @@ class Mail extends Model {
         $mail->host = 'smtp.163.com';
         $mail->fromMailAddress = 'sixtyden@163.com';
         $mail->fromMailPass = 'liulin60';
+        $mail->senderName = 'sixtyden';
         $mail->CcAddress = 'sixtyden@163.com'; // 抄送人邮箱
         $mail->recipientsAddress = $recipientsAddress; // 收件人邮箱
         $mail->subject = $subject; // 邮件标题
         $mail->body = $body;  // 邮件内容
-        $result = $mail->send();
-        var_dump($result);
+        $mail->send();
     }
 }
