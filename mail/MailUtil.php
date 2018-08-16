@@ -66,8 +66,8 @@ class MailUtil {
             $mail->Username = $this->fromMailAddress; // SMTP username(发件人邮箱)
             $mail->Password = $this->fromMailPass;    // SMTP username(发件人密码)
             $mail->CharSet = $this->charSet;          // Set charSet(设置邮件的字符编码，这很重要，不然中文乱码)
-            $mail->SMTPSecure = $this->port;          // Enable TLS encryption, `ssl` also accepted(启用TLS加密，`ssl`也被接受)
-            $mail->Port = 25;                         // TCP port to connect to(要连接的TCP端口) 常用邮箱的 SMTP 地址和端口参见：https://blog.wpjam.com/m/gmail-qmail-163mail-imap-smtp-pop3/
+            $mail->SMTPSecure = $this->SMTPSecure;          // Enable TLS encryption, `ssl` also accepted(启用TLS加密，`ssl`也被接受)
+            $mail->Port = $this->port;                         // TCP port to connect to(要连接的TCP端口) 常用邮箱的 SMTP 地址和端口参见：https://blog.wpjam.com/m/gmail-qmail-163mail-imap-smtp-pop3/
 
             // Recipients(收件人)
             $mail->setFrom($this->fromMailAddress, $this->senderName);           // 设置发件人信息，如邮件格式说明中的发件人，这里会显示为Mailer(xxxx@163.com），Mailer是当做名字显示
