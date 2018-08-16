@@ -84,8 +84,7 @@ class MailUtil {
             $mail->Subject = $this->subject;  // 邮件标题
             $mail->Body = $this->body;        // 邮件正文,可以写html，如： 'This is the html body <b>very stronge非常强壮</b>'
             //$mail->AltBody = "";            // 这个是设置纯文本方式显示的正文内容，如果不支持Html方式，就会用到这个，基本无用
-            $result = $mail->send();
-            var_dump($result);
+            $mail->send();
         } catch (Exception $e) {
             var_dump($mail->ErrorInfo);
         }
