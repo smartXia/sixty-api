@@ -23,8 +23,8 @@ class MailUtil {
     public $fromMailAddress = '';
     public $fromMailPass = '';
     public $charSet = 'UTF-8';
-    public $SMTPSecure = 'tls';
-    public $port = 25;
+    public $SMTPSecure = 'ssl';
+    public $port = 465;
 
     // Sender(发件人)
     public $senderName = '';
