@@ -72,9 +72,14 @@ class MailUtil {
             // Recipients(收件人)
             $mail->setFrom($this->fromMailAddress, $this->senderName);           // 设置发件人信息，如邮件格式说明中的发件人，这里会显示为Mailer(xxxx@163.com），Mailer是当做名字显示
             $mail->addAddress($this->recipientsAddress, $this->recipientsName);  // 设置收件人信息，如邮件格式说明中的收件人，这里会显示为Liang(yyyy@163.com)
-            // $mail->addReplyTo($this->responderAddress, $this->responderName);    // 设置回复人信息，指的是收件人收到邮件后，如果要回复，回复邮件将发送到的邮箱地址
-            $mail->addCC($this->CcAddress, $this->CcName);                       // 设置邮件抄送人，可以只写地址，上述的设置也可以只写地址
-            // $mail->addBCC($this->secretCcAddress, $this->secretCcName);          // 设置秘密抄送人
+            // $mail->addReplyTo($this->responderAddress, $this->responderName); // 设置回复人信息，指的是收件人收到邮件后，如果要回复，回复邮件将发送到的邮箱地址
+            if ($this->CcAddress != '') {
+                $mail->addCC($this->CcAddress, $this->CcName);
+            }
+
+            if ($this->secretCcAddress != '') {
+                $mail->addBCC($this->secretCcAddress, $this->secretCcName);
+            }
 
             // Attachments(附件)
             // $mail->addAttachment($this->attachmentsPath, $this->attachmentsName); // 上传附件，第二参数为name，可以不传

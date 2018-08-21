@@ -26,6 +26,13 @@ class CommentController extends BaseController {
         return $commentModel->comment($article_id, $limit, $page, $children_limit, $children_page, $type);
     }
 
+    function actionGetbyid() {
+        $request = Yii::$app->request;
+        $commentModel = new Comment();
+        $comment_id = $request->post('id');
+        return $commentModel->getCommentById($comment_id);
+    }
+
     function actionChildren() {
         $request = Yii::$app->request;
         $commentModel = new Comment();
@@ -44,6 +51,8 @@ class CommentController extends BaseController {
         $reply_id = $request->post('reply_id') ? $request->post('reply_id') : 0;
         $content = $request->post('content');
         $type = $request->post('type') ? $request->post('type') : 'article';
+        $email = $request->post('email');
+        $article_title = $request->post('article_title');
         if ($article_id == null || !$user_id || !$content) {
             return [
                 'ret' => 0,
@@ -60,7 +69,19 @@ class CommentController extends BaseController {
         $user_nickname = $userData['nickname'];
         $user_avatar = $userData['avatar'];
         $parent_user_nickname = $parentUserData['nickname'];
-        return $commentModel->addComment($article_id, $user_id, $parent_id, $reply_id, $content, $user_nickname, $user_avatar, $parent_user_nickname, $type);
+        return $commentModel->addComment(
+            $article_id,
+            $user_id,
+            $parent_id,
+            $reply_id,
+            $content,
+            $user_nickname,
+            $user_avatar,
+            $parent_user_nickname,
+            $type,
+            $email,
+            $article_title
+        );
     }
 
     function actionLike() {
