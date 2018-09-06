@@ -26,9 +26,18 @@ class Article extends ActiveRecord {
         $total = $dataQuery->from('hi_article')->count();
         try {
             if ($id) {
+                $nextArticle = $dataQuery->from('hi_article')
+                    ->where('id>:id', [':id' => $id])
+                    ->one();
+                $preArticle = $dataQuery->from('hi_article')
+                    ->where('id<:id', [':id' => $id])
+                    ->orderBy('create_time desc')
+                    ->one();
                 $articleData = $dataQuery->from('hi_article')
                     ->where('id=:id', [':id' => $id])
                     ->all();
+                $articleData[0]['nextArticle'] = $nextArticle;
+                $articleData[0]['preArticle'] = $preArticle;
             } else {
                 $articleData = $dataQuery->from('hi_article')
                     ->limit($limit)
