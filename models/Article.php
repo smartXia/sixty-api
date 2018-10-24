@@ -66,7 +66,7 @@ class Article extends ActiveRecord {
         }
     }
 
-    public function addArticle($id, $title, $category_id = 0, $introduction, $nickname, $cover_picture, $content, $tag_ids) {
+    public function addArticle($id, $title, $music_id, $category_id = 0, $introduction, $nickname, $cover_picture, $content, $tag_ids) {
         try {
             if ($id) {
                 $articleData = $this->all(intval($id));
@@ -80,6 +80,7 @@ class Article extends ActiveRecord {
                 $articleUpdate = Article::findOne($id);
                 $articleUpdate->title = $title;
                 $articleUpdate->category_id = $category_id;
+                $articleUpdate->music_id = $music_id;
                 $articleUpdate->introduction = $introduction;
                 $articleUpdate->nickname = $nickname;
                 $articleUpdate->cover_picture = $cover_picture;
@@ -91,6 +92,7 @@ class Article extends ActiveRecord {
                 $articleAdd = new Article();
                 $articleAdd->title = $title;
                 $articleAdd->category_id = $category_id;
+                $articleAdd->music_id = $music_id;
                 $articleAdd->introduction = $introduction;
                 $articleAdd->nickname = $nickname;
                 $articleAdd->cover_picture = $cover_picture;
