@@ -43,6 +43,7 @@ class Comment extends ActiveRecord
                     ->andWhere(['=', 'parent_id', 0])
                     ->limit($limit)
                     ->offset($offset)
+                    ->orderBy('create_time desc')
                     ->all();
             } else {
                 $total = $dataQuery->from('hi_comment')
@@ -56,6 +57,7 @@ class Comment extends ActiveRecord
                     ->andWhere(['=', 'parent_id', 0])
                     ->limit($limit)
                     ->offset($offset)
+                    ->orderBy('create_time desc')
                     ->all();
             }
             if (count($articleCommentData) >= 0) {
