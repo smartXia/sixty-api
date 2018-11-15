@@ -66,6 +66,47 @@ class Article extends ActiveRecord {
         }
     }
 
+    /**
+     * @param $filter
+     * @param int $limit
+     * @param int $page
+     * @return array
+     */
+    public function flter($filter, $limit = 1000, $page = 1) {
+        $offset = ($page - 1) * $limit;
+        $query = new Query;
+        $dataQuery = $query->select('*');
+        $total = 0;
+        try {
+            if ($filter['tagId']) {
+                $total = $dataQuery->from('hi_article')
+                    ->where(new \yii\db\Expression('FIND_IN_SET(:cat_to_find, tag_ids)'))
+                    ->addParams([':cat_to_find' => $filter['tagId']])
+                    ->count();
+
+                $articleData = $dataQuery->from('hi_article')
+                    ->limit($limit)
+                    ->offset($offset)
+                    ->orderBy('create_time desc')
+                    ->where(new \yii\db\Expression('FIND_IN_SET(:cat_to_find, tag_ids)'))
+                    ->addParams([':cat_to_find' => $filter['tagId']])
+                    ->all();
+            }
+
+            $result = [
+                'data' => [
+                    'items' => $articleData,
+                    'total' => $total
+                ],
+                'ret' => 1
+            ];
+
+            return $result;
+        } catch (Exception $e) {
+            echo 'Message: ' .$e->getMessage();
+        }
+    }
+
     public function addArticle($id, $title, $music_id, $category_id = 0, $introduction, $nickname, $cover_picture, $content, $tag_ids) {
         try {
             if ($id) {

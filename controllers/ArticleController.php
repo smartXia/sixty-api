@@ -22,6 +22,15 @@ class ArticleController extends BaseController {
         return $articleModel->all($id, $limit, $page);
     }
 
+    function actionFilter() {
+        $request = Yii::$app->request;
+        $articleModel = new Article();
+        $filter = $request->post('filter');
+        $limit = $request->post('limit') ? $request->post('limit') : 1000;
+        $page = $request->post('page') ? $request->post('page') : 1;
+        return $articleModel->flter($filter, $limit, $page);
+    }
+
     function actionAdd() {
         $request = Yii::$app->request;
         $articleModel = new Article();
