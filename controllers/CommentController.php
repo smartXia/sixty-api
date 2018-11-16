@@ -18,11 +18,11 @@ class CommentController extends BaseController {
         $request = Yii::$app->request;
         $commentModel = new Comment();
         $article_id = $request->post('article_id');
-        $limit = $request->post('limit') ? $request->post('limit') : 1000;
+        $limit = $request->post('limit') ? $request->post('limit') : 20;
         $page = $request->post('page') ? $request->post('page') : 1;
-        $children_limit = $request->post('children_limit') ? $request->post('children_limit') : 1000;
+        $children_limit = $request->post('children_limit') ? $request->post('children_limit') : 20;
         $children_page = $request->post('children_page') ? $request->post('children_page') : 1;
-        $type = $request->post('type') ? $request->post('type') : 'article';
+        $type = $request->post('type');
         return $commentModel->comment($article_id, $limit, $page, $children_limit, $children_page, $type);
     }
 

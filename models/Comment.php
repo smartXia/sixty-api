@@ -33,33 +33,41 @@ class Comment extends ActiveRecord
         $query = new Query;
         $dataQuery = $query->select('*');
         try {
-            if ($article_id == 0) {
+            if ($article_id != null && $article_id == 0) {
                 $total = $dataQuery->from('hi_comment')
                     ->where('type=:type', [':type' => $type])
                     ->andWhere(['=', 'parent_id', 0])
                     ->count();
                 $articleCommentData = $dataQuery->from('hi_comment')
                     ->where('type=:type', [':type' => $type])
+                    ->andWhere(['=', 'parent_id', 0])
+                    ->limit($limit)
+                    ->offset($offset)
+                    ->orderBy('create_time desc')
+                    ->all();
+            } else if ($type != null) {
+                $total = $dataQuery->from('hi_comment')
+                    ->where('article_id=:article_id', [':article_id' => $article_id])
+                    ->andWhere('type=:type', [':type' => $type])
+                    ->andWhere(['=', 'parent_id', 0])
+                    ->count();
+                $articleCommentData = $dataQuery->from('hi_comment')
+                    ->where('article_id=:article_id', [':article_id' => $article_id])
+                    ->andWhere('type=:type', [':type' => $type])
                     ->andWhere(['=', 'parent_id', 0])
                     ->limit($limit)
                     ->offset($offset)
                     ->orderBy('create_time desc')
                     ->all();
             } else {
-                $total = $dataQuery->from('hi_comment')
-                    ->where('article_id=:article_id', [':article_id' => $article_id])
-                    ->andWhere('type=:type', [':type' => $type])
-                    ->andWhere(['=', 'parent_id', 0])
-                    ->count();
+                $total = $dataQuery->from('hi_comment')->count();
                 $articleCommentData = $dataQuery->from('hi_comment')
-                    ->where('article_id=:article_id', [':article_id' => $article_id])
-                    ->andWhere('type=:type', [':type' => $type])
-                    ->andWhere(['=', 'parent_id', 0])
                     ->limit($limit)
                     ->offset($offset)
                     ->orderBy('create_time desc')
                     ->all();
             }
+
             if (count($articleCommentData) >= 0) {
                 $agreeModel = new Agree;
                 foreach ($articleCommentData as $key => $comment) {
