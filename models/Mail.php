@@ -33,7 +33,7 @@ class Mail extends Model {
         $mail = new MailUtil();
         $mail->host = 'smtp.163.com';
         $mail->fromMailAddress = 'sixtyden@163.com';
-        $mail->fromMailPass = 'liulin60';
+        $mail->fromMailPass = ''; // 请换成你的
         $mail->senderName = 'sixtyden';
         if ($reply_email || $parent_email) {
             if (filter_var($reply_email, FILTER_VALIDATE_EMAIL)) {
