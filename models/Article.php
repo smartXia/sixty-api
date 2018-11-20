@@ -77,8 +77,9 @@ class Article extends ActiveRecord {
         $query = new Query;
         $dataQuery = $query->select('*');
         $total = 0;
+        $articleData = [];
         try {
-            if ($filter['tagId']) {
+            if (array_key_exists('tagId', $filter)) {
                 $total = $dataQuery->from('hi_article')
                     ->where(new \yii\db\Expression('FIND_IN_SET(:cat_to_find, tag_ids)'))
                     ->addParams([':cat_to_find' => $filter['tagId']])
@@ -90,6 +91,21 @@ class Article extends ActiveRecord {
                     ->orderBy('create_time desc')
                     ->where(new \yii\db\Expression('FIND_IN_SET(:cat_to_find, tag_ids)'))
                     ->addParams([':cat_to_find' => $filter['tagId']])
+                    ->all();
+            }
+
+            if (array_key_exists('keywords', $filter)) {
+                $total = $dataQuery->from('hi_article')
+                    ->where('title LIKE :title', array(':title' => '%'.$filter['keywords'].'%'))
+                    ->orWhere('content LIKE :content', array(':content' => '%'.$filter['keywords'].'%'))
+                    ->count();
+
+                $articleData = $dataQuery->from('hi_article')
+                    ->limit($limit)
+                    ->offset($offset)
+                    ->orderBy('create_time desc')
+                    ->where('title LIKE :title', array(':title' => '%'.$filter['keywords'].'%'))
+                    ->orWhere('content LIKE :content', array(':content' => '%'.$filter['keywords'].'%'))
                     ->all();
             }
 
