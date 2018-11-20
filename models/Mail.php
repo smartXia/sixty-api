@@ -32,8 +32,8 @@ class Mail extends Model {
             <p>如果你不想收到该邮件，请联系管理员，邮箱：hiliulin@aliyun.com</p>";
         $mail = new MailUtil();
         $mail->host = 'smtp.163.com';
-        $mail->fromMailAddress = 'sixtyden@163.com';
-        $mail->fromMailPass = 'liulin60';
+        $mail->fromMailAddress = 'sixtyden@163.com'; // 请换成你的
+        $mail->fromMailPass = ''; // 请换成你的
         $mail->senderName = 'sixtyden';
         if ($reply_email || $parent_email) {
             if (filter_var($reply_email, FILTER_VALIDATE_EMAIL)) {
