@@ -44,8 +44,10 @@ class Users extends ActiveRecord {
             }
             if (count($userData) >= 0) {
                 $result = [
-                    'total' => $total,
-                    'data' => $userData,
+                    'data' => [
+                        'items' => $userData,
+                        'total' => $total
+                    ],
                     'ret' => 1
                 ];
             } else {
