@@ -64,8 +64,8 @@ class CommentController extends BaseController {
         $commentModel = new Comment();
         $userResult = $userModel->all($user_id);
         $parentUserResult = $userModel->all($parent_user_id);
-        $userData = $userResult && $userResult['data'] ? $userResult['data'][0] : [];
-        $parentUserData = $parentUserResult && $parentUserResult['data'] ? $parentUserResult['data'][0] : [];
+        $userData = $userResult && $userResult['data'] ? $userResult['data']['items'][0] : [];
+        $parentUserData = $parentUserResult && $parentUserResult['data'] ? $parentUserResult['data']['items'][0] : [];
         $user_nickname = $userData['nickname'];
         $user_avatar = $userData['avatar'];
         $parent_user_nickname = $parentUserData['nickname'];
