@@ -96,6 +96,8 @@ class Users extends ActiveRecord {
             $userData = $dataQuery->from('hi_users')
                 ->where('nickname=:nickname', [':nickname' => $nickname])
                 ->all();
+            var_dump($userData);
+            die();
             if (count($userData) == 0) {
                 return [
                     'ret' => 0,
