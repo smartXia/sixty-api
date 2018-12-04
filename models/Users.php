@@ -91,13 +91,11 @@ class Users extends ActiveRecord {
 
     public function login ($nickname, $pass) {
         $query = new Query;
-        $dataQuery = $query->select(['id', 'nickname', 'avatar', 'status', 'created_at', 'updated_at', 'weibo_uid']);
+        $dataQuery = $query->select(['id', 'nickname', 'password', 'avatar', 'status', 'created_at', 'updated_at', 'weibo_uid']);
         try {
             $userData = $dataQuery->from('hi_users')
                 ->where('nickname=:nickname', [':nickname' => $nickname])
                 ->all();
-            var_dump($userData);
-            die();
             if (count($userData) == 0) {
                 return [
                     'ret' => 0,
