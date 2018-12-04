@@ -58,29 +58,7 @@ class UserController extends BaseController {
         $userModel = new Users();
         $params = $request->post();
         $nickname = $params['nickname'];
-        $weibo_uid = $params['weibo_uid'];
-        $checkRegister = $userModel ->all(null, $weibo_uid);
-        if ($checkRegister) {
-            return $result = [
-                'ret' => -1,
-                'data' => false,
-                'msg' => '该用户已经注册'
-            ];
-        }
-        if (!$nickname) {
-            return $result = [
-                'ret' => -1,
-                'data' => false,
-                'msg' => '用户昵称不能为空'
-            ];
-        }
-        if (!$weibo_uid) {
-            return $result = [
-                'ret' => -1,
-                'data' => false,
-                'msg' => '必须参数缺失'
-            ];
-        }
-        return $userModel->register($params);
+        $password = $params['pass'];
+        return $userModel->login($nickname, $password);
     }
 }
