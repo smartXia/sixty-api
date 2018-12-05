@@ -98,7 +98,7 @@ class Users extends ActiveRecord {
                 ->all();
             if (count($userData) == 0) {
                 return [
-                    'ret' => 1,
+                    'ret' => -1,
                     'data' => null,
                     'msg' => '用户不存在'
                 ];
@@ -106,7 +106,7 @@ class Users extends ActiveRecord {
 
             if ($userData[0]['nickname'] != 'SixtyDen') {
                 return [
-                    'ret' => 1,
+                    'ret' => -1,
                     'data' => null,
                     'msg' => '不是管理员'
                 ];
@@ -114,7 +114,7 @@ class Users extends ActiveRecord {
 
             if ($userData[0]['password'] != $pass) {
                 return [
-                    'ret' => 1,
+                    'ret' => -1,
                     'data' => null,
                     'msg' => '密码错误'
                 ];
