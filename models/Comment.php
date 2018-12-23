@@ -90,6 +90,30 @@ class Comment extends ActiveRecord
         }
     }
 
+    public function commentCount($article_id)
+    {
+        if ($article_id == null) {
+            return [
+                'ret' => 0,
+                'data' => null,
+                'msg' => '必要参数缺失'
+            ];
+        }
+        $query = new Query;
+        $dataQuery = $query->select('*');
+        try {
+            $total = $dataQuery->from('hi_comment')
+                ->where('article_id=:article_id', [':article_id' => $article_id])
+                ->count();
+            return [
+                'data' => $total,
+                'ret' => 1
+            ];
+        } catch (Exception $e) {
+            echo 'Message: ' . $e->getMessage();
+        }
+    }
+
     public function childrenComment($parent_id, $limit, $page) {
         $offset = ($page - 1) * $limit;
         $query = new Query;

@@ -26,6 +26,13 @@ class CommentController extends BaseController {
         return $commentModel->comment($article_id, $limit, $page, $children_limit, $children_page, $type);
     }
 
+    function actionCount() {
+        $request = Yii::$app->request;
+        $commentModel = new Comment();
+        $article_id = $request->post('article_id');
+        return $commentModel->commentCount($article_id);
+    }
+
     function actionChildren() {
         $request = Yii::$app->request;
         $commentModel = new Comment();
