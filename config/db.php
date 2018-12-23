@@ -5,5 +5,5 @@ return [
     'dsn' => 'mysql:host=101.200.52.143;dbname=sixty',
     'username' => 'root',
     'password' => '60+Hzjswlgbsj',
-    'charset' => 'utf8',
+    'charset' => 'utf8mb4',
 ];

@@ -33,7 +33,7 @@ class Comment extends ActiveRecord
         $query = new Query;
         $dataQuery = $query->select('*');
         try {
-            if ($article_id == 0) {
+            if ($article_id != null && $article_id == 0) {
                 $total = $dataQuery->from('hi_comment')
                     ->where('type=:type', [':type' => $type])
                     ->andWhere(['=', 'parent_id', 0])
@@ -43,21 +43,31 @@ class Comment extends ActiveRecord
                     ->andWhere(['=', 'parent_id', 0])
                     ->limit($limit)
                     ->offset($offset)
+                    ->orderBy('create_time desc')
+                    ->all();
+            } else if ($type != null) {
+                $total = $dataQuery->from('hi_comment')
+                    ->where('article_id=:article_id', [':article_id' => $article_id])
+                    ->andWhere('type=:type', [':type' => $type])
+                    ->andWhere(['=', 'parent_id', 0])
+                    ->count();
+                $articleCommentData = $dataQuery->from('hi_comment')
+                    ->where('article_id=:article_id', [':article_id' => $article_id])
+                    ->andWhere('type=:type', [':type' => $type])
+                    ->andWhere(['=', 'parent_id', 0])
+                    ->limit($limit)
+                    ->offset($offset)
+                    ->orderBy('create_time desc')
                     ->all();
             } else {
-                $total = $dataQuery->from('hi_comment')
-                    ->where('article_id=:article_id', [':article_id' => $article_id])
-                    ->andWhere('type=:type', [':type' => $type])
-                    ->andWhere(['=', 'parent_id', 0])
-                    ->count();
+                $total = $dataQuery->from('hi_comment')->count();
                 $articleCommentData = $dataQuery->from('hi_comment')
-                    ->where('article_id=:article_id', [':article_id' => $article_id])
-                    ->andWhere('type=:type', [':type' => $type])
-                    ->andWhere(['=', 'parent_id', 0])
                     ->limit($limit)
                     ->offset($offset)
+                    ->orderBy('create_time desc')
                     ->all();
             }
+
             if (count($articleCommentData) >= 0) {
                 $agreeModel = new Agree;
                 foreach ($articleCommentData as $key => $comment) {
@@ -114,6 +124,42 @@ class Comment extends ActiveRecord
         }
     }
 
+    public function getCommentById ($id) {
+        if (!$id) {
+            return [
+                'ret' => 0,
+                'data' => null,
+                'msg' => '必要参数缺失'
+            ];
+        }
+
+        $query = new Query;
+        $dataQuery = $query->select('*');
+
+        try {
+            $comment = $dataQuery->from('hi_comment')
+                ->where('id=:id', [':id' => $id])
+                ->all();
+
+            if (count($comment) >= 0 || !$comment) {
+                $result = [
+                    'data' => $comment[0],
+                    'ret' => 1
+                ];
+            } else {
+                $result = [
+                    'ret' => 0,
+                    'data' => null,
+                    'msg' => '没有该评论'
+                ];
+            }
+
+            return $result;
+        } catch (Exception $e) {
+            echo 'Message: ' .$e->getMessage();
+        }
+    }
+
     public function childrenComment($parent_id, $limit, $page) {
         $offset = ($page - 1) * $limit;
         $query = new Query;
@@ -160,7 +206,19 @@ class Comment extends ActiveRecord
         }
     }
 
-    public function addComment($article_id, $user_id, $parent_id = 0, $reply_id = 0, $content, $user_nickname = '', $user_avatar = '', $parent_user_nickname = '', $type = 'article') {
+    public function addComment(
+        $article_id,
+        $user_id,
+        $parent_id = 0,
+        $reply_id = 0,
+        $content,
+        $user_nickname = '',
+        $user_avatar = '',
+        $parent_user_nickname = '',
+        $type = 'article',
+        $email,
+        $article_title
+    ) {
         try {
             $comment = new Comment();
             $comment->article_id = $article_id;
@@ -172,6 +230,7 @@ class Comment extends ActiveRecord
             $comment->user_avatar = $user_avatar;
             $comment->parent_user_nickname = $parent_user_nickname;
             $comment->type = $type;
+            $comment->email = $email;
             $res = $comment->insert();
             if ($res) {
                 $result = [
@@ -179,8 +238,28 @@ class Comment extends ActiveRecord
                     'ret' => 1
                 ];
                 // 评论成功后发邮件
+                $reply_email = '';
+                $parent_email = '';
+                if ($reply_id > 0) {
+                    $reply_comment = $this->getCommentById($reply_id);
+                    if ($reply_comment && $reply_comment['data']) {
+                        $reply_email = $reply_comment['data']['email'];
+                    }
+                }
+
+                if ($parent_id > 0) {
+                    $parent_comment = $this->getCommentById($parent_id);
+                    if ($parent_comment && $parent_comment['data']) {
+                        $parent_email = $parent_comment['data']['email'];
+                    }
+                }
+
+                if ($reply_id == 0 && $parent_id == 0) {
+                    $parent_email = '1025132924@qq.com';
+                }
+
                 $mail = new Mail();
-                $mail->sendMail('1025132924@qq.com', '测试邮件标题', '这是来自sixtyden的一条测试邮件内容');
+                $mail->sendMail($parent_email, $reply_email, $article_title, $content, $article_id);
             } else {
                 $result = [
                     'ret' => 0,

@@ -23,8 +23,8 @@ class MailUtil {
     public $fromMailAddress = '';
     public $fromMailPass = '';
     public $charSet = 'UTF-8';
-    public $SMTPSecure = 'tls';
-    public $port = 25;
+    public $SMTPSecure = 'ssl';
+    public $port = 465;
 
     // Sender(发件人)
     public $senderName = '';
@@ -66,15 +66,20 @@ class MailUtil {
             $mail->Username = $this->fromMailAddress; // SMTP username(发件人邮箱)
             $mail->Password = $this->fromMailPass;    // SMTP username(发件人密码)
             $mail->CharSet = $this->charSet;          // Set charSet(设置邮件的字符编码，这很重要，不然中文乱码)
-            $mail->SMTPSecure = $this->port;          // Enable TLS encryption, `ssl` also accepted(启用TLS加密，`ssl`也被接受)
-            $mail->Port = 25;                         // TCP port to connect to(要连接的TCP端口) 常用邮箱的 SMTP 地址和端口参见：https://blog.wpjam.com/m/gmail-qmail-163mail-imap-smtp-pop3/
+            $mail->SMTPSecure = $this->SMTPSecure;          // Enable TLS encryption, `ssl` also accepted(启用TLS加密，`ssl`也被接受)
+            $mail->Port = $this->port;                         // TCP port to connect to(要连接的TCP端口) 常用邮箱的 SMTP 地址和端口参见：https://blog.wpjam.com/m/gmail-qmail-163mail-imap-smtp-pop3/
 
             // Recipients(收件人)
             $mail->setFrom($this->fromMailAddress, $this->senderName);           // 设置发件人信息，如邮件格式说明中的发件人，这里会显示为Mailer(xxxx@163.com），Mailer是当做名字显示
             $mail->addAddress($this->recipientsAddress, $this->recipientsName);  // 设置收件人信息，如邮件格式说明中的收件人，这里会显示为Liang(yyyy@163.com)
-            // $mail->addReplyTo($this->responderAddress, $this->responderName);    // 设置回复人信息，指的是收件人收到邮件后，如果要回复，回复邮件将发送到的邮箱地址
-            $mail->addCC($this->CcAddress, $this->CcName);                       // 设置邮件抄送人，可以只写地址，上述的设置也可以只写地址
-            // $mail->addBCC($this->secretCcAddress, $this->secretCcName);          // 设置秘密抄送人
+            // $mail->addReplyTo($this->responderAddress, $this->responderName); // 设置回复人信息，指的是收件人收到邮件后，如果要回复，回复邮件将发送到的邮箱地址
+            if ($this->CcAddress != '') {
+                $mail->addCC($this->CcAddress, $this->CcName);
+            }
+
+            if ($this->secretCcAddress != '') {
+                $mail->addBCC($this->secretCcAddress, $this->secretCcName);
+            }
 
             // Attachments(附件)
             // $mail->addAttachment($this->attachmentsPath, $this->attachmentsName); // 上传附件，第二参数为name，可以不传
@@ -86,7 +91,7 @@ class MailUtil {
             //$mail->AltBody = "";            // 这个是设置纯文本方式显示的正文内容，如果不支持Html方式，就会用到这个，基本无用
             $mail->send();
         } catch (Exception $e) {
-//            var_dump($mail->ErrorInfo);
+            var_dump($mail->ErrorInfo);
         }
     }
 }

@@ -52,4 +52,13 @@ class UserController extends BaseController {
         }
         return $userModel->register($params);
     }
+
+    public function actionLogin() {
+        $request = Yii::$app->request;
+        $userModel = new Users();
+        $params = $request->post();
+        $nickname = $params['nickname'];
+        $password = $params['pass'];
+        return $userModel->login($nickname, $password);
+    }
 }

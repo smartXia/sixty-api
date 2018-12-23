@@ -26,9 +26,18 @@ class Article extends ActiveRecord {
         $total = $dataQuery->from('hi_article')->count();
         try {
             if ($id) {
+                $nextArticle = $dataQuery->from('hi_article')
+                    ->where('id>:id', [':id' => $id])
+                    ->one();
+                $preArticle = $dataQuery->from('hi_article')
+                    ->where('id<:id', [':id' => $id])
+                    ->orderBy('create_time desc')
+                    ->one();
                 $articleData = $dataQuery->from('hi_article')
                     ->where('id=:id', [':id' => $id])
                     ->all();
+                $articleData[0]['nextArticle'] = $nextArticle;
+                $articleData[0]['preArticle'] = $preArticle;
             } else {
                 $articleData = $dataQuery->from('hi_article')
                     ->limit($limit)
@@ -57,7 +66,64 @@ class Article extends ActiveRecord {
         }
     }
 
-    public function addArticle($id, $title, $category_id = 0, $introduction, $nickname, $cover_picture, $content, $tag_ids) {
+    /**
+     * @param $filter
+     * @param int $limit
+     * @param int $page
+     * @return array
+     */
+    public function flter($filter, $limit = 1000, $page = 1) {
+        $offset = ($page - 1) * $limit;
+        $query = new Query;
+        $dataQuery = $query->select('*');
+        $total = 0;
+        $articleData = [];
+        try {
+            if (array_key_exists('tagId', $filter)) {
+                $total = $dataQuery->from('hi_article')
+                    ->where(new \yii\db\Expression('FIND_IN_SET(:cat_to_find, tag_ids)'))
+                    ->addParams([':cat_to_find' => $filter['tagId']])
+                    ->count();
+
+                $articleData = $dataQuery->from('hi_article')
+                    ->limit($limit)
+                    ->offset($offset)
+                    ->orderBy('create_time desc')
+                    ->where(new \yii\db\Expression('FIND_IN_SET(:cat_to_find, tag_ids)'))
+                    ->addParams([':cat_to_find' => $filter['tagId']])
+                    ->all();
+            }
+
+            if (array_key_exists('keywords', $filter)) {
+                $total = $dataQuery->from('hi_article')
+                    ->where('title LIKE :title', array(':title' => '%'.$filter['keywords'].'%'))
+                    ->orWhere('content LIKE :content', array(':content' => '%'.$filter['keywords'].'%'))
+                    ->count();
+
+                $articleData = $dataQuery->from('hi_article')
+                    ->limit($limit)
+                    ->offset($offset)
+                    ->orderBy('create_time desc')
+                    ->where('title LIKE :title', array(':title' => '%'.$filter['keywords'].'%'))
+                    ->orWhere('content LIKE :content', array(':content' => '%'.$filter['keywords'].'%'))
+                    ->all();
+            }
+
+            $result = [
+                'data' => [
+                    'items' => $articleData,
+                    'total' => $total
+                ],
+                'ret' => 1
+            ];
+
+            return $result;
+        } catch (Exception $e) {
+            echo 'Message: ' .$e->getMessage();
+        }
+    }
+
+    public function addArticle($id, $title, $music_id, $category_id = 0, $introduction, $nickname, $cover_picture, $content, $tag_ids) {
         try {
             if ($id) {
                 $articleData = $this->all(intval($id));
@@ -71,6 +137,7 @@ class Article extends ActiveRecord {
                 $articleUpdate = Article::findOne($id);
                 $articleUpdate->title = $title;
                 $articleUpdate->category_id = $category_id;
+                $articleUpdate->music_id = $music_id;
                 $articleUpdate->introduction = $introduction;
                 $articleUpdate->nickname = $nickname;
                 $articleUpdate->cover_picture = $cover_picture;
@@ -82,6 +149,7 @@ class Article extends ActiveRecord {
                 $articleAdd = new Article();
                 $articleAdd->title = $title;
                 $articleAdd->category_id = $category_id;
+                $articleAdd->music_id = $music_id;
                 $articleAdd->introduction = $introduction;
                 $articleAdd->nickname = $nickname;
                 $articleAdd->cover_picture = $cover_picture;

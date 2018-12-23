@@ -9,6 +9,7 @@ namespace app\models;
 
 use Qiniu\QiniuUtil;
 use yii\base\Model;
+use app\functions\DeleteFile;
 
 class Uploader extends Model
 {
@@ -54,7 +55,7 @@ class Uploader extends Model
                         $result->status = 1;
                         $result->id = $image -> img_id; //这里的 img_id 是第三部save成功后自动赋值的 img_id为数据库字段名
                         //第四部：返回结果之前应该将第一步上传到服务器上的真实文件删除，以节约服务器空间，当然不删也是没问题的。
-
+                        DeleteFile::deleteDir('images/videos/');
                         return json_encode($result); //成功了，返回json结果
                     } else {
                         var_dump('上传到数据库时出错');

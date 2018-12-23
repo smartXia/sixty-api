@@ -18,19 +18,26 @@ class CommentController extends BaseController {
         $request = Yii::$app->request;
         $commentModel = new Comment();
         $article_id = $request->post('article_id');
-        $limit = $request->post('limit') ? $request->post('limit') : 1000;
+        $limit = $request->post('limit') ? $request->post('limit') : 20;
         $page = $request->post('page') ? $request->post('page') : 1;
-        $children_limit = $request->post('children_limit') ? $request->post('children_limit') : 1000;
+        $children_limit = $request->post('children_limit') ? $request->post('children_limit') : 20;
         $children_page = $request->post('children_page') ? $request->post('children_page') : 1;
-        $type = $request->post('type') ? $request->post('type') : 'article';
+        $type = $request->post('type');
         return $commentModel->comment($article_id, $limit, $page, $children_limit, $children_page, $type);
     }
 
-    function actionCount() {
+    function actionCount(){
         $request = Yii::$app->request;
         $commentModel = new Comment();
         $article_id = $request->post('article_id');
         return $commentModel->commentCount($article_id);
+    }
+
+    function actionGetbyid() {
+        $request = Yii::$app->request;
+        $commentModel = new Comment();
+        $comment_id = $request->post('id');
+        return $commentModel->getCommentById($comment_id);
     }
 
     function actionChildren() {
@@ -51,6 +58,8 @@ class CommentController extends BaseController {
         $reply_id = $request->post('reply_id') ? $request->post('reply_id') : 0;
         $content = $request->post('content');
         $type = $request->post('type') ? $request->post('type') : 'article';
+        $email = $request->post('email');
+        $article_title = $request->post('article_title');
         if ($article_id == null || !$user_id || !$content) {
             return [
                 'ret' => 0,
@@ -62,12 +71,24 @@ class CommentController extends BaseController {
         $commentModel = new Comment();
         $userResult = $userModel->all($user_id);
         $parentUserResult = $userModel->all($parent_user_id);
-        $userData = $userResult && $userResult['data'] ? $userResult['data'][0] : [];
-        $parentUserData = $parentUserResult && $parentUserResult['data'] ? $parentUserResult['data'][0] : [];
+        $userData = $userResult && $userResult['data'] ? $userResult['data']['items'][0] : [];
+        $parentUserData = $parentUserResult && $parentUserResult['data'] ? $parentUserResult['data']['items'][0] : [];
         $user_nickname = $userData['nickname'];
         $user_avatar = $userData['avatar'];
         $parent_user_nickname = $parentUserData['nickname'];
-        return $commentModel->addComment($article_id, $user_id, $parent_id, $reply_id, $content, $user_nickname, $user_avatar, $parent_user_nickname, $type);
+        return $commentModel->addComment(
+            $article_id,
+            $user_id,
+            $parent_id,
+            $reply_id,
+            $content,
+            $user_nickname,
+            $user_avatar,
+            $parent_user_nickname,
+            $type,
+            $email,
+            $article_title
+        );
     }
 
     function actionLike() {

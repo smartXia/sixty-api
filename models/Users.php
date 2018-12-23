@@ -44,8 +44,10 @@ class Users extends ActiveRecord {
             }
             if (count($userData) >= 0) {
                 $result = [
-                    'total' => $total,
-                    'data' => $userData,
+                    'data' => [
+                        'items' => $userData,
+                        'total' => $total
+                    ],
                     'ret' => 1
                 ];
             } else {
@@ -85,5 +87,45 @@ class Users extends ActiveRecord {
          } catch (Exception $e) {
              echo 'Message: ' .$e->getMessage();
          }
+    }
+
+    public function login ($nickname, $pass) {
+        $query = new Query;
+        $dataQuery = $query->select(['id', 'nickname', 'password', 'avatar', 'status', 'created_at', 'updated_at', 'weibo_uid']);
+        try {
+            $userData = $dataQuery->from('hi_users')
+                ->where('nickname=:nickname', [':nickname' => $nickname])
+                ->all();
+            if (count($userData) == 0) {
+                return [
+                    'ret' => -1,
+                    'data' => null,
+                    'msg' => '用户不存在'
+                ];
+            }
+
+            if ($userData[0]['nickname'] != 'SixtyDen') {
+                return [
+                    'ret' => -1,
+                    'data' => null,
+                    'msg' => '不是管理员'
+                ];
+            }
+
+            if ($userData[0]['password'] != $pass) {
+                return [
+                    'ret' => -1,
+                    'data' => null,
+                    'msg' => '密码错误'
+                ];
+            }
+
+            return [
+                'ret' => 1,
+                'data' => $userData[0]
+            ];
+        } catch (Exception $e) {
+            echo 'Message: ' .$e->getMessage();
+        }
     }
 }
