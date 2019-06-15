@@ -16,8 +16,8 @@ class QiniuUtil {
     public $token;
     function __construct() {
         // 需要填写你的 Access Key 和 Secret Key
-        $accessKey = '2VAFPwD3YKMSBW6u1yveyQdsnFXlG3DpOqvYjAhW';
-        $secretKey = 'HG9xVuLqzFpOAJkyIgY3IBRLfGMKIOIO0Xb9E7Li';
+        $accessKey = ''; // 改成你的
+        $secretKey = ''; // 改成你的
         $this->auth = new Auth($accessKey, $secretKey); // 构建鉴权对象
         $this->token = $this->auth->uploadToken($this->bucket);
     }
