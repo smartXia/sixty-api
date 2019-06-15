@@ -2,8 +2,8 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=101.200.52.143;dbname=sixty',
+    'dsn' => 'mysql:host=;dbname=', // 请填写
     'username' => 'root',
-    'password' => '60+Hzjswlgbsj',
+    'password' => '',
     'charset' => 'utf8mb4',
 ];
